@@ -1,0 +1,23 @@
+{
+  "contentlength": "6",
+  "pid": "Klokmose2014",
+  "cost": "$50",
+  "pid_done": "2",
+  "input_modalities": "Touch",
+  "tracking_range": "6 meters",
+  "devices_included": "Mobile device with WiFi sensor",
+  "use_cases_desc": "Local Area Artworks (LAA) in a month-long participatory art exhibition in a contemporary art gallery.\r\nIt was designed to engage visitors of the exhibition in collaboratively writing descriptions and interpretations of displayed artworks using their own personal devices.",
+  "evaluation": "Technical evaluation (distance error, accuracy)",
+  "contribution_desc": "A zero-installation WiFi proximity detection approach using proximity-adaptive HTTP responses (PHAR). The reference implementation is a low-cost alternative to indoor WiFi positioning system",
+  "tracking_accuracy": "1-6 meters distance error based on device distance to sensor and user orientation",
+  "pid_access": 1537129912,
+  "papertype": "Note",
+  "tracking_characteristic": "Distance only; Inside-out tracking",
+  "additional_hardware": "Raspberry Pi (model B); D-Link DWA-140",
+  "output_modalities": "Screen output",
+  "toolkits": "Airodump-ng; ",
+  "use_cases": "Art exhibition",
+  "tracking_tech": "WIFI",
+  "network_infrastructure": "WiFi",
+  "contribution": "Tracking technology"
+}

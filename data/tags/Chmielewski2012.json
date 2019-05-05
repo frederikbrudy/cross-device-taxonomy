@@ -1,0 +1,15 @@
+{
+  "pid_access": 1535248699,
+  "pid_done": "2",
+  "contribution_desc": "Presents the concept of \"Device Independent Architecture\", a concept to develop applications independent of the devices they run on, but to be deployed to multiple devices. Architecture, services, software engineering.",
+  "contentlength": "4",
+  "pid": "Chmielewski2012",
+  "focus": "Software",
+  "tracking_tech": "None",
+  "devices_included": "Any screen device",
+  "deployment": "None",
+  "contribution": "Toolkit, middleware",
+  "papertype": "Workshop",
+  "evaluation": "None",
+  "crossdevice_def": "multi-device applications"
+}

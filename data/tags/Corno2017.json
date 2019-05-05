@@ -1,0 +1,20 @@
+{
+  "pid_access": 1535464832,
+  "pid_done": "2",
+  "toolkits": "Node.js; jQuery; NW.js; ACE editor;",
+  "contribution_desc": "A framework for scripting rules for cross-device notifications. It assists designers in the design of how notifications should be distributed in ad hoc device constellations.",
+  "evaluation": "Preliminary (technical) evaluation",
+  "target_users": "developers",
+  "deployment": "None",
+  "pid": "Corno2017",
+  "focus": "Software",
+  "tracking_tech": "None",
+  "use_cases": "Notification distribution;",
+  "devices_included": "Any screen device;",
+  "output_modalities": "Screen output",
+  "use_cases_desc": "Used by cross-device application developers",
+  "contribution": "Toolkit, middleware; Framework",
+  "papertype": "Note",
+  "interaction_techniques": "UI distribution; notification distribution",
+  "contentlength": "6"
+}

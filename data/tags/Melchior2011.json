@@ -1,0 +1,19 @@
+{
+  "pid_access": 1535249081,
+  "user_device_rel": "n people to m devices",
+  "connection_classification": "Any; network-transparent",
+  "contribution_desc": "To facilitate the deployment of distributed user interfaces, the paper captures the aspects of a distributed UI concepts, presents an engineering method for specifying DUIs, and offers a toolkit. Focuses on the specification of the distributed UI. ",
+  "target_users": "Individual; Group work",
+  "deployment": "None",
+  "pid": "Melchior2011",
+  "focus": "Software",
+  "tracking_tech": "None",
+  "devices_included": "Any screen device",
+  "use_cases_desc": "distributed user interfaces; specification for defining distributed user interfaces and interactions",
+  "pid_done": "2",
+  "contribution": "Toolkit, middleware",
+  "papertype": "Note",
+  "evaluation": "None",
+  "crossdevice_def": "\"A Distributed User Interface (DUI) is hereby defined as any application User Interface (UI) whose components can be distributed across different displays of different computing platforms that are used by different users, whether they are working at the same place (co-located) or not (remote collaboration).\";\r\nmulti-device system; ",
+  "contentlength": "3.75"
+}

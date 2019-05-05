@@ -1,0 +1,21 @@
+{
+  "user_device_rel": "1 person to n devices",
+  "target_users": "Individual",
+  "pid": "Olsen2000",
+  "focus": "Software",
+  "pid_done": "2",
+  "scale": "Location-agnostic",
+  "input_modalities": "Speech; Keyboard; Mouse",
+  "devices_included": "Any screen device; Desktop computer; Whiteboard, large vertical display",
+  "evaluation": "None",
+  "contentlength": "10",
+  "contribution_desc": "Presents the XWeb architecture that allows for creating multi-modal interfaces for services that can be adapted to available input and output devices using device independent widget descriptions.",
+  "pid_access": 1535107947,
+  "papertype": "Full paper",
+  "output_modalities": "Screen output; Audio output; Speech",
+  "deployment": "None",
+  "interaction_techniques": "Remote control",
+  "tracking_tech": "None",
+  "network_infrastructure": "Internet",
+  "contribution": "System"
+}

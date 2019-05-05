@@ -1,0 +1,16 @@
+{
+  "pid_access": 1531306046,
+  "user_device_rel": "1 person to n devices",
+  "pid_done": "2",
+  "contribution_desc": "This paper presents a tool that generates multi-device user interfaces from communicative acts (speech theory) which specify user intentions in interactions.\r\n\r\nContribution: \"Multi-device environments\" -> \"toolkit/middleware\" -> \"user interface synthesis/generation\"",
+  "target_users": "Expert users",
+  "pid": "Falb2005",
+  "focus": "Software",
+  "papertype": "Full paper",
+  "devices_included": "Phone; Desktop computer; PDA",
+  "output_modalities": "Screen output",
+  "deployment": "None",
+  "contribution": "Toolkit, middleware",
+  "evaluation": "None",
+  "contentlength": "2"
+}

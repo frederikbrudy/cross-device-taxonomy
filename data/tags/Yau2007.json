@@ -1,0 +1,20 @@
+{
+  "user_device_rel": "1 person to n devices",
+  "pid_done": "2",
+  "scale": "Near, personal space",
+  "contribution_desc": "Dynamic lighting in virtual worlds. Although, this paper doesn't focus on cross-device interaction per se, it presents an interesting interaction where virtual characters move from a PC screen to a tablet when brought nearby.\r\n\r\n\"When the user holds the tablet near the desktop station, a humanoid character walks towards the screen and jumps to the tablet. IrDA is used to detected proximity; when the tablet is in close proximity to a desktop, the virtual character transfers from one system to another\"",
+  "evaluation": "None",
+  "contentlength": "1",
+  "deployment": "None",
+  "pid": "Yau2007",
+  "focus": "Hardware; Software",
+  "tracking_tech": "Magnetic; dual-axis gyroscope; IrDA",
+  "tracking_characteristic": "Orientation; Distance",
+  "use_cases": "Games",
+  "devices_included": "Desktop computer; Tablet",
+  "network_infrastructure": "WiFi",
+  "use_cases_desc": "Rafting game",
+  "contribution": "Interaction techniques",
+  "interaction_techniques": "Data transfer/sharing; transfer of virtual character",
+  "pid_access": 1536756333
+}

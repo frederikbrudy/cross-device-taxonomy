@@ -1,0 +1,20 @@
+{
+  "user_device_rel": "1 person to n devices",
+  "connection_classification": "P2P",
+  "scale": "Social space",
+  "contribution_desc": "Presents FarCry, an infrastructure for ad-hoc sharing of files between mobile devices and two applications: MediaNet for sharing of media files and business documents and NewsNet for sharing RSS feeds.",
+  "evaluation": "None",
+  "target_users": "Group work",
+  "pid": "Tennent2005",
+  "pid_done": "2",
+  "focus": "Software",
+  "use_cases": "None",
+  "devices_included": "Phone",
+  "network_infrastructure": "WiFi",
+  "deployment": "None",
+  "device_mount": "Handheld",
+  "contribution": "System",
+  "papertype": "Note",
+  "interaction_techniques": "Data transfer/sharing",
+  "pid_access": 1535109054
+}

@@ -1,0 +1,22 @@
+{
+  "user_device_rel": "1 person to n devices",
+  "target_users": "Individual",
+  "pid": "DiGeronimo2017a",
+  "focus": "Software",
+  "pid_done": "2",
+  "scale": "Near, personal space",
+  "input_modalities": "Touch; 3D gestures",
+  "devices_included": "Phone",
+  "use_cases_desc": "- Menu selection\r\n- Shortcuts\r\n- Data Transfer",
+  "evaluation": "User study (qualitative); Focus group",
+  "contentlength": "10",
+  "contribution_desc": "MyoShare, a system that allows content to be shared among devices using mid-air gestures that can be used at any time, independent of the current task and location of devices",
+  "pid_access": 1535624298,
+  "papertype": "Full paper",
+  "device_models": "Nexus 5, MyoWare",
+  "additional_hardware": "MyoWare",
+  "output_modalities": "Screen output",
+  "deployment": "Elicitation study; Lab study",
+  "interaction_techniques": "Data transfer/sharing; Remote control",
+  "contribution": "System"
+}

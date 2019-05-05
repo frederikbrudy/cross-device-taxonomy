@@ -1,0 +1,23 @@
+{
+  "user_device_rel": "1 person to n devices",
+  "target_users": "Individual",
+  "pid": "Han2015",
+  "focus": "Software",
+  "device_mount": "Handheld; Placed loosely around user (e.g., table)",
+  "pid_done": "2",
+  "scale": "Near, personal space",
+  "input_modalities": "Touch; Keyboard; Mouse",
+  "devices_included": "Desktop computer; Phone",
+  "use_cases_desc": "Cross-device web search",
+  "evaluation": "User study (quantitative, controlled lab experiment)",
+  "contentlength": "30",
+  "contribution_desc": "This information retrieval paper studies information seeking behaviours in cross-device (smartphone-desktop) web search and evaluates an algorithm which predicts document relevance based on mobile touch interactions for search continuation on desktop.\r\n\r\nContribution: \"cross-device interaction\" -> \"study\" -> \"usage patterns\" -> \"cross-device web search\"",
+  "pid_access": 1534774018,
+  "papertype": "Full paper",
+  "device_models": "HTC phon; Apple iPod Touch",
+  "output_modalities": "Screen output",
+  "deployment": "Lab study; Online survey",
+  "interaction_techniques": "Cross-device task chaining",
+  "use_cases": "Web search",
+  "contribution": "Study, deployment; System"
+}

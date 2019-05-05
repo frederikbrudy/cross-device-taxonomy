@@ -1,0 +1,22 @@
+{
+  "user_device_rel": "1 person to n devices",
+  "target_users": "Developers",
+  "pid": "Bellucci2011",
+  "focus": "Software",
+  "pid_done": "2",
+  "scale": "Near, personal space",
+  "input_modalities": "Touch; mouse",
+  "devices_included": "Desktop; mobile",
+  "use_cases_desc": "Any multi-device web application.\r\nExample used in paper: tetris game",
+  "evaluation": "Application examples",
+  "contentlength": "6",
+  "contribution_desc": "javascript persistence across multiple devices when migrating applications.",
+  "pid_access": 1535464620,
+  "papertype": "Full paper",
+  "device_models": "iPAQ",
+  "output_modalities": "screen-based output",
+  "deployment": "None",
+  "toolkits": "Javascript",
+  "network_infrastructure": "Wifi",
+  "contribution": "Toolkit, middleware"
+}

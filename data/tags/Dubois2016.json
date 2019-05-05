@@ -1,0 +1,21 @@
+{
+  "user_device_rel": "1 person to n devices",
+  "target_users": "Developers",
+  "pid": "Dubois2016",
+  "pid_done": "2",
+  "scale": "Near, personal space; Social space",
+  "input_modalities": "Touch; Keyboard; Mouse",
+  "devices_included": "Any screen device; Phone; Tablet; Laptop; Desktop computer",
+  "use_cases_desc": "Multi-device keynote-like application. Used to guide through the use case to discuss interaction trajectories.",
+  "evaluation": "Use case examples",
+  "contentlength": "6",
+  "contribution_desc": "Discuss using interaction trajectories to analyse multi-device applications.",
+  "pid_access": 1533052961,
+  "papertype": "Poster",
+  "output_modalities": "Screen output",
+  "deployment": "None",
+  "tracking_tech": "None",
+  "network_infrastructure": "Internet; WiFi",
+  "contribution": "Theory",
+  "crossdevice_def": "Mostly use multi-device applications terminology.\r\nNo clear definition. Describe 4 factors, though, that are relevant:\r\n1 - the type, amount and structure of information,\r\n2 - the representations of information,\r\n3 - the devices, numbers and type\r\n4- the users goals."
+}

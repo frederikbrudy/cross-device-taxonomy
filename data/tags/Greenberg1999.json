@@ -1,0 +1,17 @@
+{
+  "pid_access": 1534958682,
+  "user_device_rel": "n people to m devices",
+  "pid_done": "2",
+  "contribution_desc": "This paper describes a system called SharedNotes that allows people to share information from PDAs to public displays and back to PDAs, studied in the context of meeting room scenarios. The system makes the distinction between personal and public artifacts and aims to make the information exchange between them possible, informed by Luff and Heath's collaboration study. The paper then describes the design challenges.",
+  "evaluation": "None",
+  "target_users": "Individual; Group work",
+  "deployment": "None",
+  "pid": "Greenberg1999",
+  "papertype": "Journal Article",
+  "use_cases": "Knowledge workers; meeting room",
+  "devices_included": "PDA; Public display",
+  "use_cases_desc": "Sharing of meeting room materials",
+  "contribution": "System; Design",
+  "interaction_techniques": "Data transfer/sharing; Session continuation",
+  "contentlength": "10"
+}

@@ -1,0 +1,22 @@
+{
+  "user_device_rel": "n people to m devices",
+  "target_users": "Group work",
+  "pid": "Kreitmayer2013",
+  "focus": "Software",
+  "device_mount": "Handheld; Placed loosely around user (e.g., table)",
+  "pid_done": "2",
+  "scale": "Social space",
+  "input_modalities": "Touch",
+  "devices_included": "Tablet; Whiteboard, large vertical display",
+  "use_cases_desc": "Sense-making",
+  "evaluation": "Deployment with users",
+  "contentlength": "4",
+  "contribution_desc": "The paper explores the notion of private digital bubbles, and how the metaphor can extend to multi-user bubbles. The paper presents two case studies. The first uses eight tables and three wall displays to negotiate climate spending. The second used four tables and a projector to let pre-university students discuss personal spending behavior.",
+  "pid_access": 1535108843,
+  "papertype": "Workshop",
+  "use_cases": "Knowledge workers",
+  "output_modalities": "Screen output",
+  "deployment": "In-the-wild study",
+  "tracking_tech": "None",
+  "contribution": "Theory; Study, deployment"
+}

@@ -1,0 +1,14 @@
+{
+  "pid_access": 1534757750,
+  "user_device_rel": "n people to m devices",
+  "pid_done": "2",
+  "scale": "Location-agnostic",
+  "contribution_desc": "The authors propose a framework to describe multi-device user interfaces along ten dimensions: UI distribution, UI migration, UI granularity, trigger activation type, device sharing between multiple users, timing, interaction modalities involved, UI generation phase, UI adaption aspects, and architecture. \r\n\r\nThe framework is limited to UI distribution and no cross-device interaction. ",
+  "contentlength": "5.5",
+  "pid": "Paterno2012",
+  "papertype": "Note",
+  "deployment": "None",
+  "contribution": "Theory",
+  "evaluation": "None",
+  "crossdevice_def": "\"In distributed User Interfaces (UIs) we have solutions that allow users to exploit user interfaces distributed across multiple devices at a given time to access their applications. In migratory UIs users can change device and still access the application with some level of continuity, which means that at least some parts of the original user interface preserve their state after changing device.\" "
+}

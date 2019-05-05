@@ -1,0 +1,13 @@
+{
+  "pid_access": 1530609824,
+  "pid_done": "2",
+  "contribution_desc": "Survey of distributed user interfaces. Discussion of the overall field.\r\nExcellent definition. Good summary.",
+  "interaction_techniques": "Content redirection; Data transfer/sharing; input redirection",
+  "contentlength": "8",
+  "pid": "Elmqvist2011",
+  "papertype": "Full paper",
+  "deployment": "None",
+  "contribution": "Theory; Taxonomy",
+  "evaluation": "None",
+  "crossdevice_def": "\"A distributed user interface is a user interface whose components are distributed across one or more of the dimensions input, output, platform, space, and time\"\r\n\r\n"
+}

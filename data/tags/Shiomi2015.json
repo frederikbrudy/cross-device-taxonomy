@@ -1,0 +1,22 @@
+{
+  "user_device_rel": "n people to m devices",
+  "contentlength": "4",
+  "pid": "Shiomi2015",
+  "focus": "Software",
+  "device_mount": "Handheld",
+  "pid_done": "2",
+  "scale": "Near, personal space; Social space",
+  "input_modalities": "Touch",
+  "devices_included": "Tablet",
+  "use_cases_desc": "collaborative browsing",
+  "evaluation": "None",
+  "contribution_desc": "method to form a co-located group with detection of relative position using camera image, for enabling a user to share digital content instantly",
+  "pid_access": 1534937275,
+  "papertype": "Poster",
+  "tracking_characteristic": "Inside-out tracking; Outside-in tracking",
+  "output_modalities": "Screen output",
+  "deployment": "None",
+  "interaction_techniques": "Data transfer/sharing",
+  "tracking_tech": "Optical",
+  "contribution": "Tracking technology"
+}

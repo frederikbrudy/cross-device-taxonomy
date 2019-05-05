@@ -1,0 +1,22 @@
+{
+  "user_device_rel": "1 person to n devices",
+  "target_users": "Individual",
+  "pid": "Wang2013",
+  "focus": "Software",
+  "pid_done": "2",
+  "scale": "Location-agnostic",
+  "devices_included": "Any screen device",
+  "use_cases_desc": "Search; Cross-device web search tasks",
+  "evaluation": "Technical evaluation (e.g., runtime, roundtrip); Deployment with users",
+  "contentlength": "9",
+  "contribution_desc": "Presents a log-based study to define and characterize cross-device search behavior and predict the resumption of cross-device tasks. Shows that there are discernible patterns of search behavior associated with device transitions.",
+  "pid_access": 1535624228,
+  "papertype": "Full paper",
+  "tracking_characteristic": "Same space/network; Same user",
+  "deployment": "In-the-wild study",
+  "interaction_techniques": "Session continuation",
+  "tracking_tech": "Network; Behavior",
+  "network_infrastructure": "Internet",
+  "contribution": "Tracking technology",
+  "crossdevice_def": "A \"user searching for information [..] on his desktop before continuing the task on his mobile device. Better support for task continuation could help the user resume his restaurant search when mobile. Such contiguous cross-device tasks [are] those resumed soon on the post-switch device.\";\r\n\"a cross-device search is defined by a 7-tuple, including the personal search history, the pre-switch and post-switch queries, the pre-switch and post-switch sessions, and the devices used before and after the switch.\";\r\ncross-device search; multi-device usage"
+}

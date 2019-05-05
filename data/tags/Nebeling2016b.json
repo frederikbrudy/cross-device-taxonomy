@@ -1,0 +1,11 @@
+{
+  "pid_access": 1535289718,
+  "pid_done": "2",
+  "contribution_desc": "Gives a comprehensive overview of the state of the art of  cross-device design concepts, authoring tools and\r\ninteraction techniques. Analyzes the current tools for design and development of cross-device interfaces, and\r\npresents one of these tools, XDBrowser, in detail.",
+  "contentlength": "3",
+  "pid": "Nebeling2016b",
+  "papertype": "Tutorial; Poster",
+  "deployment": "None",
+  "contribution": "Review paper; Tutorial",
+  "crossdevice_def": "Cross-device interfaces are not only able to adapt to a wide variety of device characteristics and user preferences, but can actually migrate a user's tasks from one device to another and even distribute the interface between multiple devices jointly used by one or more users."
+}

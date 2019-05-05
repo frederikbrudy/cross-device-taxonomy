@@ -1,0 +1,19 @@
+{
+  "pid_access": 1534936694,
+  "user_device_rel": "n people to m devices",
+  "unsolved": "how to present data in complex multi-screen environments",
+  "contribution_desc": "discuss important challenges arising when presenting business data in board meetings",
+  "evaluation": "None",
+  "target_users": "Expert users",
+  "deployment": "None",
+  "pid": "Horak2016",
+  "focus": "Software",
+  "papertype": "Poster",
+  "use_cases": "Knowledge workers",
+  "devices_included": "Whiteboard, large vertical display; Tablet; Phone",
+  "use_cases_desc": "Data visualisation and exploration in multi-screen environments",
+  "pid_done": "2",
+  "contribution": "Theory",
+  "interaction_techniques": "Data transfer/sharing; Visualisation; Data exploration; UI distribution; Cross-device task chaining; Remote control",
+  "contentlength": "5"
+}

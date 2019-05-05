@@ -1,0 +1,21 @@
+{
+  "user_device_rel": "n people to m devices",
+  "target_users": "Expert users",
+  "pid": "Grote2014",
+  "pid_done": "2",
+  "input_modalities": "Touch; 3D gestures",
+  "devices_included": "Tabletop; Tangibles",
+  "evaluation": "None",
+  "contentlength": "2",
+  "contribution_desc": "case study of a tangible user interface that implements novel interaction techniques for the construction of complex queries in large data sets",
+  "pid_access": 1536779931,
+  "papertype": "Poster",
+  "tracking_characteristic": "Location 2D (relative); Location 2D; Outside-in tracking",
+  "output_modalities": "Screen output",
+  "deployment": "None",
+  "interaction_techniques": "Visualisation; Data exploration",
+  "toolkits": "Sifteo SDK, Microsoft Surface SDK 2.0",
+  "use_cases": "Knowledge workers",
+  "tracking_tech": "Optical; Fiducials",
+  "contribution": "System"
+}

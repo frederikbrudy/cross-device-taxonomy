@@ -1,0 +1,22 @@
+{
+  "target_users": "Individual",
+  "pid": "DiGeronimo2016a",
+  "focus": "Software",
+  "device_mount": "Handheld",
+  "pid_done": "2",
+  "scale": "Near, personal space",
+  "input_modalities": "Touch",
+  "devices_included": "Phone; Tablet",
+  "use_cases_desc": "Restaurant menu; 3D gallery; Cross-media browser",
+  "evaluation": "None",
+  "contentlength": "2",
+  "contribution_desc": "The paper presents two techniques: Tile-and-Tap supports rapid development of tilting gestures for web applications. Cross-Tilt-And-Tat supports rapid development of motion based gestures in multi-device scenarios.",
+  "pid_access": 1536780125,
+  "papertype": "Demo",
+  "tracking_characteristic": "Inside-out tracking",
+  "output_modalities": "Screen output",
+  "deployment": "None",
+  "use_cases": "Entertainment; Leisure",
+  "tracking_tech": "Accelerometer",
+  "contribution": "Interaction techniques"
+}

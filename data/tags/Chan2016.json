@@ -1,0 +1,22 @@
+{
+  "user_device_rel": "n people to m devices",
+  "contentlength": "1",
+  "pid": "Chan2016",
+  "focus": "Software",
+  "pid_done": "2",
+  "scale": "Near, personal space",
+  "input_modalities": "Touch; 3D gestures",
+  "use_cases_desc": "Emergency response",
+  "evaluation": "None",
+  "contribution_desc": "The paper proposes to use Area Learning tracking to enable spatially-aware ubiquitous environments.",
+  "pid_access": 1536778785,
+  "papertype": "Poster",
+  "tracking_characteristic": "Inside-out tracking",
+  "output_modalities": "Screen output",
+  "deployment": "None",
+  "interaction_techniques": "Data exploration",
+  "toolkits": "SOD Toolkit",
+  "use_cases": "Knowledge workers",
+  "tracking_tech": "Kinect; iBeacon; Area Learning",
+  "contribution": "System"
+}

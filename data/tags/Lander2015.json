@@ -1,0 +1,22 @@
+{
+  "user_device_rel": "1 person to n devices; 1 person to n devices",
+  "target_users": "Individual",
+  "pid": "Lander2015",
+  "focus": "Software",
+  "device_mount": "Wearable",
+  "pid_done": "2",
+  "scale": "Social space; Room",
+  "input_modalities": "eyes/Gaze; Touch",
+  "devices_included": "Phone; Tablet; Public display",
+  "use_cases_desc": "Selecting a display",
+  "evaluation": "None",
+  "contribution_desc": "GazeProjector, a system that allows for accurate gaze estimation on arbitrary displays independent of the user's position and orientation",
+  "pid_access": 1535464585,
+  "tracking_characteristic": "Outside-in tracking",
+  "deployment": "None",
+  "interaction_techniques": "Remote control; Selection",
+  "connection_classification": "Via remote server",
+  "tracking_tech": "Eye and gaze tracking",
+  "network_infrastructure": "WiFi",
+  "contribution": "Theory; Interaction techniques"
+}

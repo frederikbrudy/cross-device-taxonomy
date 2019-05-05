@@ -1,0 +1,19 @@
+{
+  "pid_access": 1529570655,
+  "user_device_rel": "1 person to n devices",
+  "pid_done": "2",
+  "scale": "Near, personal space; Social space; Room",
+  "input_modalities": "Touch; 3D gestures; Physical contact",
+  "target_users": "Individual",
+  "contribution_desc": "A study of naturally-occurring tablet-centric cross-device gesture modalities (multi-touch, direct contact, and mid-air gesture) for data transfer in multi-display environments (towards another tablet, tabletop, and public display). The participants prefer the multi-touch modality, but their choice is also influenced by distance to the target device and privacy concerns.",
+  "pid": "Kurdyukova2012",
+  "focus": "Software",
+  "papertype": "Note",
+  "device_models": "Apple iPad",
+  "devices_included": "Tablet; Tabletop, large horizontal display; Public display",
+  "deployment": "Lab study",
+  "device_mount": "Handheld; Placed loosely around user (e.g., table); Mounted to wall",
+  "contribution": "Study, deployment",
+  "interaction_techniques": "Data transfer/sharing",
+  "contentlength": "4"
+}

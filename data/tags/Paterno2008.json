@@ -1,0 +1,20 @@
+{
+  "pid_access": 1535107679,
+  "user_device_rel": "1 person to n devices",
+  "pid_done": "2",
+  "scale": "Location-agnostic",
+  "input_modalities": "Touch; Keyboard; Mouse",
+  "target_users": "Individual",
+  "contribution_desc": "The paper presents a system for automatically adapting desktop web sites to mobile devices and presents a study of the usability of the generated webpages. ",
+  "pid": "Paterno2008",
+  "focus": "Software",
+  "tracking_tech": "None",
+  "devices_included": "Phone; Desktop computer",
+  "output_modalities": "Screen output",
+  "deployment": "Lab study",
+  "device_mount": "Handheld",
+  "contribution": "Toolkit, middleware; Study (human factors)",
+  "papertype": "Full paper",
+  "evaluation": "User study (quantitative, controlled lab experiment)",
+  "contentlength": "8"
+}

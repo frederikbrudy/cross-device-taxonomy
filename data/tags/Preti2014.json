@@ -1,0 +1,19 @@
+{
+  "connection_classification": "P2P",
+  "scale": "Location-agnostic",
+  "contribution_desc": "A peer-to-peer based framework for mapping devices together with different modalities to create cross-device and distributed interaction using a service oriented architecture (SOA). It should enable e.g. using a smartphone to control a TV by connecting actions/gestures on the smartphone to services on the TV.",
+  "evaluation": "None",
+  "contentlength": "4",
+  "deployment": "None",
+  "pid": "Preti2014",
+  "focus": "Software",
+  "papertype": "Note",
+  "use_cases": "Entertainment",
+  "devices_included": "Phone; TV; Desktop computer",
+  "network_infrastructure": "Internet",
+  "use_cases_desc": "Control of TV from Smartphone",
+  "pid_done": "2",
+  "contribution": "System",
+  "interaction_techniques": "Remote control",
+  "pid_access": 1535108459
+}

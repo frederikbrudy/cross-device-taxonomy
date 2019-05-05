@@ -1,0 +1,22 @@
+{
+  "user_device_rel": "1 person to n devices",
+  "target_users": "Individual",
+  "pid": "Schulz2013",
+  "focus": "Software",
+  "pid_done": "2",
+  "scale": "Near, personal space",
+  "input_modalities": "eyes/gaze",
+  "devices_included": "Any screen device; eye tracker",
+  "evaluation": "None",
+  "contentlength": "2",
+  "contribution_desc": "multi-device user interface which combines a speech-based interface with several other input modalities",
+  "pid_access": 1534936370,
+  "papertype": "Poster",
+  "tracking_characteristic": "Inside-out tracking",
+  "output_modalities": "Screen output",
+  "deployment": "None",
+  "interaction_techniques": "Remote control",
+  "use_cases": "None",
+  "tracking_tech": "Eye and gaze tracking",
+  "contribution": "System"
+}

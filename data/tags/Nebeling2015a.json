@@ -1,0 +1,23 @@
+{
+  "user_device_rel": "n people to m devices; 1 person to n devices",
+  "target_users": "Group work; Individual",
+  "pid": "Nebeling2015a",
+  "focus": "Software",
+  "device_mount": "Handheld; Placed loosely around user (e.g., table); Mounted to wall",
+  "pid_done": "2",
+  "scale": "Near, personal space; Social space; Room",
+  "input_modalities": "Touch; 3D gestures",
+  "devices_included": "Phone; Tablet; Public display; Whiteboard, large vertical display",
+  "use_cases_desc": "reimplemented interactive learning environment as case study\r\n",
+  "evaluation": "Deployment with users",
+  "contentlength": "6",
+  "contribution_desc": "XDSession - a framework for cross-device application development based on a concept of cross-device sessions, not only useful for managing distribution and synchronisation, but also for logging and debugging.",
+  "pid_access": 1531220001,
+  "papertype": "Full paper",
+  "output_modalities": "Screen output",
+  "deployment": "In-the-wild study",
+  "connection_classification": "Via remote server",
+  "toolkits": "Javascript",
+  "network_infrastructure": "Internet",
+  "contribution": "System"
+}

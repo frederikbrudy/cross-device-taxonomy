@@ -1,0 +1,22 @@
+{
+  "contentlength": "4",
+  "pid": "Merrill2007",
+  "focus": "Hardware",
+  "pid_done": "2",
+  "scale": "Near, personal space",
+  "input_modalities": "3D gestures;",
+  "use_cases_desc": "Photo sorting",
+  "evaluation": "None",
+  "contribution_desc": "Small building blocks whereas each block consists sensing technology to detect nearby blocks, a screen for visual output, and wireless communication.\r\nThe paper also describes initial work on an interaction language for SNUI (sensor network user interfaces)",
+  "pid_access": 1535559162,
+  "papertype": "Note",
+  "device_models": "Siftables (aka Sifteo cubes)",
+  "output_modalities": "Screen output",
+  "deployment": "None",
+  "interaction_techniques": "Remote control; UI distribution",
+  "connection_classification": "P2P",
+  "tracking_characteristic": "Inside-out tracking; Identity; Positioning left/right/top/bottom; Relative location; Orientation (3-axis accelerometer); Orientation; Positioning left/right; Positioning top/bottom",
+  "tracking_tech": "IrDA transceivers; IMU; 3-axis accelerometer; RF radio",
+  "network_infrastructure": "RF radio, otherwise not further specified",
+  "contribution": "Tracking technology"
+}

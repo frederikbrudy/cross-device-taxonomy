@@ -1,0 +1,20 @@
+{
+  "pid_access": 1534423602,
+  "pid_done": "2",
+  "scale": "Location-agnostic",
+  "toolkits": "HTML, XML",
+  "contribution_desc": "Optimization algorithm and tool for automated cross-platform GUI generation.\r\nFocus on usability aspects.",
+  "target_users": "Expert users; Individual",
+  "pid": "Popp2013",
+  "focus": "Software",
+  "tracking_tech": "None",
+  "devices_included": "Any screen device; Phone; Tablet; Laptop; Desktop computer",
+  "network_infrastructure": "Internet; WiFi",
+  "deployment": "None",
+  "device_mount": "Handheld; Placed loosely around user (e.g., table); Mounted to wall",
+  "contribution": "Toolkit, middleware",
+  "papertype": "Full paper",
+  "evaluation": "None",
+  "crossdevice_def": "\"multi-device generation\"",
+  "contentlength": "5"
+}

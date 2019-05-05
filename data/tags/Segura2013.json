@@ -1,0 +1,18 @@
+{
+  "pid_access": 1535465028,
+  "pid_done": "2",
+  "toolkits": "academic toolkits",
+  "input_modalities": "Touch",
+  "contribution_desc": "The paper describes the plans for extending a low-fidelity multi-device prototyping toolkit to enable Wizard of Oz techniques. The existing toolkit (UISKEI) allows to sketch UIs on a tablet interface and record and replay interactions. \r\nUISKEI++ aims to extend this functionality to enable sketching of UIs and behaviour, which can adapt to varying sized and forms of devcies (e.g. tablet, phone, ...). UISKEI++ further allows to sketch behaviour and manipulate it in a Wizard of Oz way.\r\nThe descriptions are purely descriptive about PLANNED worked. ",
+  "target_users": "Expert users; developers; designers",
+  "pid": "Segura2013",
+  "focus": "Software",
+  "tracking_tech": "None",
+  "devices_included": "Any screen device",
+  "output_modalities": "Screen output",
+  "deployment": "None",
+  "contribution": "System; Prototyping Toolkit; Toolkit, middleware",
+  "papertype": "Poster",
+  "evaluation": "None",
+  "contentlength": "2.5"
+}

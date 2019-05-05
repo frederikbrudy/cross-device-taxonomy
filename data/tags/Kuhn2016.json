@@ -1,0 +1,23 @@
+{
+  "user_device_rel": "n people to m devices",
+  "target_users": "Group work; Collaborative work",
+  "pid": "Kuhn2016",
+  "focus": "Software",
+  "pid_done": "2",
+  "devices_included": "Phone",
+  "use_cases_desc": "Voting system, e.g., for rating designs during creative processes such as brainstorming. ",
+  "contentlength": "6",
+  "contribution_desc": "Interaction techniques for voting on collaboratively created artifacts. For example, rating designs created during creative work. The three interaction techniques are order to vote, shift to vote, and turn to drop.",
+  "pid_access": 1536778813,
+  "papertype": "Poster",
+  "tracking_characteristic": "Distance only ; Inside-out tracking",
+  "output_modalities": "Screen output",
+  "deployment": "None",
+  "interaction_techniques": "Voting techniques; order to vote; shift to vote; turn to drop",
+  "connection_classification": "P2P",
+  "toolkits": "Android 4.0;",
+  "use_cases": "Collaborative work;collaboration",
+  "tracking_tech": "Radio; Bluetooth; IMU; Initialize relative device positions through swipe gestures or hovering",
+  "network_infrastructure": "WiFi; Bluetooth",
+  "contribution": "Interaction techniques; Voting design solutinos during creative design"
+}

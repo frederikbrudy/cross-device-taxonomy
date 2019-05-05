@@ -1,0 +1,20 @@
+{
+  "pid_access": 1534853988,
+  "user_device_rel": "1 person to n devices",
+  "pid_done": "2",
+  "input_modalities": "Non-Voice Acoustics (lows, sip-and-puff, and directional air swipe)",
+  "contribution_desc": "This paper presents a non-voice acoustic recognition system on smartwatches. It describes one application of cross-device (between smartphone and smartwatch) data transfer using a \"sip\" and \"puff\" input. I have decided to tag this paper, because it presents a novel cross-device interaction technique.",
+  "evaluation": "Quality measurements (e.g., accuracy of tracking)",
+  "target_users": "Individual",
+  "tracking_accuracy": "78% - 98% recognition accuracy",
+  "device_models": "LG G (Android) Watch; Motorola Droid Turbo (Android) smartphone",
+  "tracking_tech": "Acoustic signals",
+  "use_cases": "Data Transfer",
+  "devices_included": "Smart watch; Phone",
+  "deployment": "Lab study",
+  "contribution": "Interaction techniques",
+  "papertype": "Full paper",
+  "interaction_techniques": "Data transfer/sharing",
+  "contentlength": "8",
+  "pid": "Reyes2016"
+}

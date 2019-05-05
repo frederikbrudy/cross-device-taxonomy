@@ -1,0 +1,22 @@
+{
+  "user_device_rel": "1 person to n devices;",
+  "target_users": "Individual",
+  "pid": "McAdam2011",
+  "device_mount": "Handheld; Placed loosely around user (e.g., table)",
+  "pid_done": "2",
+  "scale": "Near, personal space",
+  "input_modalities": "Touch",
+  "devices_included": "Phone; Tabletop, large horizontal display",
+  "evaluation": "User study (quantitative, controlled lab experiment); User study (qualitative)",
+  "contentlength": "9",
+  "contribution_desc": "This paper presents a usability study of using a mobile phone as a personal, general-purpose tangible controller for interacting with tabletops. It compares three different forms of interaction: direct touch, phone as a tangible control physically on the tabletop, and phone as a remote control (through the user interface) away from tabletop.\r\n\r\nContribution: \"cross-device interaction\" -> \"study\" -> \"usability & user experience\" -> \"remote control\"\r\n\r\nStudy measures: \"task time\", \"task accuracy\", \"subjective workload\", \"social acceptability\", \"practicality/usefulness\"",
+  "pid_access": 1534851992,
+  "papertype": "Full paper",
+  "device_models": "Microsoft Surface; Google Nexus One",
+  "output_modalities": "Screen output",
+  "deployment": "UX study",
+  "interaction_techniques": "Remote control;",
+  "connection_classification": "P2P",
+  "network_infrastructure": "Bluetooth",
+  "contribution": "Study, deployment"
+}

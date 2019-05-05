@@ -1,0 +1,21 @@
+{
+  "user_device_rel": "1 person to n devices",
+  "unsolved": "Whether users would appreciate the possibility of adapting radar maps to particular tasks and personal preferences",
+  "target_users": "Individual",
+  "pid": "Aliakseyeu2008",
+  "device_mount": "Handheld; Mounted to wall; Placed loosely around user (e.g., table)",
+  "pid_done": "2",
+  "scale": "Room",
+  "input_modalities": "Pen",
+  "devices_included": "Phone; Tablet; Whiteboard, large vertical display; Desktop computer; Tabletop, large horizontal display; Printer",
+  "evaluation": "User study (qualitative); User study (quantitative, controlled lab experiment)",
+  "contentlength": "4",
+  "contribution_desc": "This paper presents a study of whether users modify the radar view (for representing device location in multi-device environment) to improve interactions for particular tasks. They do so to more clearly represent the type or visibility of individual computers and to clarify task-related relationships between computers.\r\n\r\nContribution: \"cross-device interaction\" -> \"study\" -> \"appropriability\" -> \"multi-device visualization\"",
+  "pid_access": 1534782915,
+  "papertype": "Full paper",
+  "use_cases": "None",
+  "output_modalities": "Screen output",
+  "deployment": "Lab study",
+  "interaction_techniques": "Visualisation",
+  "contribution": "Study, deployment;"
+}

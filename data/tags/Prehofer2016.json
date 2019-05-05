@@ -1,0 +1,17 @@
+{
+  "pid_access": 1535248664,
+  "pid_done": "2",
+  "contribution_desc": "Specifying command execution in a distributed environment; Distributed UI description and operation invocation",
+  "evaluation": "None",
+  "contentlength": "9.75",
+  "pid": "Prehofer2016",
+  "focus": "Software",
+  "tracking_tech": "None",
+  "tracking_characteristic": "Multiple screens",
+  "devices_included": "Any screen device",
+  "deployment": "None",
+  "contribution": "Theory; System; Toolkit, middleware",
+  "papertype": "Full paper",
+  "interaction_techniques": "Remote control; Cross-device task chaining",
+  "crossdevice_def": "cross-device UI; cross-device interfaces; multi-device user interaction"
+}

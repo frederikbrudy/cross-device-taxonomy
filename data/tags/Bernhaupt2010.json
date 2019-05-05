@@ -1,0 +1,19 @@
+{
+  "pid_access": 1528990590,
+  "user_device_rel": "n people to m devices",
+  "unsolved": "The presented scenario has been implemented by most video streaming platforms",
+  "scale": "Near, personal space; Social space; Room",
+  "input_modalities": "Touch",
+  "target_users": "Individual",
+  "contribution_desc": "This paper describes an interaction concept for cross-media consumption. In this concept, a user can start watching a movie on one device (TV) and transfer state to another device (smartphone) to continue watching the movie on the second device.",
+  "pid": "Bernhaupt2010",
+  "pid_done": "2",
+  "papertype": "Demo",
+  "use_cases": "Entertainment",
+  "devices_included": "Phone; TV; Other devices",
+  "output_modalities": "Screen output",
+  "use_cases_desc": "Continuous media consumption from one place to another and from one device to another",
+  "contribution": "Demonstration",
+  "interaction_techniques": "Data transfer/sharing",
+  "contentlength": "4"
+}

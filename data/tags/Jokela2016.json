@@ -1,0 +1,21 @@
+{
+  "user_device_rel": "1 person to n devices",
+  "target_users": "Individual; Group work",
+  "pid": "Jokela2016",
+  "focus": "Software",
+  "device_mount": "Wearable",
+  "pid_done": "2",
+  "input_modalities": "Touch; 3D gestures",
+  "devices_included": "Smart watch; Smart glasses",
+  "evaluation": "User study (qualitative); elicitation study",
+  "contentlength": "10",
+  "contribution_desc": "Gesture elicitation study about the gestures (e.g., transfer, connection) between wearable devices, in particular smart glasses and smart watches.",
+  "pid_access": 1535461581,
+  "papertype": "Full paper",
+  "deployment": "Lab study",
+  "connection_classification": "Local master device",
+  "tracking_tech": "None",
+  "network_infrastructure": "Internet; Bluetooth",
+  "contribution": "Study (human factors); Gesture elicitation;elicitation study",
+  "crossdevice_def": "Cross-display object movement."
+}

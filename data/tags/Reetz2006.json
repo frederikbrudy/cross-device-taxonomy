@@ -1,0 +1,17 @@
+{
+  "pid_access": 1535464500,
+  "user_device_rel": "1 person to n devices",
+  "pid_done": "2",
+  "input_modalities": "Pen; touch",
+  "contribution_desc": "Superflick is an interaction techniques for moving objects to precise target locations when locations  are out of arm reach distance. In contrast to flick gestures, the user can adjust the final object location by dragging it to the desired location. It was evaluated in a controlled experiment and compared to radar and flick techniques.",
+  "evaluation": "User study (quantitative, controlled lab experiment)",
+  "target_users": "Individual; tabletop users",
+  "pid": "Reetz2006",
+  "papertype": "Full paper",
+  "devices_included": "Tabletop, large horizontal display",
+  "output_modalities": "Screen output",
+  "deployment": "Lab study",
+  "contribution": "Interaction techniques",
+  "interaction_techniques": "Data transfer/sharing; Remote control",
+  "contentlength": "7"
+}

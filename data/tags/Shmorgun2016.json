@@ -1,0 +1,9 @@
+{
+  "pid_done": "2",
+  "contribution_desc": "This WiP poster describes a survey of 35 papers on distributed user interfaces across multiple devices and the resulting design pattern taxonomy. The taxonomy follows a similar flavor of instrumental interaction, beginning from the basic actions to more complex interaction techniques.\r\n\r\nContribution: \"survey, review\" -> \"design pattern\" -> \"distributed user interfaces (which uses cross-device interaction)\"",
+  "contentlength": "6",
+  "pid": "Shmorgun2016",
+  "papertype": "Poster",
+  "contribution": "Study, deployment; Review paper",
+  "pid_access": 1531381626
+}

@@ -1,0 +1,14 @@
+{
+  "pid_access": 1530609435,
+  "unsolved": "(see above)",
+  "scale": "Near, personal space; Social space; Room",
+  "contribution_desc": "A set of questions as guidelines for the development and design of distributed user interfaces.\r\n\r\nQ1: What are the most appropriate interaction techniques? \r\nQ2: What are the devices working in the whole system? \r\nQ3: How do they communicate with each other?\r\nQ4: Where are they allocated?\r\nQ5: What parts of the user interfaces should we distribute? \r\nQ6: What are the main features of the different platforms, mainly according to compatibility, interoperability, etc.? \r\nQ7: What tasks are thought to be performed synchronously and what asynchronously? \r\nQ8: Are all de UIs thought to be co-located in the near space or in different spaces? \r\nQ9: What components of a UI may we compose and decompose?\r\nQ10: In what way users collaborate, coordinate and communicate? \r\nQ11: How can the user be aware of what the other users of the system do? \r\nQ12: Where may we find concurrency problems and other conflicts? \r\nQ13: Are we using technology properly or is there any other that could solve the problem more accurately?\r\n",
+  "contentlength": "4",
+  "pid": "Penichet2014",
+  "pid_done": "2",
+  "papertype": "Workshop",
+  "deployment": "None",
+  "contribution": "Theory",
+  "evaluation": "None",
+  "crossdevice_def": "Distributed user interfaces (DUI)\r\n\r\n\"advanced visual interface display ecosystems when more than one device is used to perform tasks on the same application\"\r\n\r\n\"coupled displays, multi-touch devices, and interactive table-tops, tablets, tangible user interfaces, eWatchs and many other devices often interconnected through the same applications.\""
+}

@@ -1,0 +1,13 @@
+{
+  "pid_access": 1534774140,
+  "user_device_rel": "n people to m devices",
+  "pid_done": "2",
+  "contribution_desc": "This paper presents an interview study with 29 developers and designers on the challenges of designing multi-device experiences, including interaction design across devices, complexity of design standards and software platforms, and tools and methods for developing and testing multi-device user experiences.\r\n\r\nContribution: \"Challenges\"",
+  "target_users": "Individual; Group work",
+  "pid": "Dong2016",
+  "papertype": "Full paper",
+  "devices_included": "Phone; Tablet; Laptop; Desktop computer; TV",
+  "deployment": "Interview",
+  "contribution": "Study, deployment;",
+  "contentlength": "10"
+}

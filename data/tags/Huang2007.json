@@ -1,0 +1,18 @@
+{
+  "pid_access": 1534853266,
+  "user_device_rel": "n people to m devices",
+  "pid_done": "2",
+  "scale": "Room; Social space",
+  "contribution_desc": "A in-the-wild study of the challenges for collaboration around large displays, including perceptions of the system: its values, usability, and availability. Other challenges include infrastructure, design constraints, organizational priorities, and user priorities and motivation.\r\n\r\nContribution: \"multi-display\" -> \"study\" -> \"design and deployment challenges\"",
+  "target_users": "Group work",
+  "deployment": "In-the-wild study",
+  "pid": "Huang2007",
+  "papertype": "Full paper",
+  "use_cases": "Knowledge workers; Collaboration",
+  "devices_included": "Whiteboard, large vertical display; Public display",
+  "use_cases_desc": "collaboration between scientists around large dispalys",
+  "device_mount": "Mounted to wall",
+  "contribution": "Study, deployment; Use-case, application",
+  "evaluation": "User study (qualitative); Deployment with users",
+  "contentlength": "10"
+}

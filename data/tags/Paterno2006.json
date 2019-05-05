@@ -1,0 +1,20 @@
+{
+  "pid_access": 1533058535,
+  "user_device_rel": "n people to m devices",
+  "connection_classification": "Via remote server",
+  "input_modalities": "Touch; Keyboard; Mouse",
+  "contribution_desc": "Provide a tool for authoring multi-device applications. Combining graphics/voice.\r\nBased on logical descriptions.",
+  "network_infrastructure": "Internet; WiFi",
+  "target_users": "Developers",
+  "pid": "Paterno2006",
+  "pid_done": "2",
+  "focus": "Software",
+  "output_modalities": "Screen output",
+  "deployment": "Lab study",
+  "papertype": "Note",
+  "contribution": "Toolkit, middleware",
+  "tracking_tech": "None",
+  "evaluation": "Preliminary user study (qualitative)",
+  "crossdevice_def": "Terminology: multi-device environments.\r\nIs really mostly about cross-platform applications.",
+  "contentlength": "7"
+}

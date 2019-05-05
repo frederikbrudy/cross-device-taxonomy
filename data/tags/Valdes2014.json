@@ -1,0 +1,23 @@
+{
+  "user_device_rel": "1 person to n devices",
+  "target_users": "Expert users",
+  "pid": "Valdes2014",
+  "focus": "Software",
+  "device_models": "Samsung SUR40; Sifteo Cubes",
+  "pid_done": "2",
+  "scale": "Near, personal space",
+  "input_modalities": "Touch; 3D gestures",
+  "devices_included": "Tangibles; Tabletop, large horizontal display; Whiteboard, large vertical display",
+  "use_cases_desc": "The presented scenario is very generic and focusses on the construction of complex queries for big data.",
+  "evaluation": "User study (qualitative)",
+  "contentlength": "9",
+  "contribution_desc": "This paper contributes a vocabulary of user-defined gestures for gestural interaction with active tangibles (in connection with an interactive screen vertical/horizontal). The interactions were elicited in a gesture elicitation study with 19 participants where participants were asked to define gestures for eight different commands (e.g., select an item from a list or display information from an active tangible on the interactive screen).",
+  "pid_access": 1536779920,
+  "use_cases": "Knowledge workers; data exploration",
+  "output_modalities": "Screen output",
+  "deployment": "Lab study",
+  "interaction_techniques": "Data transfer/sharing; Visualisation; Data exploration",
+  "toolkits": "Sifteo 1.0 C#; Microsoft Surface SDK 2.0 C#",
+  "tracking_characteristic": "Identity; Orientation; Outside-in tracking",
+  "tracking_tech": "Markerless IR Tracking; Optical; Marker-based IR Tracking; Fiducials"
+}

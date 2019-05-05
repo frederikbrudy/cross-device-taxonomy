@@ -1,0 +1,16 @@
+{
+  "pid_access": 1535108931,
+  "user_device_rel": "1 person to n devices",
+  "pid_done": "2",
+  "scale": "Near, personal space",
+  "contribution_desc": "The paper discuss the social and perceptual implications and challenges of body proximate display environments. The outcome is a number of research questions.",
+  "target_users": "Individual",
+  "pid": "Quigley2015",
+  "papertype": "Workshop",
+  "devices_included": "Any screen device",
+  "deployment": "None;",
+  "contribution": "Theory",
+  "evaluation": "None",
+  "crossdevice_def": "\"This presents an opportunity to realise \"body proximate\" display environments, employing on and around the body displays. These can be formed by combining multiple handheld, head-mounted, wrist-worn or other personal or appropriated displays.",
+  "contentlength": "5"
+}

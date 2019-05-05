@@ -1,0 +1,22 @@
+{
+  "user_device_rel": "n people to m devices",
+  "target_users": "Group work",
+  "pid": "Zagermann2016",
+  "device_mount": "Handheld; Placed loosely around user (e.g., table)",
+  "pid_done": "2",
+  "scale": "Near, personal space; Social space",
+  "input_modalities": "Touch",
+  "devices_included": "Tablet; Tabletop, large horizontal display",
+  "use_cases_desc": "Sensemaking, analystic tasks",
+  "evaluation": "User study (quantitative, controlled lab experiment); User study (qualitative)",
+  "contentlength": "10",
+  "contribution_desc": "A study of the effect of the size of a shared interactive workspace (10.6\" tablet, 27\" tabletop, and 55\" tabletop) on cross-device collaboration in terms of users' attention, awareness, and efficiency. Larger tabletops do not improve collaboration but create distraction. The study (based on the VAST 2006 Challenge [16]) examines the group behaviours and interactions with devices and analyzes the participants interaction with devices, communication activiities, and quality of work as well as users' satisfaction with the the technical system.",
+  "pid_access": 1534853340,
+  "papertype": "Full paper",
+  "device_models": "10.6",
+  "output_modalities": "Screen output",
+  "deployment": "Lab study",
+  "toolkits": "nmle (R package)",
+  "use_cases": "Collaboration; sense-making",
+  "contribution": "Study, deployment"
+}

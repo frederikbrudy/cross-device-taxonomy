@@ -1,0 +1,21 @@
+{
+  "user_device_rel": "1 person to n devices",
+  "target_users": "Individual",
+  "pid": "Trimeche2005",
+  "focus": "Software",
+  "pid_done": "2",
+  "input_modalities": "Touch; Keyboard; Mouse",
+  "devices_included": "Phone; TV",
+  "evaluation": "User study (qualitative)",
+  "contentlength": "7",
+  "contribution_desc": "System for mediating more seamless transfer of media content between devices. Proposed phone-centric system that facilitates content adaption (and transcoding operations).",
+  "pid_access": 1533215147,
+  "papertype": "Full paper",
+  "output_modalities": "Screen output; video output",
+  "deployment": "Preliminary user study.",
+  "connection_classification": "Local master device",
+  "tracking_tech": "None",
+  "network_infrastructure": "WiFi; Internet",
+  "contribution": "System; Toolkit, middleware",
+  "crossdevice_def": "Multi-device ecosystem.\r\nMostly covering handover from one device to the next. Partially cross-platform."
+}

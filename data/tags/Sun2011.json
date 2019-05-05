@@ -1,0 +1,17 @@
+{
+  "connection_classification": "Via remote server",
+  "scale": "Room",
+  "contribution_desc": "PANDAA (Physical Arrangement Detection of Networked Devices through Ambient-Sound Awareness), a spatial localization technique, using ambient sounds.",
+  "contentlength": "9.5",
+  "pid": "Sun2011",
+  "pid_done": "2",
+  "focus": "Software",
+  "tracking_characteristic": "Tracking devices only; Inside-out tracking",
+  "network_infrastructure": "Internet",
+  "deployment": "Lab study",
+  "papertype": "Full paper",
+  "contribution": "Tracking technology",
+  "tracking_tech": "Acoustic signals; IMU; User-driven",
+  "evaluation": "Quality measurements (e.g., accuracy of tracking)",
+  "pid_access": 1537134595
+}

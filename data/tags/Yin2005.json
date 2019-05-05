@@ -1,0 +1,19 @@
+{
+  "pid_access": 1535461307,
+  "user_device_rel": "1 person to 2 devices",
+  "pid_done": "2",
+  "input_modalities": "Speech; Keyboard; Mouse",
+  "contribution_desc": "The paper \"proposes an IM-based system that sends a coordinated visual IVR (interactive voice response) menu to the caller's computer screen. The visual menu is updated in real time in response to the caller's actions\" and the user can either interact with the menu via phone keys, mouse, or voice input. ",
+  "network_infrastructure": "Internet",
+  "evaluation": "Focus group; Deployment with users; lightweight",
+  "target_users": "Individual",
+  "deployment": "Lab study",
+  "pid": "Yin2005",
+  "focus": "Software",
+  "papertype": "Note",
+  "devices_included": "Phone; Desktop computer",
+  "output_modalities": "Screen output; Audible/speech",
+  "use_cases_desc": "Phone calls with interactive voice response menu navigation",
+  "interaction_techniques": "Remote control",
+  "contentlength": "4"
+}

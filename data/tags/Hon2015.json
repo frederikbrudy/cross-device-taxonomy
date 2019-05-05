@@ -1,0 +1,16 @@
+{
+  "pid_done": "2",
+  "contribution_desc": "self-localization approach to construct an ad-hoc network of randomly distributed and independent devices in an open-space environment with low reverberation but heavy noise.",
+  "tracking_accuracy": "Various experiments",
+  "contentlength": "13",
+  "pid": "Hon2015",
+  "focus": "Software",
+  "tracking_tech": "Acoustic signals; User-driven",
+  "tracking_characteristic": "Inside-out tracking; Location 2D",
+  "devices_included": "Phone; Tablet; portable devices",
+  "deployment": "None",
+  "contribution": "Tracking technology; algorithm",
+  "papertype": "Full paper",
+  "evaluation": "None",
+  "pid_access": 1537134416
+}

@@ -1,0 +1,21 @@
+{
+  "user_device_rel": "n people to m devices",
+  "target_users": "Group work",
+  "pid": "Wallace2009",
+  "pid_done": "2",
+  "scale": "Room",
+  "input_modalities": "Mouse",
+  "devices_included": "Laptop; Whiteboard, large vertical display",
+  "use_cases_desc": "job scheduling",
+  "evaluation": "User study (quantitative, controlled lab experiment)",
+  "contentlength": "11",
+  "contribution_desc": "The results of a study that compares single display groupware (a large wall display, 3 users) and multi display groupware (3 laptops (one per user) and a shared wall display) during a job scheduling task. ",
+  "pid_access": 1534161860,
+  "papertype": "Journal Article",
+  "use_cases": "Knowledge workers",
+  "output_modalities": "Screen output",
+  "deployment": "Lab study",
+  "interaction_techniques": "Data transfer/sharing",
+  "tracking_tech": "None",
+  "contribution": "Study (human factors)"
+}

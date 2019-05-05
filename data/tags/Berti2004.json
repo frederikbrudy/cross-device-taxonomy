@@ -1,0 +1,21 @@
+{
+  "user_device_rel": "n people to m devices",
+  "target_users": "Developers",
+  "pid": "Berti2004",
+  "focus": "Software",
+  "pid_done": "2",
+  "input_modalities": "Touch; Keyboard; Mouse",
+  "devices_included": "Laptop; Phone; Desktop computer; PDA",
+  "evaluation": "None",
+  "contentlength": "2",
+  "contribution_desc": "Tool and modelling approach for cross-platform applications.",
+  "pid_access": 1532962417,
+  "papertype": "Note",
+  "output_modalities": "Screen output",
+  "deployment": "None",
+  "toolkits": "XML; XHTML",
+  "tracking_tech": "None",
+  "network_infrastructure": "WiFi; Internet",
+  "contribution": "Theory; Toolkit, middleware",
+  "crossdevice_def": "Use multi-device interactive applications as terminology, but fundamentally describe cross-platform UI generation."
+}

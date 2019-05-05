@@ -1,0 +1,21 @@
+{
+  "user_device_rel": "1 person to n devices",
+  "target_users": "Individual",
+  "pid": "Sathish2007",
+  "focus": "Software",
+  "pid_done": "2",
+  "scale": "Room; Social space",
+  "devices_included": "Any IoT or wireless/wired device",
+  "use_cases_desc": "Remote controlling smart home appliances (e.g., a stereo player)\r\n\r\n",
+  "evaluation": "None",
+  "contentlength": "6",
+  "contribution_desc": "A framework allowing users to detect services/devices in a space or room, and then either lending their resources or remote controlling them.",
+  "pid_access": 1534329693,
+  "papertype": "Note",
+  "deployment": "None",
+  "interaction_techniques": "Remote control",
+  "toolkits": "Extension for Mozilla Firefox (SIP event-based)",
+  "tracking_tech": "None",
+  "network_infrastructure": "Any network device",
+  "contribution": "Framework; Toolkit, middleware"
+}

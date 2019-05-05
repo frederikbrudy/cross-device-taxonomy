@@ -1,0 +1,18 @@
+{
+  "pid_access": 1533133552,
+  "pid_done": "2",
+  "input_modalities": "Touch; 3D gestures",
+  "contribution_desc": "Interaction proxemics, discussed in the context of supporting diverse spatial configurations and transitions.\r\nDoctoral consortium paper from CHI.",
+  "evaluation": "None",
+  "contentlength": "4",
+  "pid": "Gronbaek2018",
+  "focus": "Software; Hardware",
+  "tracking_tech": "Unclear, likely camera-based",
+  "device_mount": "Mounted to wall",
+  "output_modalities": "Screen output",
+  "deployment": "None",
+  "contribution": "Theory; Interaction techniques",
+  "papertype": "DC",
+  "interaction_techniques": "Designing for proxemic transitions, configurability",
+  "crossdevice_def": "Only indirectly, focuses on interaction proxemics."
+}

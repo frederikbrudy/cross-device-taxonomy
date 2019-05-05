@@ -1,0 +1,18 @@
+{
+  "pid_access": 1533216615,
+  "user_device_rel": "1 person to n devices",
+  "pid_done": "2",
+  "contribution_desc": "Contributes a cloud platform module for enabling cross-device trusted applications.\r\nDetails are about the safe transfer and use of such a TPM - Trusted Platform Module.",
+  "contentlength": "13",
+  "deployment": "Technical performance measures",
+  "pid": "Chen2014",
+  "focus": "Software",
+  "tracking_tech": "None",
+  "devices_included": "Phone; Tablet; Laptop; Desktop computer",
+  "network_infrastructure": "Internet; WiFi",
+  "use_cases_desc": "Focus on platform for safety/trusted mobile applications, and using 'cross-device' for cross-device syncing.",
+  "contribution": "Middleware; Security platform",
+  "papertype": "Full paper",
+  "evaluation": "Technical evaluation (e.g., runtime, roundtrip); Technical performance (speed)",
+  "crossdevice_def": "Use cross-device use in the context of 'cross-device syncronization':\r\n\r\n\"...mobile platforms are recognizing the need for 'cross-device' functionality that automatically synchronizes photos, videos, apps, data, and even games across all devices owned by a single user\""
+}

@@ -1,0 +1,13 @@
+{
+  "pid_access": 1533026219,
+  "pid_done": "2",
+  "contribution_desc": "The paper proposes an \"optimal device selection\" for content sharing considering user satisfaction.\r\nFocuses on device switching.",
+  "interaction_techniques": "Content/device switching",
+  "target_users": "Developers",
+  "pid": "Tang2014",
+  "papertype": "Poster",
+  "deployment": "Technology evaluation",
+  "contribution": "Theory; System",
+  "evaluation": "Technical performance (speed)",
+  "contentlength": "2"
+}

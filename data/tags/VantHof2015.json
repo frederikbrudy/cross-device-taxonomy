@@ -1,0 +1,19 @@
+{
+  "pid_access": 1530098677,
+  "user_device_rel": "1 person to n devices",
+  "connection_classification": "P2P",
+  "input_modalities": "Touch",
+  "contribution_desc": "This paper presents Flux, which allows application migration from one device to another device. When the migration is triggered, the application is paused on the source device and a snapshot of the application state is created. This snapshot is then transferred to the target device and the application is resumed on the target device. Flux is implemented in Android on a system level and therefore works with an unmodified application (with some restrictions).",
+  "network_infrastructure": "WiFi",
+  "evaluation": "Technical evaluation (e.g., runtime, roundtrip)",
+  "target_users": "Individual",
+  "pid": "VantHof2015",
+  "pid_done": "2",
+  "papertype": "Full paper",
+  "device_models": "Google Nexus 4 phone, Google Nexus 7 tablet",
+  "use_cases": "None",
+  "devices_included": "Phone; Tablet",
+  "output_modalities": "Screen output",
+  "interaction_techniques": "Data transfer/sharing",
+  "contentlength": "14"
+}

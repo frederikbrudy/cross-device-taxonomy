@@ -1,0 +1,21 @@
+{
+  "target_users": "Individual",
+  "pid": "Dearman2008",
+  "device_mount": "Mounted to wall; Handheld; Placed loosely around user (e.g., table)",
+  "pid_done": "2",
+  "input_modalities": "Mouse; Keyboard; Touch",
+  "devices_included": "Laptop; Desktop computer; Phone; Tablet; digital cameras; portable media players; external hard drives; USB flash drives",
+  "use_cases_desc": "Not really particular use case applications, but recommendations:\r\n- Focus on users, not devices \r\n- Awareness of Roles and Context of Use\r\n- Improve Synchronization \r\n- Lighter-weight Information Transfer \r\n",
+  "evaluation": "User study (qualitative); Interviews",
+  "contentlength": "10",
+  "contribution_desc": "To better understand of why and how people use multiple devices, the authors interviewed 27 people from academia and industry and present a set of findings:\r\n\r\n- First, associating a user's activities with a particular device is problematic for multiple device users because many activities span multiple devices\r\n- Second, device use varies by user and circumstance; users assign different roles to devices both by choice and by constraint\r\n- Third, users in industry want to separate work and personal activities across work and personal devices, but they have difficulty doing so in practice\r\n- Finally, users employ a variety of techniques for accessing information across devices, but there is room for improvement: participants reported managing information across their devices as the most challenging aspect of using multiple devices.",
+  "pid_access": 1533644271,
+  "papertype": "Full paper",
+  "use_cases": "General information work",
+  "output_modalities": "Screen output; Audio output",
+  "deployment": "Interviews",
+  "tracking_tech": "None",
+  "network_infrastructure": "Internet; Bluetooth; WiFi",
+  "contribution": "Theory; Study",
+  "crossdevice_def": "\"The term 'multiple devices' is broad, abstract and could conceivably include any digital device that someone uses. For the purpose of this study, we chose to focus primarily on conventional computing devices such as laptops, desktops, and mobile phones. However, we do include additional devices (e.g. digital cameras, portable media players, external hard drives, and USB flash drives) where relevant if a participant explicitly mentioned them. \""
+}

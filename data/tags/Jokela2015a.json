@@ -1,0 +1,18 @@
+{
+  "pid_access": 1535460352,
+  "user_device_rel": "1 person to n devices",
+  "pid_done": "2",
+  "scale": "Near, personal space; Social space",
+  "contribution_desc": "Diary and interview study about real-life multi-device uses. The spectrum of devices covered is interesting (e.g., SatNav, Game Consoles, Cameras, etc. besides the usual like phone and tablet)\r\n\r\n\r\n\"We analyze 123 real-life multi-device use cases and identify the main usage patterns, including Sequential Use, Resource Lending, Related Parallel Use, and Unrelated Parallel Use. We discuss the practical challenges of using several information devices together. Finally, we identify three levels of decisions that determine which devices are used in a particular situation, including acquiring, making available, and selecting the devices for use.\"",
+  "evaluation": "Diary study and interview",
+  "target_users": "Individual",
+  "deployment": "In-the-wild study",
+  "pid": "Jokela2015a",
+  "tracking_tech": "None",
+  "devices_included": "Any screen device; Phone; Tablet; Smart watch; Public display; Laptop; Desktop computer; TV; Camera; Music Player; Handheld Game Console; Home Media Centre; Navigation Device",
+  "use_cases_desc": "No direct new use cases, but observations: sequential use, parallel use, resource lending, related parallel use and unrelated parallel use\r\n\r\n",
+  "contribution": "Study, deployment; Diary study; interview; Diary study and interviews of cross-device patterns",
+  "interaction_techniques": "No direct new techniques, but observations: sequential use, parallel use, resource lending, related parallel use and unrelated parallel use",
+  "crossdevice_def": "No quotable definition.\r\nBut, use \"multi-device environments\" etc. as terminology",
+  "contentlength": "10"
+}

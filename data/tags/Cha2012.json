@@ -1,0 +1,18 @@
+{
+  "user_device_rel": "1 person to n devices",
+  "pid_done": "2",
+  "scale": "Social space; Room",
+  "contribution_desc": "Framework considering gaze and hand gestures as input modalities in a multi-display environment (in particular with large screens).\r\nPropose \"Gaze-Augmented Manual Interaction\" techniques.",
+  "contentlength": "3",
+  "pid": "Cha2012",
+  "focus": "Software",
+  "tracking_tech": "Eye tracker; Markerless IR Tracking",
+  "tracking_characteristic": "Inside-out tracking; Eye tracking",
+  "devices_included": "Whiteboard, large vertical display",
+  "deployment": "None",
+  "device_mount": "Mounted to wall",
+  "contribution": "Model; Theory",
+  "papertype": "Note",
+  "interaction_techniques": "Simple gestures, like pointing",
+  "pid_access": 1533546884
+}

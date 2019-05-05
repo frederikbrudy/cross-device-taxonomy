@@ -1,0 +1,21 @@
+{
+  "contentlength": "4",
+  "pid": "Aumi2013",
+  "focus": "Software",
+  "device_mount": "Handheld; Placed loosely around user (e.g., table)",
+  "pid_done": "2",
+  "scale": "Near, personal space; Social space; Room",
+  "tracking_range": "5m",
+  "devices_included": "Phone; Laptop",
+  "evaluation": "Quality measurements (e.g., accuracy of tracking); Technical performance (speed); User study (quantitative, controlled lab experiment)",
+  "contribution_desc": "Tracking approach for determining device connectivity/pointing by using the doppler effect to enable multi-device interaction applications.The system is using the integrated audio hardware of mobile devices to determine into which direction a user is performing a pointing, flick or push gesture.",
+  "pid_access": 1537134615,
+  "papertype": "Note",
+  "tracking_characteristic": "Inside-out tracking; Multiple screens; Relative location",
+  "deployment": "Lab study",
+  "interaction_techniques": "Only implicit, for use with the tracking technique, allows: point, flick and push gesture.",
+  "tracking_reliability": "53-95%",
+  "tracking_tech": "Acoustic signals; doppler; User-driven",
+  "contribution": "Tracking technology",
+  "crossdevice_def": "Multi-device interaction: \"multiple smart computing devices in the environment - personal computers, smartphones, smart TVs, and other network-enabled devices (i.e., the smart home)\""
+}

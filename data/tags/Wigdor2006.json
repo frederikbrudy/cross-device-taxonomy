@@ -1,0 +1,21 @@
+{
+  "user_device_rel": "n people to m devices",
+  "target_users": "Group work",
+  "pid": "Wigdor2006",
+  "device_mount": "Placed loosely around user (e.g., table); Mounted to wall",
+  "pid_done": "2",
+  "scale": "Near, personal space; Social space; Room",
+  "input_modalities": "Touch",
+  "devices_included": "Whiteboard, large vertical display; Tabletop, large horizontal display",
+  "use_cases_desc": "Supporting collaborative brainstorming and spontaneous discussions in the meeting room",
+  "evaluation": "Demonstration",
+  "contentlength": "5",
+  "contribution_desc": "This paper discusses the design requirements and solutions of table-centric interactive systems in multi-surface environments for supporting collaborative decision-making in meeting rooms. It presents a number of visualization and interaction techniques that could be applied to cross-device interaction in multi-surface meeting room scenarios, hence I think it's relevant and labelled it a \"2\".",
+  "pid_access": 1534770287,
+  "papertype": "Note",
+  "use_cases": "Collaboration; Meeting room",
+  "output_modalities": "Screen output",
+  "deployment": "None",
+  "interaction_techniques": "Remote control; UI distribution; Data transfer/sharing",
+  "contribution": "Design"
+}

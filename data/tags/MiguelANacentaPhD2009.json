@@ -1,0 +1,18 @@
+{
+  "pid_access": 1537067883,
+  "connection_classification": "Local master device",
+  "input_modalities": "Mouse; Touch",
+  "contribution_desc": "Presents a taxonomy that classifies cross-display object movement techniques according to three dimensions: the referential domain that determines how displays are selected, the relationship of the input space to the display configuration, and the control paradigm for executing the movement. These dimensions are based on a descriptive model of the task of cross-display object movement.\r\n",
+  "contentlength": "52",
+  "pid": "MiguelANacentaPhD2009",
+  "pid_done": "2",
+  "tracking_tech": "Manual; Static setup",
+  "tracking_characteristic": "Relative location; Multiple screens; ",
+  "use_cases": "pick&drop",
+  "output_modalities": "Projector; Screen output",
+  "use_cases_desc": "Cross-display object movement",
+  "contribution": "Review paper",
+  "papertype": "Journal Article",
+  "interaction_techniques": "Data transfer/sharing",
+  "crossdevice_def": "\"Cross-display movement is a frequent and fundamental part of interaction in any application that spans two or more display surfaces.\";\r\n\"Cross-display object movement: the action of moving a cursor or digital object from a specific location in one display to a  specific location in another display.\";\r\nMulti-display environments; cross-display interaction; multi-display interaction"
+}

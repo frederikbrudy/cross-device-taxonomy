@@ -1,0 +1,19 @@
+{
+  "pid_access": 1535108217,
+  "user_device_rel": "1 person to n devices",
+  "pid_done": "2",
+  "scale": "Near, personal space",
+  "toolkits": "Javascript",
+  "evaluation": "None",
+  "target_users": "Individual",
+  "contribution_desc": "The paper describes an approach for dynamically (re-)distributing user interfaces at run-time based on a model of the user interface and a context model.",
+  "pid": "Blumendorf2010",
+  "focus": "Software",
+  "papertype": "Full paper",
+  "use_cases": "None",
+  "deployment": "None",
+  "contribution": "System; Toolkit, middleware",
+  "interaction_techniques": "UI distribution",
+  "crossdevice_def": "\"Smart environments provide networks of devices that can be used simultaneously e.g. for human-computer interaction. From a user interface perspective, this leads to the possibility to develop user interfaces (UIs) that are distributed across multiple devices. This allows supporting multiple modalities, increasing the communication bandwidth, and utilizing the different features of each device.\"\r\n\r\n\"The distribution of user interfaces also needs to take into account the dynamics of the context of use (user, platform and environment). Mobile devices, appearing and disappearing in the environment, users entering and leaving rooms and moving around in the environment as well as multiple applications available to users, make the alteration of the used IRs and thus the redistribution of the UI at run-time an important aspect.\"\r\n\r\n",
+  "contentlength": "7"
+}

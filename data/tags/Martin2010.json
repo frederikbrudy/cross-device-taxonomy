@@ -1,0 +1,23 @@
+{
+  "user_device_rel": "1 person to n devices; n people to m devices",
+  "target_users": "Individual",
+  "pid": "Martin2010",
+  "focus": "Software",
+  "device_mount": "Handheld; Mounted to wall",
+  "pid_done": "2",
+  "scale": "Room",
+  "input_modalities": "Touch",
+  "devices_included": "Phone; Laptop; TV",
+  "use_cases_desc": "Multi-device TV access",
+  "evaluation": "None",
+  "contentlength": "7",
+  "contribution_desc": "Newstream, a novel approach to navigating news-based content across a variety of media sources.",
+  "pid_access": 1534936456,
+  "papertype": "Full paper",
+  "use_cases": "Entertainment",
+  "output_modalities": "Screen output",
+  "deployment": "None",
+  "interaction_techniques": "UI distribution; Remote control",
+  "tracking_tech": "None",
+  "contribution": "Toolkit, middleware"
+}

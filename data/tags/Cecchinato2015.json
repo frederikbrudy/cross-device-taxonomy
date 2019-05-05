@@ -1,0 +1,15 @@
+{
+  "pid_access": 1534937584,
+  "pid_done": "2",
+  "contribution_desc": "exploratory study that extends the current understanding of email usage by investigating how different professions at a university manage work and personal emails using different devices and how this impacts their work-home boundary management.\r\n\r\n(This is a workplace study)",
+  "target_users": "knowledge workers",
+  "deployment": "In-the-wild study; workplace study",
+  "pid": "Cecchinato2015",
+  "focus": "Software; Hardware",
+  "papertype": "Full paper",
+  "devices_included": "Any device owned by participants",
+  "use_cases_desc": "/",
+  "contribution": "Exploratory study of user experience",
+  "evaluation": "User study (qualitative)",
+  "contentlength": "10"
+}

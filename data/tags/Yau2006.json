@@ -1,0 +1,15 @@
+{
+  "pid_access": 1536780646,
+  "pid_done": "2",
+  "contribution_desc": "Proposes a multi-device virtual environment (MDVE), in which several devices work together to create the illusion of a graphical world that stretches seamlessly across their screens. This poster presents a technique for improving multi-device virtual environment by enabling the different devices to share the same light source properties, thereby unifying the visual representations on each device.",
+  "contentlength": "1",
+  "pid": "Yau2006",
+  "focus": "Software",
+  "tracking_tech": "Manual; Static setup; Optical; IR",
+  "tracking_characteristic": "Proximity; Outside-in tracking",
+  "devices_included": "Any screen device",
+  "deployment": "None",
+  "contribution": "System; Display/Visualization technique",
+  "papertype": "Poster",
+  "crossdevice_def": "multi-device environments;"
+}

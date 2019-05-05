@@ -1,0 +1,17 @@
+{
+  "pid_access": 1533990273,
+  "pid_done": "2",
+  "toolkits": "NodeJS; academic toolkits (Weave)",
+  "contribution_desc": "DemoScript, a code editor / technique that automatically visualizes a cross-device interaction program, while it is being written. The execution of the program is visualised as a portion of in its entirety through a cross-device storyboard visualisation. \r\nThe system uses Weave for implementation of cross-device interaction systems. \r\n\r\nThe system supports developers in creating cross-device applications. ",
+  "target_users": "Expert users",
+  "pid": "Chi2016",
+  "focus": "Software",
+  "tracking_tech": "None",
+  "devices_included": "Phone; Tablet; Smart watch",
+  "deployment": "Lab study",
+  "contribution": "Toolkit, middleware",
+  "papertype": "Full paper",
+  "evaluation": "User study (quantitative, controlled lab experiment)",
+  "crossdevice_def": "\"Cross-device interactions involve input and output on multiple computing devices.\"",
+  "contentlength": "10"
+}

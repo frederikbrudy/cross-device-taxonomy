@@ -1,0 +1,18 @@
+{
+  "pid_access": 1527181383,
+  "user_device_rel": "1 person to n devices",
+  "connection_classification": "Via remote server",
+  "network_infrastructure": "Internet; Bluetooth; WiFi; Other",
+  "contribution_desc": "The paper defines six design contraints a multi-device software has to respect to support multi-device web applications (multi-languages support, devices access programming, network heterogeneity, web browsers, traces, drivers).",
+  "target_users": "Individual",
+  "pid": "LePallec2010",
+  "pid_done": "2",
+  "focus": "Software",
+  "use_cases": "None",
+  "devices_included": "Phone; Tablet; Desktop computer; Other devices",
+  "output_modalities": "Screen output",
+  "deployment": "None",
+  "contribution": "Toolkit, middleware",
+  "crossdevice_def": "We also focus on platforms which deal with affordable devices (500EUR and stable drivers) and which are easy to setup. With such a multi-devices support, programmers could combine devices to create modalities. From now, we will use the term multi-devices rather than multimodal in order to be more precise.",
+  "contentlength": "2"
+}

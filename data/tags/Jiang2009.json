@@ -1,0 +1,20 @@
+{
+  "pid_access": 1535241375,
+  "user_device_rel": "n people to m devices",
+  "pid_done": "2",
+  "input_modalities": "Touch",
+  "contribution_desc": "presents an educational environment that makes uses of multiple screens and device form factors for learning",
+  "evaluation": "User study (qualitative)",
+  "target_users": "Group work; Individual",
+  "pid": "Jiang2009",
+  "focus": "Software; Hardware",
+  "tracking_tech": "None",
+  "devices_included": "Tablet; Tabletop, large horizontal display; TV",
+  "output_modalities": "Screen output",
+  "deployment": "UX study",
+  "contribution": "Study, deployment; Use-case, application",
+  "papertype": "Note",
+  "interaction_techniques": "Visualisation",
+  "crossdevice_def": "multi-display environments; multi-surface interfaces",
+  "contentlength": "4"
+}

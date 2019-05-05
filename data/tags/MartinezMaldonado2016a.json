@@ -1,0 +1,22 @@
+{
+  "user_device_rel": "n people to m devices",
+  "contentlength": "10",
+  "pid": "MartinezMaldonado2016a",
+  "focus": "Software",
+  "device_mount": "Handheld; Mounted to wall",
+  "pid_done": "2",
+  "scale": "Room",
+  "input_modalities": "Touch; Mouse; Keyboard",
+  "devices_included": "Any screen device; Tabletop, large horizontal display; Whiteboard, large vertical display; Tablet; Laptop; Desktop computer; paper",
+  "use_cases_desc": "Education application",
+  "evaluation": "User study (qualitative)",
+  "contribution_desc": "CoCoDeS design system (COllocated COllaborative Design Surface) - rationale for, implementation and evaluation of, an innovative toolset that sits in an ecology of resources to support collocated educational design",
+  "pid_access": 1535461058,
+  "papertype": "Full paper",
+  "use_cases": "Education",
+  "output_modalities": "Screen output",
+  "deployment": "Lab study",
+  "interaction_techniques": "Data transfer/sharing; Visualisation; UI distribution",
+  "tracking_tech": "None",
+  "contribution": "System; approach; Toolkit, middleware"
+}

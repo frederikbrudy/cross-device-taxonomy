@@ -1,0 +1,20 @@
+{
+  "pid_access": 1535240355,
+  "user_device_rel": "n people to m devices",
+  "connection_classification": "Via remote server",
+  "contribution_desc": "Presents a framework for flexible user interface distribution across multiple devices in multi-user environments. Does not require the use of a fixed server. Device types and user roles are taken into account. Shows 3 sample applications.",
+  "evaluation": "Technical performance (speed)",
+  "target_users": "Individual; Group work",
+  "deployment": "Lab study",
+  "pid": "Frosini2014",
+  "focus": "Software",
+  "tracking_tech": "None",
+  "devices_included": "Any screen device",
+  "use_cases_desc": "Museum guide; City guide; Crossword game",
+  "pid_done": "2",
+  "contribution": "Framework; Protocol; Middleware",
+  "papertype": "Full paper",
+  "interaction_techniques": "Data transfer/sharing; UI distribution",
+  "crossdevice_def": "multi-device environments; multi-device user interfaces",
+  "contentlength": "9.5"
+}

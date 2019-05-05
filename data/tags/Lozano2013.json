@@ -1,0 +1,11 @@
+{
+  "pid_access": 1533067967,
+  "pid_done": "2",
+  "contribution_desc": "This paper is a (successful) proposal to organize a workshop at EICS '13, but not relevant for the survey\r\nDiscussions around distributed user interfaces.",
+  "contentlength": "2",
+  "pid": "Lozano2013",
+  "papertype": "Workshop",
+  "deployment": "None",
+  "contribution": "Workshop description",
+  "crossdevice_def": "\"Distributed User Interface\", \"DUI\":\r\nA distributed user interface is a user interface whose components are distributed across one or more of the dimensions input, output, platform, space, and time"
+}

@@ -1,0 +1,20 @@
+{
+  "pid_access": 1534770633,
+  "user_device_rel": "n people to m devices",
+  "pid_done": "2",
+  "scale": "Near, personal space; Social space",
+  "toolkits": "Apache Tomcat (Java servlet container); MySQL; ",
+  "contribution_desc": "A developer-centric toolkit for developing distributed, multi-user, multi-display web user interfaces, including support for multi-device orchestration. The contribution is in the proxy-based toolkit, not specifically cross-device interaction.",
+  "network_infrastructure": "Internet",
+  "target_users": "Individual; Group work",
+  "pid": "Heikkinen2014",
+  "focus": "Software",
+  "papertype": "Full paper",
+  "devices_included": "Phone; Public display",
+  "output_modalities": "Screen output",
+  "deployment": "Lab study",
+  "device_mount": "Handheld; Mounted to wall",
+  "contribution": "Toolkit, middleware",
+  "evaluation": "User study (qualitative); Demonstration",
+  "contentlength": "6"
+}

@@ -1,0 +1,21 @@
+{
+  "target_users": "Individual; Group work",
+  "pid": "Nacenta2005",
+  "device_mount": "Placed loosely around user (e.g., table)",
+  "pid_done": "2",
+  "scale": "Social space; Room; Near, personal space",
+  "input_modalities": "Touch; 3D gestures",
+  "devices_included": "Tabletop, large horizontal display; Tablet",
+  "use_cases_desc": "Not much about use case applications, mostly abstract tasks for the study setup.",
+  "evaluation": "User study (qualitative); User study (quantitative, controlled lab experiment)",
+  "contentlength": "10",
+  "contribution_desc": "Study to compare the efficiency of six techniques for moving objects from a tablet to a tabletop display. Comparison of the techniques in four different distance ranges and with three movement directions. ",
+  "pid_access": 1531238195,
+  "papertype": "Full paper",
+  "output_modalities": "Screen output",
+  "deployment": "Lab study",
+  "interaction_techniques": "Data transfer/sharing",
+  "tracking_tech": "Manual",
+  "contribution": "Interaction techniques",
+  "crossdevice_def": "Using 'multi-display' terminology."
+}

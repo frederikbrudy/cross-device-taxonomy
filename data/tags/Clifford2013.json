@@ -1,0 +1,23 @@
+{
+  "user_device_rel": "1 person to n screens",
+  "target_users": "Individual",
+  "pid": "Clifford2013",
+  "focus": "Software; Hardware",
+  "device_mount": "Placed on a table",
+  "pid_done": "2",
+  "scale": "Near, personal space",
+  "input_modalities": "Touch; 3D gestures; Mouse",
+  "devices_included": "Desktop computer",
+  "use_cases_desc": "Courier dispatching in a control room for the courier freight management industry.",
+  "evaluation": "User study (quantitative, controlled lab experiment)",
+  "contentlength": "7",
+  "contribution_desc": "The paper evaluates interaction techniques for a multi-display setup for a courier dispatcher. The authors are particularly interested in how Natural User Interface (NUI) technology can support this type of work.\r\nA setup is designed where multi-touch is compared to mouse, track-pad and leap motion. For the particular setup the multi-touch condition performed the best. For the experiment, a modified Fitts' pointing task is used.",
+  "pid_access": 1535108014,
+  "papertype": "Full paper",
+  "use_cases": "Knowledge workers",
+  "additional_hardware": "Leap motion",
+  "output_modalities": "Screen output",
+  "deployment": "Lab study; In-the-wild study",
+  "interaction_techniques": "Pointing",
+  "contribution": "System; Interaction techniques; ; Study (human factors)"
+}

@@ -1,0 +1,22 @@
+{
+  "user_device_rel": "n people to m devices",
+  "target_users": "couples",
+  "pid": "Kowalski2013",
+  "focus": "Software; Hardware",
+  "pid_done": "2",
+  "scale": "Location-agnostic",
+  "input_modalities": "Touch",
+  "devices_included": "Phone; custom build device",
+  "use_cases_desc": "Remote telepresence through various cues",
+  "evaluation": "User study (qualitative)",
+  "contentlength": "4",
+  "contribution_desc": "Cubble - a telepresence system for long-distance relationships running on multiple phones or custom build illuminating cubes.\r\n\r\n(only use multi-device once in title)",
+  "pid_access": 1534934778,
+  "papertype": "Note",
+  "use_cases": "None",
+  "output_modalities": "Screen output; LED cube",
+  "deployment": "UX study",
+  "interaction_techniques": "Remote control",
+  "tracking_tech": "None",
+  "contribution": "System"
+}

@@ -1,0 +1,19 @@
+{
+  "pid_access": 1537135927,
+  "user_device_rel": "1 person to n devices",
+  "pid_done": "2",
+  "contribution_desc": "A study of mobile device usage patterns during television viewing in households.",
+  "target_users": "Individual",
+  "deployment": "In-the-wild study",
+  "pid": "Holz2015",
+  "tracking_characteristic": "Location 3D; Tracking devices only; Inside-out tracking",
+  "tracking_tech": "Bluetooth Low Energy",
+  "use_cases": "Entertainment",
+  "devices_included": "Phone; Tablet; TV",
+  "network_infrastructure": "Audio; Bluetooth",
+  "use_cases_desc": "Dual-screen television viewing",
+  "contribution": "Study, deployment; Tracking technology",
+  "papertype": "Full paper",
+  "evaluation": "User study (qualitative); User study (quantitative, controlled lab experiment)",
+  "contentlength": "10"
+}

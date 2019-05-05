@@ -1,0 +1,19 @@
+{
+  "pid_access": 1536782036,
+  "unsolved": "Integration; Testing",
+  "contribution_desc": "Presents a multi-modal, cross-device authentication framework that enables transparent continuous authentication using different biometrics across multiple trusted devices",
+  "evaluation": "None",
+  "target_users": "Individual",
+  "pid": "Hintze2015",
+  "pid_done": "2",
+  "focus": "Software",
+  "tracking_characteristic": "Proximity; Same space/network; Inside-out tracking",
+  "use_cases": "Authentication",
+  "devices_included": "Smart watch; Phone",
+  "use_cases_desc": "Authentication in the background; Using modalities on different devices whenever at hand",
+  "papertype": "Poster",
+  "contribution": "Tracking technology; Theory; Toolkit, middleware",
+  "tracking_tech": "Radio; BLE",
+  "interaction_techniques": "Passive authentication; Session continuation",
+  "contentlength": "3.5"
+}

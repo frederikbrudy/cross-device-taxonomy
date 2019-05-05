@@ -1,0 +1,20 @@
+{
+  "user_device_rel": "1 person to n devices",
+  "pid_done": "2",
+  "scale": "Social space",
+  "input_modalities": "3D gestures; WIM",
+  "evaluation": "Application examples",
+  "contentlength": "7",
+  "contribution_desc": "Slice WIM, a method for overview+detail visualisation of volume datasets that explores the potential of new interfaces made possible by a virtual reality (VR) environment made of two display surfaces: an interactive multi-touch table, and a stereoscopic display wall",
+  "pid": "Coffey2011",
+  "focus": "Software; Hardware",
+  "tracking_tech": "None",
+  "devices_included": "Tabletop, large horizontal display; Whiteboard, large vertical display",
+  "output_modalities": "Screen output",
+  "use_cases_desc": "Visualizing 3D medical data\r\nVisualizing simulations of cardiovascular flows",
+  "contribution": "System; Interaction techniques",
+  "papertype": "Full paper",
+  "interaction_techniques": "Visualisation",
+  "pid_access": 1534937098,
+  "deployment": "None"
+}

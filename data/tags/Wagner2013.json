@@ -1,0 +1,23 @@
+{
+  "target_users": "Individual",
+  "pid": "Wagner2013",
+  "device_mount": "Mounted to wall",
+  "tracking_rate": "200hz",
+  "pid_done": "2",
+  "scale": "Room",
+  "input_modalities": "3D gestures",
+  "devices_included": "Whiteboard, large vertical display: Display wall",
+  "evaluation": "User study (quantitative, controlled lab experiment)",
+  "contentlength": "9",
+  "contribution_desc": "BodyScape is a design space for classifying body-centric interaction techniques for interaction in multi-surface environments. The paper examines two interaction techniques (mid-air pointing and on-body touch) through a controlled experiment. The focus on the paper is on the quality of body-based interaction techniques for pointing and selecting in a multi-surface environment.",
+  "tracking_accuracy": "Sub-milimeter",
+  "pid_access": 1536781562,
+  "papertype": "Full paper",
+  "tracking_characteristic": "Tracking users only; Outside-in tracking",
+  "output_modalities": "Screen output",
+  "deployment": "Lab study",
+  "interaction_techniques": "Abstract",
+  "tracking_tech": "Marker-based IR Tracking; VICON",
+  "contribution": "Study (human factors); Theory; Interaction techniques",
+  "crossdevice_def": "\"Multi-surface environments encourage users to interact while standing or walking, using their hands to manipulate objects on multiple displays.\"\r\n\r\n\"Multi-surface environments require users to be \"physically\" engaged in the interaction and afford physical actions like pointing to a distant object with the hand or walking towards a large display to see more details\"\r\n"
+}

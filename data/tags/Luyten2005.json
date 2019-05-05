@@ -1,0 +1,20 @@
+{
+  "pid_access": 1535109081,
+  "user_device_rel": "1 person to n devices",
+  "pid_done": "2",
+  "scale": "Location-agnostic",
+  "toolkits": "Java 3D; UPnP",
+  "evaluation": "None",
+  "target_users": "Individual;",
+  "contribution_desc": "Presents a task based methodology for the design and deployment of distributed user interfaces. The work is takes a model-based approach. The Modie platform for task distribution is presented and its implementation is discussed. Modie also allows to simulate and visualise the computing environment.",
+  "pid": "Luyten2005",
+  "focus": "Software",
+  "papertype": "Full paper",
+  "use_cases": "None",
+  "devices_included": "Any screen device",
+  "deployment": "None",
+  "contribution": "System; Theory",
+  "interaction_techniques": "UI distribution",
+  "crossdevice_def": "\"Distributable user interfaces enable the user to exploit more and new possibilities of an ambient computing environment by allocating tasks to interaction resources that best support those tasks. We define an interaction resource as an atomic I/O channel. In this context, atomic means the I/O channel is \"one way\" and limited to a single modality. Examples of interaction resources are keyboards, mice, all sorts of screens, speech synthesizers, force feedback devices,.... Usually, an interaction resources is advertised in an environment through the computing device it is attached to. This computing device is called an interaction cluster and manages input from or output to interaction resources attached to it. The aforementioned definitions imply also a multi-modal user interface is composed of different interac- tion resources, not necessarily located on the same interaction cluster.\"",
+  "contentlength": "7"
+}

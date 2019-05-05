@@ -1,0 +1,21 @@
+{
+  "user_device_rel": "1 person to n devices",
+  "target_users": "Individual",
+  "pid": "Ribeiro2011",
+  "focus": "Software",
+  "pid_done": "2",
+  "scale": "Location-agnostic",
+  "devices_included": "Tablet; Laptop; Desktop computer",
+  "evaluation": "Technical evaluation (e.g., runtime, roundtrip); system performance (time)",
+  "contentlength": "6",
+  "contribution_desc": "MultiRep is a single-user file synchronization middleware that allows access to files and folders across many devices. MultiRep is decentralized and iteratively synchronizes peer to peer.",
+  "pid_access": 1535460528,
+  "papertype": "Workshop",
+  "device_models": "Windows",
+  "deployment": "None",
+  "connection_classification": "P2P",
+  "tracking_tech": "None",
+  "network_infrastructure": "WiFi; ad-hoc networks",
+  "contribution": "Middleware for peer-to-peer file synchronization; System; Toolkit, middleware",
+  "crossdevice_def": "Multi-Device Consistency"
+}

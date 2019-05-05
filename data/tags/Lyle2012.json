@@ -1,0 +1,13 @@
+{
+  "pid_done": "2",
+  "scale": "Location-agnostic",
+  "toolkits": "NodeJS; C++",
+  "contribution_desc": "a cross-device middleware providing interoperability, compatibility and security for mobile web applications, enabling the sharing of applications, services, and data between local or remote devices.",
+  "contentlength": "8",
+  "pid": "Lyle2012",
+  "papertype": "Full paper",
+  "devices_included": "Tablet; Phone; Desktop computer; in-car system",
+  "network_infrastructure": "Internet; WiFi",
+  "contribution": "Toolkit, middleware",
+  "pid_access": 1534957309
+}

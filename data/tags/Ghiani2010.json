@@ -1,0 +1,22 @@
+{
+  "user_device_rel": "1 person to n devices",
+  "target_users": "Individual",
+  "pid": "Ghiani2010",
+  "focus": "Software",
+  "device_mount": "Handheld; Placed loosely around user (e.g., table)",
+  "pid_done": "2",
+  "scale": "Location-agnostic",
+  "devices_included": "Desktop computer; Phone",
+  "evaluation": "User study (qualitative)",
+  "contentlength": "7.5",
+  "contribution_desc": "Proposes a system that maintains a session across devices. Allows users to resume website visits on a different device. Operates a discovery protocol for present devices and allows users to choose from a list on which device to resume a browsing activity. The user manually selects a region to be migrated to the target device. Focus on web systems and applications, apps implemented in C#. Server acts as proxy.",
+  "pid_access": 1535241623,
+  "papertype": "Full paper",
+  "device_models": "HTC early Android",
+  "interaction_techniques": "Session continuation",
+  "connection_classification": "Via remote server",
+  "tracking_characteristic": "Same space/network",
+  "tracking_tech": "Network",
+  "contribution": "System; Toolkit, middleware",
+  "crossdevice_def": "Cross-Device Interfaces; interactive migratory user interfaces; multi-device interfaces"
+}

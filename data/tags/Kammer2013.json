@@ -1,0 +1,22 @@
+{
+  "user_device_rel": "n people to m devices",
+  "target_users": "Group work; Individual",
+  "pid": "Kammer2013",
+  "focus": "Software",
+  "device_mount": "Handheld; Placed loosely around user (e.g., table)",
+  "pid_done": "2",
+  "scale": "Near, personal space",
+  "input_modalities": "Touch",
+  "devices_included": "Tablet",
+  "use_cases_desc": "jeSuis: game?\r\nrealHot: create recipes",
+  "evaluation": "Focus group",
+  "contentlength": "6",
+  "contribution_desc": "results from a workshop focusing on using new technologies to develop novel novel multi-device gestures.",
+  "pid_access": 1535641320,
+  "papertype": "Poster",
+  "use_cases": "Leisure",
+  "output_modalities": "Screen output",
+  "deployment": "Lab study",
+  "interaction_techniques": "Cross-device task chaining",
+  "contribution": "Interaction techniques"
+}

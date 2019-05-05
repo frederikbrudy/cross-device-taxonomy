@@ -1,0 +1,23 @@
+{
+  "user_device_rel": "1 person to n devices",
+  "target_users": "Individual",
+  "pid": "Turner2015",
+  "focus": "Software",
+  "device_mount": "Handheld; Mounted to wall",
+  "pid_done": "2",
+  "scale": "Room",
+  "input_modalities": "eyes/gaze; Touch",
+  "devices_included": "Phone; Whiteboard, large vertical display",
+  "evaluation": "User study (quantitative, controlled lab experiment)",
+  "contentlength": "10.25",
+  "contribution_desc": "A study of using gaze and multitouch for remote rotaet, scale, and translate (RST) tasks. The user wears a eytracker, which informs the system about the gaze position on a large wall display. Using a phone as a touch input, the authors propose several combinations of gaze and multi touch to perform RST tasks of items on the large screen. ",
+  "pid_access": 1535464601,
+  "papertype": "Full paper",
+  "output_modalities": "Screen output",
+  "deployment": "Lab study",
+  "interaction_techniques": "Remote control",
+  "connection_classification": "Local master device",
+  "tracking_tech": "None",
+  "network_infrastructure": "WiFi",
+  "contribution": "Interaction techniques"
+}

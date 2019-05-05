@@ -1,0 +1,22 @@
+{
+  "user_device_rel": "n people to m devices",
+  "target_users": "Group work",
+  "pid": "Plaue2009",
+  "focus": "Software",
+  "device_mount": "Placed loosely around user (e.g., table)",
+  "pid_done": "2",
+  "scale": "Room",
+  "input_modalities": "Keyboard; Mouse",
+  "devices_included": "Laptop; Wall projection",
+  "evaluation": "User study (qualitative); User study (quantitative, controlled lab experiment)",
+  "contentlength": "9",
+  "contribution_desc": "A study about the location of one or two shared displays in a collaborative sensemaking task. A group of people conducted a sensemaking task, using individual laptops. Through a button press their laptop screen could be mirrored (i) on one projected wall display, (ii) on two projected wall displays on opposite sides of the room, or (iii) on two projected wlal displays next to each other. ",
+  "pid_access": 1533986081,
+  "papertype": "Full paper",
+  "use_cases": "Sensemaking",
+  "output_modalities": "Screen output",
+  "deployment": "Lab study",
+  "interaction_techniques": "Screen sharing",
+  "tracking_tech": "None",
+  "contribution": "Study (human factors)"
+}

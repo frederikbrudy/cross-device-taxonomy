@@ -1,0 +1,19 @@
+{
+  "pid_access": 1534939792,
+  "user_device_rel": "1 person to n devices",
+  "connection_classification": "Optical",
+  "contribution_desc": "Optical method for bi-directional data transfer between tabletops and phones (this essentially works for any pair of devices where one has a camera and the other has a display)",
+  "target_users": "Individual",
+  "deployment": "None",
+  "pid": "Hesselmann2010",
+  "focus": "Software",
+  "tracking_tech": "Optical (but not really device tracking; it's used for data transfer)",
+  "device_models": "Google Nexus One; OFFIS Interactive Table",
+  "use_cases": "Data transfer",
+  "use_cases_desc": "Bi-directional data transfer between mobile device and tabletop",
+  "pid_done": "2",
+  "contribution": "Toolkit, middleware; Optical data transfer technology",
+  "papertype": "Note",
+  "evaluation": "Technical evaluation (e.g., runtime, roundtrip); Speed and error rate of data transfer",
+  "contentlength": "4"
+}

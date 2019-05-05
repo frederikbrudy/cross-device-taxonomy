@@ -1,0 +1,22 @@
+{
+  "user_device_rel": "1 person to n devices",
+  "target_users": "Individual",
+  "pid": "Waldner2010a",
+  "focus": "Software",
+  "device_mount": "Vertical dual screens",
+  "pid_done": "2",
+  "scale": "Near, personal space",
+  "input_modalities": "Mouse; Keyboard",
+  "devices_included": "Screen",
+  "use_cases_desc": "/",
+  "evaluation": "User study (quantitative, controlled lab experiment)",
+  "contentlength": "4",
+  "contribution_desc": "explores the characteristics of pointer warping compared to standard mouse behavior on a dual-monitor setup.",
+  "pid_access": 1534934514,
+  "papertype": "Note",
+  "use_cases": "Knowledge workers",
+  "output_modalities": "Screen output",
+  "deployment": "Lab study",
+  "interaction_techniques": "pointing",
+  "crossdevice_def": "Multi-display environments (MDE) can combine displays of varying form factors and physical arrangements."
+}

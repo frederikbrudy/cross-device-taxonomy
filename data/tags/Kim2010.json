@@ -1,0 +1,18 @@
+{
+  "pid_access": 1534936066,
+  "user_device_rel": "1 person to n devices",
+  "pid_done": "2",
+  "contribution_desc": "Buttons on phone equipped with small embedded displays",
+  "evaluation": "User study (qualitative)",
+  "target_users": "Individual",
+  "deployment": " Lab study",
+  "pid": "Kim2010",
+  "tracking_tech": "None",
+  "use_cases": "None",
+  "devices_included": "Phone",
+  "use_cases_desc": "Content distribution across the tiny displays on the keyboard and actual screen",
+  "contribution": "System",
+  "papertype": "Full paper",
+  "interaction_techniques": "Remote control; UI distribution",
+  "contentlength": "6"
+}

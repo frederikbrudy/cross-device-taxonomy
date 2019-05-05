@@ -1,0 +1,22 @@
+{
+  "user_device_rel": "1 person to n devices",
+  "target_users": "Individual",
+  "pid": "Pietroszek2012",
+  "focus": "Software",
+  "device_mount": "Handheld; Mounted to wall",
+  "pid_done": "2",
+  "scale": "Social space",
+  "input_modalities": "Touch",
+  "devices_included": "Phone",
+  "use_cases_desc": "A classroom polling example where students are asked to target a part of an UML diagram corresponding to the question. More generally, this paper uses a motivating scenario in which cross-device targeting is required despite the lack of network connectivity, specifically, without any visual cues on the targeting device (e.g., smartphones).",
+  "evaluation": "User study (quantitative, controlled lab experiment)",
+  "contentlength": "4",
+  "contribution_desc": "This paper proposes a non-visual interaction technique called \"spatial correspondence targeting\" in which the user can select content on a targeted surface (e.g., a large display) by finding the relative corresponding spatial position on a targeting surface (e.g., a smartphone), much like how an artist begins to create a painting. A study shows that users could localize targets presented on a large display within 4% of the display area on a smartphone.",
+  "pid_access": 1528990011,
+  "papertype": "Full paper",
+  "device_models": "HTC Nexus One",
+  "deployment": "Lab study",
+  "interaction_techniques": "Remote control",
+  "use_cases": "Education",
+  "contribution": "Interaction techniques; Study, deployment"
+}

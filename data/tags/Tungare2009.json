@@ -1,0 +1,19 @@
+{
+  "pid_access": 1535239644,
+  "user_device_rel": "1 person to n devices",
+  "pid_done": "2",
+  "scale": "Near, personal space",
+  "contribution_desc": "Conducts an experiment to study mental workload in multi-device scenarios. Hypothesizes that the level of support provided by the system for task migration affects mental workload. Describes ongoing experiment.\r\n",
+  "target_users": "Individual",
+  "pid": "Tungare2009",
+  "focus": "Software",
+  "tracking_tech": "None",
+  "devices_included": "Desktop computer; Laptop",
+  "output_modalities": "Screen output",
+  "deployment": "Lab study",
+  "contribution": "Study (human factors)",
+  "papertype": "Workshop",
+  "evaluation": "User study (qualitative); User study (quantitative, controlled lab experiment)",
+  "crossdevice_def": "multi-device scenarios",
+  "contentlength": "5"
+}

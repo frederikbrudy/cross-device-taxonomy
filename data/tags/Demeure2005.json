@@ -1,0 +1,14 @@
+{
+  "pid_access": 1532962043,
+  "user_device_rel": "n people to m devices",
+  "pid_done": "2",
+  "contribution_desc": "Model theory for distributed user interfaces.\r\n\"This paper proposes a reference model for classifying about different types of Distributed User Interfaces (DUIs) so that one could reason about their types: mouldable, distributable, and migratable UIs.\"",
+  "target_users": "Developers",
+  "pid": "Demeure2005",
+  "papertype": "Full paper",
+  "deployment": "None",
+  "contribution": "Theory",
+  "evaluation": "None",
+  "crossdevice_def": "Term used is DUI - Distributed User Interfaces.\r\nIn a way, the model is also used as definition here. ",
+  "contentlength": "7"
+}

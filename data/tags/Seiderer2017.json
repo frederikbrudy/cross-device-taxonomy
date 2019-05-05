@@ -1,0 +1,21 @@
+{
+  "user_device_rel": "1 person to n devices",
+  "contentlength": "8",
+  "pid": "Seiderer2017",
+  "device_mount": "Handheld",
+  "pid_done": "2",
+  "scale": "Near, personal space",
+  "input_modalities": "Touch",
+  "devices_included": "Phone; Smart watch; Smart scale",
+  "use_cases_desc": "Nutritional tracker: smartphone, smartwatch and smart scale.",
+  "evaluation": "User study (qualitative)",
+  "contribution_desc": "Nutritional tracker, developed as application across phone and watch and smart scale. Simple use case",
+  "pid_access": 1533144508,
+  "papertype": "Full paper",
+  "output_modalities": "Screen output",
+  "deployment": "None",
+  "tracking_tech": "None",
+  "network_infrastructure": "Internet",
+  "contribution": "System; Use-case, application",
+  "crossdevice_def": "\"data has to be synchronized across devices\""
+}

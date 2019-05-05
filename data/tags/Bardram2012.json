@@ -1,0 +1,22 @@
+{
+  "user_device_rel": "n people to m devices",
+  "unsolved": "Understanding the benefits and challenges of multi-device applications in smart environments",
+  "target_users": "Group work",
+  "pid": "Bardram2012",
+  "focus": "Software",
+  "pid_done": "2",
+  "devices_included": "Any screen device",
+  "use_cases_desc": "The paper presents five scenarios:\r\n\r\n1) creating and sharing presentations\r\n2) project management and task coordination\r\n3) distributed programming and code reviews\r\n4) place-transitions during a meeting\r\n5) conference room",
+  "evaluation": "User study (qualitative)",
+  "contentlength": "10",
+  "contribution_desc": "A unified interaction paradigm for interacting with/across multiple displays in a smart space, and an information architecture for building such multi-display applications that aim for a unified information and task management, shared activities and collaboration, and mobility and context-awareness. A feasibility study of Recticular space looks at the benefits and challenges of multi-display applications in smart environments from the perspective of activity-centered computing.",
+  "pid_access": 1534317585,
+  "papertype": "Full paper",
+  "use_cases": "Presentation; Meeting; Code reviews and programming; Knowledge work; Business",
+  "output_modalities": "Screen output",
+  "deployment": "Lab study; Feasibility study",
+  "interaction_techniques": "Cross-device task chaining; Activity-based computing workflow",
+  "connection_classification": "P2P",
+  "toolkits": "Aexo; Java; Adobe Flex AIR; Adobe RTMFP Cirrus server; BLIP Bluetooth; WaveTrend RFID",
+  "contribution": "Interaction techniques; Toolkit, middleware; Feasibility study"
+}

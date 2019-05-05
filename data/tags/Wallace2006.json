@@ -1,0 +1,18 @@
+{
+  "pid_access": 1534330667,
+  "user_device_rel": "n people to m devices",
+  "pid_done": "2",
+  "toolkits": ".NET C#",
+  "contribution_desc": "Workspace organization and dd hoc creation of shared workspace environments. The paper also presents three approaches to manage workspace configurations and different binding visualizations.",
+  "evaluation": "None",
+  "target_users": "Group work",
+  "pid": "Wallace2006",
+  "focus": "Software",
+  "tracking_tech": "None",
+  "devices_included": "Any screen device",
+  "deployment": "None",
+  "contribution": "Framework;",
+  "papertype": "Poster",
+  "interaction_techniques": "Data transfer/sharing; Workspace management and extension",
+  "contentlength": "6"
+}

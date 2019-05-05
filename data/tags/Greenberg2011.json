@@ -1,0 +1,21 @@
+{
+  "user_device_rel": "n people to m devices",
+  "target_users": "Group work",
+  "pid": "Greenberg2011",
+  "focus": "Software",
+  "device_mount": "Handheld; Placed loosely around user (e.g., table); Mounted to wall",
+  "pid_done": "2",
+  "scale": "Room; Social space",
+  "input_modalities": "Touch; 3D gestures",
+  "devices_included": "Any screen device",
+  "evaluation": "None",
+  "contentlength": "9",
+  "contribution_desc": "Proposes Proxemic Interaction as a conceptual lens for multi-device interaction",
+  "pid_access": 1534933630,
+  "papertype": "Full paper",
+  "output_modalities": "Screen output",
+  "deployment": "None",
+  "interaction_techniques": "Data transfer/sharing; Visualisation; Data exploration; UI distribution; Cross-device task chaining; Conduit gestures",
+  "tracking_tech": "None",
+  "contribution": "Theory"
+}

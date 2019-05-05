@@ -1,0 +1,19 @@
+{
+  "pid_access": 1534340090,
+  "user_device_rel": "n people to m devices",
+  "pid_done": "2",
+  "contribution_desc": "Study/understanding of how mobile device screen-mirroring on TV could decrease digital isolation of mobile device use during social activities, namely watching TV.",
+  "evaluation": "User study (quantitative, controlled lab experiment)",
+  "target_users": "Group work; Group of users watching TV",
+  "deployment": "Lab study",
+  "pid": "McGill2015",
+  "device_models": "Nexus 4 Android 4.X phones",
+  "tracking_tech": "None",
+  "use_cases": "Entertainment; Watching TV",
+  "devices_included": "TV; Phone",
+  "use_cases_desc": "Watching TV as social activity and how mobile device screen-mirroring could decrease digital isolation.",
+  "contribution": "Study (human factors); Controlled experiment",
+  "papertype": "Full paper",
+  "interaction_techniques": "UI distribution",
+  "contentlength": "10"
+}

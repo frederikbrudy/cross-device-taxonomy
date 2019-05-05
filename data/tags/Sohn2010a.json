@@ -1,0 +1,21 @@
+{
+  "user_device_rel": "1 person to n devices",
+  "unsolved": "Synchronizing users' browsing history across their devices",
+  "target_users": "Individual",
+  "pid": "Sohn2010a",
+  "focus": "Software",
+  "pid_done": "2",
+  "devices_included": "Phone; Desktop computer; Laptop",
+  "use_cases_desc": "The paper describes two scenarios where the system synchronizes the browsing history between a user's devices.\r\n\r\nThe first scenario describes a reading activity that started on-the-go on a smartphone and is continued on a laptop at home.\r\n\r\nThe second scenario is retrieving previously visited websites on another device.",
+  "evaluation": "None",
+  "contentlength": "6",
+  "contribution_desc": "The paper presents a system enabling cross-device browsing. A user's browsing history is captured on all of their devices and securely stored on a remote server to make it available on all other devices. Apart from collecting URLs only, the paper also proposes a heuristic-based approach to extract salient features of a visited website alongside its URL (i.e., title and header of a page, a salient image, and the text surrounding the salient image). The paper also briefly describes how devices in different form factors should best display the browsing history.",
+  "pid_access": 1530079735,
+  "papertype": "Poster",
+  "use_cases": "Knowledge workers; Entertainment; Education",
+  "deployment": "None",
+  "interaction_techniques": "Data transfer/sharing; Cross-device task chaining",
+  "connection_classification": "Via remote server",
+  "toolkits": "Firefox plugin",
+  "contribution": "System; Use-case, application"
+}

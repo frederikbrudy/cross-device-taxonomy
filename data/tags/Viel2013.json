@@ -1,0 +1,20 @@
+{
+  "pid_access": 1534767349,
+  "user_device_rel": "n people to m devices",
+  "connection_classification": "Local master device",
+  "scale": "Room",
+  "contribution_desc": "This multimedia paper proposes a multimedia capturing system for university lectures consisting of multiple devices such as cameras, microphones, projectors.\r\n\r\nContribution: \"ubicomp\" -> \"automated capture and access\"",
+  "target_users": "Individual; Group work",
+  "deployment": "In-the-wild study;",
+  "pid": "Viel2013",
+  "focus": "Software",
+  "papertype": "Full paper",
+  "use_cases": "Education",
+  "devices_included": "Camera; Microphone; Whiteboard; Projector; Laptop; TV; Tablet; Environment sensors",
+  "use_cases_desc": "Captured lecture materials",
+  "device_mount": "Mounted to wall; Placed loosely around user (e.g., table)",
+  "contribution": "System",
+  "evaluation": "Focus group; Deployment with users",
+  "contentlength": "8",
+  "pid_done": "2"
+}

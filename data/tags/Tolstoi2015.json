@@ -1,0 +1,19 @@
+{
+  "pid_access": 1534773920,
+  "user_device_rel": "1 person to n devices",
+  "pid_done": "2",
+  "scale": "Near, personal space",
+  "input_modalities": "3D gestures; Touch",
+  "target_users": "Individual",
+  "contribution_desc": "A multi-device (smartphone-tablet) AR game where the smartphone serves as a visualization portal (magic lens) and as a remote control through a mid-air waving gesture. I don't know if I should trash this, or add it to our analysis. \r\n\r\nContribution: \"cross-device\" -> \"application\" -> \"game\".",
+  "pid": "Tolstoi2015",
+  "papertype": "Student Game Competition",
+  "use_cases": "Entertainment; Game",
+  "devices_included": "Phone; Tablet",
+  "output_modalities": "Screen output",
+  "use_cases_desc": "multi-device AR game",
+  "device_mount": "Handheld; Placed loosely around user (e.g., table)",
+  "contribution": "Use-case, application",
+  "interaction_techniques": "Visualisation; Remote control",
+  "contentlength": "4"
+}

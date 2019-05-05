@@ -1,0 +1,22 @@
+{
+  "user_device_rel": "1 person to n devices",
+  "target_users": "Expert users",
+  "pid": "Mano1981",
+  "focus": "Hardware; Software",
+  "pid_done": "2",
+  "scale": "Near, personal space",
+  "input_modalities": "Keyboard",
+  "devices_included": "Desktop computer",
+  "use_cases_desc": "Software development and programmes. ",
+  "evaluation": "None",
+  "contentlength": "7",
+  "contribution_desc": "The paper described a Multi-Display Programming System (MDPS), which enables programmers to display documents across 4 screens (paper from 1981!). The system is inspired by how programmers use real world tools (e.g. books, printed pages) to for their work. The authors aim to replicate / support a desk setup with multiple different spaces to be utilized. \r\n\r\nThe programmer can use command line input to display pages (a page is displayed on one screen) navigate the text on pages. \r\n",
+  "pid_access": 1534758501,
+  "use_cases": "Software development; Knowledge workers",
+  "output_modalities": "Screen output",
+  "deployment": "None",
+  "interaction_techniques": "UI distribution",
+  "tracking_tech": "None",
+  "network_infrastructure": "Network",
+  "contribution": "Interaction techniques; System"
+}

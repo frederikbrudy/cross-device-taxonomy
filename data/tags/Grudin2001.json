@@ -1,0 +1,18 @@
+{
+  "pid_access": 1535053308,
+  "user_device_rel": "1 person to n devices",
+  "pid_done": "2",
+  "contribution_desc": "Study about people's multi-monitor use",
+  "evaluation": "Observations; User study (qualitative)",
+  "target_users": "Individual",
+  "pid": "Grudin2001",
+  "focus": "Software",
+  "papertype": "Full paper",
+  "use_cases": "Knowledge workers; designers",
+  "devices_included": "Desktop computer",
+  "deployment": "In-the-wild study",
+  "device_mount": "Mounted",
+  "contribution": "Study",
+  "interaction_techniques": "Window management across displays",
+  "crossdevice_def": ""
+}

@@ -1,0 +1,14 @@
+{
+  "user_device_rel": "1 person to n devices",
+  "pid_done": "2",
+  "contribution_desc": "presents a second screen prototype for the MOOC platform of the Hasso Plattner Institute, whereby the mobile application can be used as a learning companion while using the web platform on a computer",
+  "target_users": "Individual",
+  "deployment": "In-the-wild study",
+  "pid": "Rohloff2017",
+  "focus": "Software",
+  "devices_included": "Phone",
+  "use_cases_desc": "Multi-screen MOOC",
+  "contribution": "System",
+  "evaluation": "User study (quantitative, controlled lab experiment); User study (qualitative); Survey",
+  "pid_access": 1534937179
+}

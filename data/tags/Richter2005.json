@@ -1,0 +1,15 @@
+{
+  "pid_access": 1535106005,
+  "unsolved": "automatic multi-device user interface transformation strategies and patterns",
+  "contribution_desc": "A classification of multi-device user interface transformation strategies. A user study of a multi-device user interface transformation algorithm (from a large to a small screen estate) focusing on usability and consistency. Minimal contribution to cross-device interaction.",
+  "target_users": "Individual",
+  "pid": "Richter2005",
+  "pid_done": "2",
+  "focus": "Software",
+  "devices_included": "Phone",
+  "deployment": "Lab study",
+  "contribution": "Study, deployment; algorithm",
+  "papertype": "Poster",
+  "evaluation": "User study (quantitative, controlled lab experiment)",
+  "contentlength": "4"
+}

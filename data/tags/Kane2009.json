@@ -1,0 +1,18 @@
+{
+  "pid_access": 1535107176,
+  "user_device_rel": "1 person to n devices",
+  "pid_done": "2",
+  "scale": "Location-agnostic",
+  "contribution_desc": "The paper studies whether users would benefit from sharing web use (opened URLs) across devices. The authors present a survey study and a study where 14 participants web use is tracked across their PC and mobile phones.",
+  "evaluation": "User study (qualitative); Deployment with users",
+  "target_users": "Individual",
+  "pid": "Kane2009",
+  "focus": "Software",
+  "tracking_tech": "None",
+  "devices_included": "Phone; Laptop; Desktop computer",
+  "deployment": "UX study",
+  "contribution": "Study (human factors)",
+  "papertype": "Full paper",
+  "interaction_techniques": "Cross-device task chaining",
+  "contentlength": "13"
+}

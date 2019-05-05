@@ -1,0 +1,16 @@
+{
+  "pid_access": 1535642333,
+  "pid_done": "2",
+  "contribution_desc": "Position paper investigating user distributed user interfaces as a means to provide fault tolerance in systems for managing complex tasks.",
+  "evaluation": "None",
+  "target_users": "Expert users",
+  "deployment": "None",
+  "pid": "Fayollas2014",
+  "papertype": "Note",
+  "use_cases": "Knowledge workers;",
+  "use_cases_desc": "Using redundant user interfaces in a cockpit as a case study for distributed user interfaces for fault tolerance.",
+  "contribution": "Theory; Use-case, application",
+  "interaction_techniques": "UI distribution",
+  "crossdevice_def": "\"... Distributed User Interfaces (DUIs) where information display may appear on various output devices and input of information can be performed by the operators using several input devices\"\r\n\r\n\"Several definitions of distributed user interfaces co-exist and present complementary viewpoints. For Vanderdonckt [8], a UI distribution \"concerns the repartition of one or many elements from one or many user interfaces in order to support one or many users to carry out one or many tasks on one or many domains in one or many contexts of use, each context of use consisting of users, platforms, and environments\". Another definition proposed by Elmqvist [2] identifies several dimensions for the distribution of UI components: input, output, platform, space and time. Demeure et al. [1] also propose a reference framework (called 4C) to analyse DUIs, which is composed of four concepts: computation, coordination, communication and configuration. Villanueva et al. [9] also proposes a metamodel to classify UIs as Divisible/Undivisible and Distributable/Undistributable. In this position paper we advocate for a task and context based approach for the design of DUI. For this reason the contribution fits better with the first definition as it explicitly and directly binds the tasks and context of use to the DUI.\"",
+  "contentlength": "4"
+}

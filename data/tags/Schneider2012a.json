@@ -1,0 +1,23 @@
+{
+  "target_users": "Group work; Individual",
+  "pid": "Schneider2012a",
+  "focus": "Software",
+  "device_models": "Microsoft Surface",
+  "device_mount": "Mounted to wall; Placed loosely around user (e.g., table)",
+  "pid_done": "2",
+  "input_modalities": "Touch",
+  "devices_included": "Whiteboard, large vertical display; Tabletop, large horizontal display",
+  "use_cases_desc": "Exploring and learning about dataset.",
+  "evaluation": "Focus group; User study (qualitative)",
+  "contentlength": "3.5",
+  "contribution_desc": "Discusses a visual simulation application. Multiple displays allow users to interact with large visual datasets and observe complex visual simulations. Evaluation is also presented.",
+  "pid_access": 1535249535,
+  "papertype": "Poster",
+  "use_cases": "Education",
+  "output_modalities": "Screen output",
+  "deployment": "Lab study",
+  "interaction_techniques": "Visualisation; Data exploration",
+  "tracking_characteristic": "Multiple screens",
+  "tracking_tech": "Static setup",
+  "contribution": "Display/Visualization technique"
+}

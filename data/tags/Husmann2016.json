@@ -1,0 +1,20 @@
+{
+  "pid_access": 1534506441,
+  "user_device_rel": "n people to m devices",
+  "unsolved": "Reduced features in development tools compared to traditional tools.",
+  "toolkits": "Javascript; HTML5: Socket.io",
+  "contribution_desc": "XDTools is a set of tools for testing a debugging cross-device applications. The paper presents a set of requirements for cross-device testing, introduces XDTools and presents a preliminary qualitative evaluation of the system.",
+  "target_users": "Expert users",
+  "deployment": "Lab study",
+  "pid": "Husmann2016",
+  "focus": "Software",
+  "papertype": "Full paper",
+  "network_infrastructure": "Internet",
+  "use_cases_desc": "Developing and debugging cross-device applications",
+  "connection_classification": "Via remote server",
+  "contribution": "System; Toolkit, middleware",
+  "evaluation": "User study (qualitative)",
+  "crossdevice_def": "\"... cross-device scenarios where multiple devices are used simultaneously and in a coordinated manner\"",
+  "contentlength": "10",
+  "pid_done": "2"
+}

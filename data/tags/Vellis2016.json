@@ -1,0 +1,17 @@
+{
+  "user_device_rel": "1 person to n devices",
+  "pid_done": "2",
+  "contribution_desc": "model-based UI engineering approach to support (design and run-time) multi-device synchronous collaborative interactions",
+  "evaluation": "None",
+  "contentlength": "4",
+  "deployment": "None",
+  "pid": "Vellis2016",
+  "focus": "Software",
+  "tracking_tech": "None",
+  "devices_included": "Not specified",
+  "use_cases_desc": "Distributed music composition application",
+  "contribution": "Toolkit, middleware",
+  "papertype": "Note",
+  "interaction_techniques": "UI distribution",
+  "pid_access": 1534936149
+}

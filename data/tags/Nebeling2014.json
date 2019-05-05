@@ -1,0 +1,23 @@
+{
+  "user_device_rel": "1 person to n devices",
+  "unsolved": "Deployment of final prototype without XDStudio; no tracking of devices integrated",
+  "target_users": "Expert users;developers",
+  "pid": "Nebeling2014",
+  "focus": "Software",
+  "pid_done": "2",
+  "input_modalities": "Touch; Keyboard; Mouse",
+  "devices_included": "Any screen device; Laptop",
+  "use_cases_desc": "Use case for the tools are software developers. The authors describe two use cases for software developed with XDStudio: a meeting room and a classroom setting. ",
+  "evaluation": "User study (qualitative)",
+  "contentlength": "9.5",
+  "contribution_desc": "The paper contributes XDStudio, a GUI builder that allows developers to interactively create cross-device web interfaces.\r\nXDStudio allows to develope multi-device interfaces either in a simulated authoring environment, where devices are emulated on one screen; and an on-device authoring mode, where conntected physical devices are used to display and develope interfaces. \r\nXDstudio allows users to switch between the two modes as well as between a design- and use-mode. \r\n\r\nDevices are declared through distribution profiles, which describe the device's capability. Profiles can be associated with user roles. \r\n\r\nXDStudio was tested in a lab study with 12 participants. ",
+  "pid_access": 1534928524,
+  "papertype": "Full paper",
+  "use_cases": "Software development; Education; Knowledge workers",
+  "output_modalities": "Screen output",
+  "deployment": "Lab study",
+  "connection_classification": "Local master device",
+  "toolkits": "NodeJS; jQuery; Socket.IO; HTML5; jQuery UI; Touch Punch",
+  "tracking_tech": "None",
+  "contribution": "System; developer tool"
+}

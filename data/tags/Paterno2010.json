@@ -1,0 +1,14 @@
+{
+  "pid_access": 1534780662,
+  "pid_done": "2",
+  "contribution_desc": "This paper presents a tool that can transform a task-based model into a web application to be used on different devices. This paper is in the pile of \"multi-device user interface specification/application development\". If we are discussing the differences between multi-device and cross-device, this paper may be relevant.\r\n\r\nContribution: \"multi-device\" -> \"UI synthesis and generation\"",
+  "target_users": "Individual",
+  "pid": "Paterno2010",
+  "papertype": "Full paper",
+  "device_models": "Apple iPhone",
+  "devices_included": "Phone; Desktop computer",
+  "output_modalities": "Screen output",
+  "device_mount": "Handheld",
+  "contribution": "Toolkit, middleware",
+  "contentlength": "4"
+}

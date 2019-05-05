@@ -1,0 +1,18 @@
+{
+  "pid_access": 1535108251,
+  "pid_done": "2",
+  "scale": "Near, personal space",
+  "input_modalities": "Keyboard",
+  "contribution_desc": "An early multi-screen setup for programming (1982). MDPS allows programmers to distribute the texts they are working on across screens. The system was observed used in the wild.",
+  "target_users": "Expert users",
+  "pid": "Mano1982",
+  "focus": "Hardware; Software",
+  "papertype": "Note",
+  "use_cases": "Programming",
+  "devices_included": "Desktop computer",
+  "output_modalities": "Screen output",
+  "deployment": "In-the-wild study",
+  "contribution": "System; Study, deployment",
+  "evaluation": "Deployment with users; Deployment with developers",
+  "contentlength": "2"
+}

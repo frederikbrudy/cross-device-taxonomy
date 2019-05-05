@@ -1,0 +1,19 @@
+{
+  "pid_access": 1535461910,
+  "pid_done": "2",
+  "toolkits": "JFC",
+  "input_modalities": "Keyboard; Mouse",
+  "contribution_desc": "The paper proposes a middleware for application developers to enable remote execution / thin-client computing (\"to bring the server's desktop to the user and thereby permits a full range of user interactivity\"). This is done in the form of a wrapper for Java Foundation Classes (JFC) which comes as \"Remote JFC (RJFC)\". RJFC offers bandwith advantages compared to frame buffer approaches and flexibility compared to \"static HTML\" (\"pull-only\") approaches. \r\nRJFC needs to be implemented by the application developer. It has a compatible API to JFC. ",
+  "network_infrastructure": "Internet; LAN",
+  "evaluation": "Technical evaluation (e.g., runtime, roundtrip); although very limited",
+  "target_users": "Expert users",
+  "deployment": "None",
+  "pid": "Lok2002",
+  "focus": "Software",
+  "output_modalities": "Screen output",
+  "use_cases_desc": "Thin clients",
+  "contribution": "Toolkit, middleware",
+  "interaction_techniques": "UI distribution",
+  "crossdevice_def": "\"bring the server's desktop to the user and thereby permits a full range of user interactivity\".\r\n\r\n\"Distributed user interface toolkits address the issues that arise when employing Web-based HTTP/HTML and remote frame buffer\r\napproaches by allowing a server to manipulate user interface toolkit\r\ncomponents directly on the client. The server can create, modify,\r\nand delete any of the components available in the distributed\r\ntoolkit as if it were working with a local application. One might\r\nthink of this as an implementation of a remote frame buffer with\r\nan extremely efficient, lossless compression algorithm.\"",
+  "contentlength": "7"
+}

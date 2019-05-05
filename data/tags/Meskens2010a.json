@@ -1,0 +1,16 @@
+{
+  "pid_access": 1535465064,
+  "unsolved": "Designing cross-platform multi-user interfaces",
+  "contribution_desc": "Jelly is a design environment that enables design of multi-user interfaces. ",
+  "target_users": "Individual; Designers ; Designers of multi-device user interfaces",
+  "deployment": "None",
+  "pid": "Meskens2010a",
+  "focus": "Software",
+  "papertype": "Full paper",
+  "use_cases": "Interface design",
+  "use_cases_desc": "Multi-user interface design",
+  "pid_done": "2",
+  "contribution": "System; Multi-device design environment",
+  "evaluation": "informative study",
+  "contentlength": "7"
+}

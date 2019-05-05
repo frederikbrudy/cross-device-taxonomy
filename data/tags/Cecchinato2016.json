@@ -1,0 +1,20 @@
+{
+  "pid_access": 1535105437,
+  "user_device_rel": "1 person to n devices",
+  "pid_done": "2",
+  "scale": "Near, personal space; Room; Social space",
+  "input_modalities": "Touch; Keyboard; Mouse",
+  "evaluation": "User study (qualitative); Deployment with users",
+  "target_users": "Individual",
+  "pid": "Cecchinato2016",
+  "tracking_characteristic": "Identity",
+  "tracking_tech": "Manual",
+  "use_cases": "Email",
+  "devices_included": "Phone; Laptop; Desktop computer",
+  "output_modalities": "Screen output",
+  "deployment": "In-the-wild study; Diary study",
+  "device_mount": "Placed loosely around user (e.g., table); Handheld",
+  "contribution": "Study, deployment; Use-case, application; Email use across devices; Device use",
+  "interaction_techniques": "Starting tasks on one, continuing tasks on another device",
+  "contentlength": "10"
+}

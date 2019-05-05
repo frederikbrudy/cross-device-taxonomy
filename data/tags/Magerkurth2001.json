@@ -1,0 +1,15 @@
+{
+  "pid_access": 1535698537,
+  "unsolved": "Acceleration of cross-platform development",
+  "contribution_desc": "An independent application platform that allows describing user interfaces and interaction in an abstract form that then is \"translated\" by iAF into applications for a specific platform. The iAF, thereby, considers the device capabilities including resolution, display size, and I/O capabilities.",
+  "target_users": "Individual; Developers",
+  "pid": "Magerkurth2001",
+  "pid_done": "2",
+  "focus": "Software",
+  "devices_included": "Any computing device; Any screen device",
+  "deployment": "None",
+  "contribution": "Toolkit, middleware; independent application platform",
+  "evaluation": "None",
+  "crossdevice_def": "In the context of ubiquitous computing [8] and computer-supported cooperative work (CSCW) the lack of cross-device availability of the software and the implied lack of cross-device data exchange is especially harmful, because most interesting functionalities only emerges through\r\nusing multiple devices together. For example, efficient and fluent work across platforms and different media can only be realized, if media breaks are prevented, i.e. if the user does not have to perform additional explicit actions associated with data transmission from one device to another [6]. Therefore, it is essential to provide a seamless application infrastructure on all of the devices in a CSCW setting, if the domain of mobile computing should contribute more than a collection of single-user toy",
+  "contentlength": "3"
+}

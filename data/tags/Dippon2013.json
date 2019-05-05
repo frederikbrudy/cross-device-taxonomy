@@ -1,0 +1,20 @@
+{
+  "pid_access": 1535641516,
+  "user_device_rel": "n people to m devices",
+  "pid_done": "2",
+  "scale": "Near, personal space; Social space",
+  "input_modalities": "Touch",
+  "evaluation": "None",
+  "target_users": "Group work",
+  "contribution_desc": "development process of natural interaction for card games on multiple devices",
+  "pid": "Dippon2013",
+  "focus": "Software",
+  "papertype": "Poster",
+  "use_cases": "Leisure",
+  "devices_included": "Tablet; Phone",
+  "use_cases_desc": "Distributed card game",
+  "device_mount": "Handheld; Placed loosely around user (e.g., table)",
+  "interaction_techniques": "Data transfer/sharing; Remote control",
+  "contentlength": "4",
+  "deployment": "None"
+}

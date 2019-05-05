@@ -1,0 +1,21 @@
+{
+  "user_device_rel": "1 person to n devices",
+  "contentlength": "10",
+  "pid": "Seyed2012",
+  "device_mount": "Handheld; Placed loosely around user (e.g., table); Mounted to wall",
+  "pid_done": "2",
+  "scale": "Near, personal space; Social space",
+  "input_modalities": "Touch; 3D gestures",
+  "devices_included": "Any screen device; Tablet; Whiteboard, large vertical display; Tabletop, large horizontal display",
+  "evaluation": "elicitation study",
+  "contribution_desc": "End-user gesture elicitation study for operations in multi-device environments.\r\nRelatively low agreement scores.",
+  "pid_access": 1535461544,
+  "papertype": "Full paper",
+  "device_models": "Apple iPad; Microsoft Surface 2; SMART Board Display",
+  "output_modalities": "Screen output",
+  "deployment": "Lab study",
+  "interaction_techniques": "Data transfer/sharing; send and retrieve",
+  "tracking_tech": "None",
+  "contribution": "Interaction techniques; Elicitation study",
+  "crossdevice_def": "\"Multi-display environments (MDEs) have advanced rapidly in recent years, incorporating multi-touch tabletops, tablets, wall displays and even position tracking systems. \""
+}

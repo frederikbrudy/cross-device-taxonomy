@@ -1,0 +1,22 @@
+{
+  "user_device_rel": "1 person to n devices",
+  "target_users": "Individual",
+  "pid": "Rashid2010",
+  "device_mount": "Handheld; Mounted to wall",
+  "pid_done": "2",
+  "scale": "Room",
+  "input_modalities": "Touch; 3D gestures",
+  "devices_included": "Whiteboard, large vertical display; Phone",
+  "use_cases_desc": "General interaction with large display when using mobile devices (e.g., for control, transfer content)",
+  "evaluation": "User study (qualitative)",
+  "contentlength": "1",
+  "contribution_desc": "Study about the effectiveness of labels used to make suers aware of particular interaction techniques when using small mobile devices to interact with large displays. Very short paper, just one page. Findings: best placement below the large screen; possibly showing interaction sequence, like a storyboard; also found that pictures can complement but not completely override the need for text.",
+  "pid_access": 1533645856,
+  "papertype": "Note",
+  "output_modalities": "Screen output",
+  "deployment": "Lab study",
+  "interaction_techniques": "For interacting with large display: drawing, pointing, touching, pointing",
+  "tracking_tech": "None",
+  "contribution": "Study (human factors)",
+  "crossdevice_def": "large display + mobile device"
+}

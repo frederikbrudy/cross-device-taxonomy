@@ -1,0 +1,22 @@
+{
+  "user_device_rel": "1 person to n devices",
+  "target_users": "User interface designers; Expert users; designers",
+  "pid": "Meskens2009",
+  "focus": "Software",
+  "pid_done": "2",
+  "scale": "Location-agnostic",
+  "input_modalities": "Mouse",
+  "devices_included": "PDA; Phone",
+  "use_cases_desc": "Tool (GUI builder) to live design user interface and interactions on mobile devices.",
+  "evaluation": "None",
+  "contentlength": "5",
+  "contribution_desc": "GUI builder for live designing user interfaces and interactions on mobile devices. The builder extends the working space onto the mobile device, so that the designer can move the mouse cursor from the computer to the mobile device and, for example, live resize and move interface elements or even test interactions. ",
+  "pid_access": 1535465015,
+  "papertype": "Note",
+  "use_cases": "User interface designer",
+  "output_modalities": "Screen output",
+  "deployment": "None",
+  "interaction_techniques": "Extending displays",
+  "toolkits": "XMPP; P/Invoke .NET API",
+  "contribution": "System"
+}

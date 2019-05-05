@@ -1,0 +1,19 @@
+{
+  "pid_access": 1535109018,
+  "user_device_rel": "n people to m devices",
+  "pid_done": "2",
+  "scale": "Near, personal space; Room; Social space; Buildings",
+  "contribution_desc": "A framework of interaction principles for digital ecosystems. The framework is evaluated by using it on two examples; first analytically and secondly generatively. ",
+  "evaluation": "Examples",
+  "target_users": "Individual; Group work",
+  "pid": "Sorensen2014",
+  "tracking_tech": "None",
+  "use_cases": "Entertainment",
+  "devices_included": "Any screen device",
+  "deployment": "None",
+  "contribution": "Theory",
+  "papertype": "Full paper",
+  "interaction_techniques": "Data transfer/sharing; Data exploration; UI distribution; Cross-device task chaining; Remote control; Session continuation",
+  "crossdevice_def": "\"digital ecosystems can be described as a network of nodes that interact with each other through relationships [22]. For a digital ecosystem, this network consists of users and digital artifacts, dynamically bounded by the users' activities [...] Putting the interaction between users and digital artifacts in the center, four basic structures of relationship emerge: 1) many users interacting with many artifacts, 2) one user interacting with many artifacts, 3) many users interacting with one artifact, and 4) one user interacting with one artifact.\"\r\n\r\n\"The first theme covers situations of sequential interaction involving several users. We refer to this as cases of communality in reference to communal computing where artifacts are shared between users, but with an emphasis on each user interacting with the artifact at a time\"\r\n\r\n\"The second theme covers situations of simultaneous interaction by many users, which we refer to broadly as cases of collaboration. [...] Broadly speaking, simultaneous collaborative interaction in a digital ecosystem is for the purpose of doing, or engaging in, a shared activity or task involving joint interaction with one or more shared digital artifacts.\"\r\n\r\n\"The third theme addresses situations of sequential interaction involving several artifacts. We refer to this as cases of continuity, where an interaction starts on one artifact and then continues on another. This enables people to use several artifacts [31] and re-access content on a different device [2]. Such continuous interactions can be facilitated by keeping data consistent across artifacts, or by allowing activities started on one artifact to be continued on another one, exactly where it was left off.\"\r\n\r\n\"The fourth theme is about simultaneous interaction with multiple artifacts. We refer to this as complementarity, where interaction with one artifact adds to the interaction with another artifact, and these jointly make up a larger whole. This is similar to the concept of \"composition\" in cross-platform design described by Waljas et al. [31], but with focus on simultaneous interaction, and the effect created when using several digital artifacts together as one.\"\r\n\r\n",
+  "contentlength": "10"
+}

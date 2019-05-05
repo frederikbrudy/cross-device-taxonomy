@@ -1,0 +1,23 @@
+{
+  "user_device_rel": "1 person to n devices",
+  "target_users": "Individual",
+  "pid": "Paay2017",
+  "focus": "Software",
+  "device_mount": "Mounted to wall; Handheld",
+  "pid_done": "2",
+  "scale": "Social space",
+  "input_modalities": "Touch; 3D gestures",
+  "devices_included": "Phone; Whiteboard, large vertical display",
+  "evaluation": "User study (quantitative, controlled lab experiment)",
+  "contentlength": "9.5",
+  "contribution_desc": "Investigates the use of pinching, swiping, swinging and flicking for moving objects between a handheld device and a large display, looking at their effectiveness, efficiency and accuracy.\r\n\r\nTechniques are reimplementations of techniques found in prior work. Mostly derivative of pick&drop in various forms. Using Kinect to track body and touch/IMU on the mobile device.\r\n\r\nContribution is mostly the study.",
+  "pid_access": 1536783929,
+  "papertype": "Full paper",
+  "tracking_characteristic": "Tracking users only; Tracking device through user's body; Inside-out tracking; Outside-in tracking",
+  "output_modalities": "Screen output",
+  "deployment": "Lab study",
+  "interaction_techniques": "Data transfer/sharing",
+  "tracking_tech": "Kinect; IMU",
+  "contribution": "Interaction techniques; Study (human factors)",
+  "crossdevice_def": "Cross-Device Interaction; multi-device scenarios"
+}

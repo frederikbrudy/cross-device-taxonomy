@@ -1,0 +1,20 @@
+{
+  "pid_access": 1534263775,
+  "user_device_rel": "1 person to n devices",
+  "connection_classification": "Via remote server",
+  "contribution_desc": "System and architecture for 'migratory' multi-modal interfaces in multi-device environments. Applications are implemented through web standards/technologies.",
+  "contentlength": "7",
+  "deployment": "None",
+  "pid": "Berti2005",
+  "focus": "Software",
+  "tracking_tech": "None",
+  "devices_included": "PDA; Desktop computer",
+  "network_infrastructure": "Internet; WiFi",
+  "use_cases_desc": "Example walkthrough for migratory interface",
+  "device_mount": "Handheld; Placed loosely around user (e.g., table); Mounted",
+  "contribution": "Toolkit, middleware; System",
+  "papertype": "Full paper",
+  "evaluation": "Example walkthrough",
+  "crossdevice_def": "Migratory interfaces -- important distinction to cross-device.\r\n\r\n\"Migratory interfaces are interfaces that allow users to freely change device and still be able to continue the task from the point they left off in the previous one.\"",
+  "pid_done": "2"
+}

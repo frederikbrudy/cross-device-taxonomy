@@ -1,0 +1,23 @@
+{
+  "user_device_rel": "n people to m devices",
+  "target_users": "Individual; Group work",
+  "pid": "Rekimoto2004",
+  "focus": "Software; Hardware",
+  "pid_done": "2",
+  "scale": "Room",
+  "input_modalities": "Keyboard; Mouse; Touch; Button",
+  "devices_included": "Any device with a button; Printer; Any screen device",
+  "use_cases_desc": "- Establishing an instant connection between mobile computers and other devices (e.g. printer and PDA)\r\n- ad-hoc connection at a hotspot or in a meeting room\r\n- Connection to devices that are not within a user's reach (e.g. presentation computer) through a proxy button (e.g. on the remote)\r\n- Pairing multiple computer devices for continued screen (see: HyperCursor)",
+  "evaluation": "Technical performance (speed)",
+  "contentlength": "8.5",
+  "contribution_desc": "The paper introduces the concept of using a synchronous button-press gesture on two devices to pair them. The system utilizes existing (or low cost to add) physical or digital buttons and no other sensors are required. \r\nThe two devices can either already be on the same network, or the technique can be used to establish a network connection.\r\nCollisions are managed through repeated actions and filtering of previous connection actions, therefore the technique is scalable to many devices on the same network. \r\nThe author describes how a threshold value for the synchronous gesture was decided based on a performance study with 5 participants. However, no other study has been conducted.",
+  "pid_access": 1537243160,
+  "papertype": "Full paper",
+  "use_cases": "Office; Knowledge workers",
+  "deployment": "None",
+  "interaction_techniques": "Data transfer/sharing; Cross-device task chaining; Remote control",
+  "connection_classification": "P2P",
+  "tracking_tech": "None",
+  "network_infrastructure": "WiFi",
+  "contribution": "Interaction techniques; Tracking technology"
+}

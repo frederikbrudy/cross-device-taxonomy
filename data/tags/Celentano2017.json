@@ -1,0 +1,23 @@
+{
+  "user_device_rel": "n people to m devices; 1 person to n devices",
+  "contentlength": "9",
+  "pid": "Celentano2017",
+  "device_mount": "Mounted to wall; Placed loosely around user (e.g., table)",
+  "pid_done": "2",
+  "scale": "Room",
+  "input_modalities": "Touch",
+  "devices_included": "Whiteboard, large vertical display; Tabletop, large horizontal display; Tablet; Laptop",
+  "use_cases_desc": "\"neOCampus project is a multidisciplinary approach towards the definition of a smart, sustainable and innovative university campus, gathering ecologists, computer scientists, material scientists, electricity specialists, thermal and acoustics experts together to combine their expertise and offer new services.\"",
+  "evaluation": "User study (quantitative, controlled lab experiment); User study (qualitative)",
+  "contribution_desc": "Analysis of tabletop and multi-device interactions on primarily to levels of abstraction: \r\n\"interaction in the large layer defines an interactive experience across different devices and locations, where roles and tasks evolve and intertwine; an interaction in the small layer defines the actions done and the interaction techniques used to execute a specific, self-contained task on a device\"",
+  "pid_access": 1534929068,
+  "papertype": "Full paper",
+  "use_cases": "Knowledge workers",
+  "output_modalities": "Screen output",
+  "deployment": "Lab study",
+  "connection_classification": "Local master device",
+  "tracking_tech": "None",
+  "network_infrastructure": "WiFi",
+  "contribution": "Theory",
+  "crossdevice_def": "\"Multi device environments (MDE) are receiving increased attention due to enhanced display technologies, spread of public displays, augmentation of ambients with embedded devices, and spread use of mobile technologies and personal devices. \""
+}

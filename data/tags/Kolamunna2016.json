@@ -1,0 +1,21 @@
+{
+  "target_users": "Individual",
+  "pid": "Kolamunna2016",
+  "focus": "Software",
+  "pid_done": "2",
+  "scale": "Near, personal space",
+  "devices_included": "Phone; Smart watch",
+  "use_cases_desc": "Sensor integration across devices for optimized use with battery use in mind",
+  "evaluation": "Technical evaluation (e.g., runtime, roundtrip)",
+  "contentlength": "10",
+  "contribution_desc": "Proposes a framework for automated dynamic function virtualization/scheduling across devices, simplifying context-aware application development. Attempts to utilize the collective capabilities of mobile devices (e.g., sensors on one device for another)",
+  "pid_access": 1535241908,
+  "papertype": "Full paper",
+  "device_models": "Android",
+  "deployment": "Simulated",
+  "connection_classification": "P2P; PAN",
+  "tracking_characteristic": "Same space/network",
+  "tracking_tech": "BLE",
+  "network_infrastructure": "Bluetooth",
+  "contribution": "Toolkit, middleware"
+}

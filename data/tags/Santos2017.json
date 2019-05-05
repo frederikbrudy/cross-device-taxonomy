@@ -1,0 +1,13 @@
+{
+  "user_device_rel": "1 person to n devices",
+  "pid_done": "2",
+  "contribution_desc": "new framework for multi-device applications",
+  "pid_access": 1534934881,
+  "pid": "Santos2017",
+  "focus": "Software",
+  "papertype": "DC",
+  "deployment": "None",
+  "contribution": "Toolkit, middleware",
+  "evaluation": "None",
+  "crossdevice_def": "\"applications that work as a whole across multiple devices, where the user interface state is distributed among multiple devices\""
+}

@@ -1,0 +1,22 @@
+{
+  "user_device_rel": "1 person to n devices",
+  "target_users": "Individual",
+  "pid": "Winkler2013",
+  "focus": "Software; Hardware",
+  "device_mount": "Handheld; Placed loosely around user (e.g., table)",
+  "pid_done": "2",
+  "scale": "Near, personal space",
+  "input_modalities": "Touch; pen",
+  "devices_included": "Tablet; projector; digital pen",
+  "use_cases_desc": "patient registration\r\n\r\npatient anamnesis\r\n\r\nissuing prescriptions\r\n\r\nGeneral healthcare/nomadic workflow",
+  "evaluation": "Focus group",
+  "contentlength": "4",
+  "contribution_desc": "Penbook, a system providing a touch screen together with a built-in projector integrated with a wireless pen and a projection screen augmented with Anoto paper",
+  "pid_access": 1534936564,
+  "papertype": "Note",
+  "use_cases": "healthcare",
+  "output_modalities": "Screen output",
+  "deployment": "Lab study",
+  "interaction_techniques": "Remote control",
+  "contribution": "System"
+}

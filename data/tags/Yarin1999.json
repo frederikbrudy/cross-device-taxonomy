@@ -1,0 +1,22 @@
+{
+  "user_device_rel": "1 person to n devices",
+  "target_users": "Group work; Expert users",
+  "pid": "Yarin1999",
+  "focus": "Hardware",
+  "pid_done": "2",
+  "devices_included": "Tangibles; Remote control",
+  "use_cases_desc": "Monitoring distributed devices",
+  "evaluation": "None",
+  "contentlength": "6.5",
+  "contribution_desc": "Proposes interface system to support physical-world collaborative work. Small devices attach to shipping boxes and their displays can be programmed with a remote. They communicate with a web backend that shows an overview of all displays.",
+  "pid_access": 1536781921,
+  "papertype": "Full paper",
+  "tracking_characteristic": "Proximity; Inside-out tracking",
+  "additional_hardware": "TouchCounters: electronic labels that are palm-sized electronic devices that attach to the front faces of plastic storage containers",
+  "deployment": "None",
+  "interaction_techniques": "Remote control",
+  "connection_classification": "Via remote server",
+  "tracking_tech": "Optical",
+  "contribution": "Tracking technology",
+  "crossdevice_def": "multi-object interaction; multi-display visualization"
+}

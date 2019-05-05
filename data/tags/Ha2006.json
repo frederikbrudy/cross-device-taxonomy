@@ -1,0 +1,22 @@
+{
+  "user_device_rel": "n people to m devices",
+  "target_users": "Individual; Group work",
+  "pid": "Ha2006",
+  "focus": "Software",
+  "device_mount": "Placed loosely around user (e.g., table); Mounted to wall",
+  "pid_done": "2",
+  "scale": "Room",
+  "input_modalities": "Touch; Keyboard",
+  "devices_included": "Any screen device; Phone; Tablet; Whiteboard, large vertical display; Tabletop, large horizontal display; Laptop; Desktop computer",
+  "evaluation": "User study (qualitative)",
+  "contentlength": "6",
+  "contribution_desc": "Study about re-configuring virtual workspaces in MDEs.",
+  "pid_access": 1534349616,
+  "papertype": "Poster",
+  "output_modalities": "Screen output",
+  "deployment": "Lab study",
+  "interaction_techniques": "Workspace configuration and re-configuration",
+  "tracking_tech": "None",
+  "contribution": "System; Interaction techniques",
+  "crossdevice_def": "\"...multi-display environments (MDEs) are increasing in popularity. Whether it is a three-screen multi-monitor display, or a large, technology-rich \"situation room\", equipped with a plethora of screens on the walls and tables, ...\"\r\n\r\nCOLLABORATIVE MDEs:\r\n\"collaborative MDEs consist of a combination of large static public displays and individual users' private mobile computing devices such as laptops\""
+}

@@ -1,0 +1,14 @@
+{
+  "pid_access": 1537281542,
+  "pid_done": "2",
+  "contribution_desc": "Focusing on discussing of model-driven approaches for development of cross-platform applications (multi-device used in the sense of platforms).\r\nThis paper is more of an industry case study.",
+  "target_users": "Developers",
+  "pid": "Umuhoza2015",
+  "papertype": "Full paper",
+  "devices_included": "Mobile; Phone",
+  "deployment": "None",
+  "contribution": "Theory; Reflections; Discussion; Toolkit, middleware",
+  "evaluation": "Technical evaluation (e.g., runtime, roundtrip)",
+  "crossdevice_def": "Simple definition for cross platform:\r\n\r\ncross platform (developing apps that work across multiple platforms)",
+  "contentlength": "8"
+}

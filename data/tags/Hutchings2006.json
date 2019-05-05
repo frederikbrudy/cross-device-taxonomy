@@ -1,0 +1,20 @@
+{
+  "pid_access": 1534774345,
+  "user_device_rel": "1 person to n devices",
+  "unsolved": "How and why people divide (distribute) interfaces",
+  "scale": "Near, personal space; Social space",
+  "contribution_desc": "A study of how and why people divide user interfaces across devices in private, semi-private, and public environments. The participants want to distribute user interfaces across devices, but they are concerned about privacy and security. They like to distribute user interfaces based on the input and output resources of each device. The participants want to display user interfaces differently on different devices to leverage available devices or due to privacy concerns. The paper discusses implications for design.\r\n\r\nContribution: \"cross-device interaction\" -> \"study\" -> \"usage patterns (UI distribution)\".",
+  "target_users": "Individual",
+  "deployment": "Lab study; Online survey; Paper Prototyping",
+  "pid": "Hutchings2006",
+  "pid_done": "2",
+  "papertype": "Full paper",
+  "use_cases": "UI distribution",
+  "devices_included": "Phone; Public display; Laptop",
+  "output_modalities": "Screen output",
+  "use_cases_desc": "user interface distribution for different tasks - email, calendar, spreadsheet, web browser - in public, semi-public, private environments",
+  "device_mount": "Handheld; Placed loosely around user (e.g., table); Mounted to wall",
+  "contribution": "Study, deployment",
+  "evaluation": "User study (qualitative); User study (quantitative, controlled lab experiment)",
+  "contentlength": "4"
+}

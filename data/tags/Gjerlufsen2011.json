@@ -1,0 +1,23 @@
+{
+  "user_device_rel": "n people to m devices",
+  "target_users": "Group work; Expert users; Individual",
+  "pid": "Gjerlufsen2011",
+  "focus": "Software",
+  "pid_done": "2",
+  "scale": "Room",
+  "input_modalities": "Mouse; Touch",
+  "devices_included": "Any screen device",
+  "use_cases_desc": "Inspect and analyze brain scans on a large wall. A user/anatomist can change the view on the large wall by pointing a 6DoF pen at a tangible 3D model of a brain.\r\n\r\nFlexible and distributed rendering of a scene graph across multiple screens/devices. A screen can render a portion of the scene graph, therefore allowing to extend screen real-estate across multiple screens.",
+  "evaluation": "Heuristic evaluation (criteria); Comparison to related work",
+  "contentlength": "10",
+  "contribution_desc": "Shared Substance is a data-oriented programming model that allows for flexible sharing of physically connected resources, user created content, system elements (network connections), application state, and functionality.",
+  "pid_access": 1534319492,
+  "papertype": "Full paper",
+  "use_cases": "Medicine; Any application that benefits from content distribution",
+  "output_modalities": "Screen output",
+  "deployment": "None",
+  "interaction_techniques": "Visualisation; Data transfer/sharing; UI distribution; Remote control",
+  "toolkits": "Python",
+  "network_infrastructure": "WiFi",
+  "contribution": "System; Toolkit, middleware; Use-case, application"
+}

@@ -1,0 +1,22 @@
+{
+  "user_device_rel": "1 person to n devices; n people to m devices",
+  "unsolved": "Mapping user-defined gesture to application commands",
+  "target_users": "Individual; Expert users",
+  "pid": "Chen2017",
+  "focus": "Software",
+  "pid_done": "2",
+  "devices_included": "Any screen device",
+  "use_cases_desc": "*Situational impairments*: Users remap commands due to temporal constraints (e.g., access to a laptop during a presentation is restricted because of configuration of the environement)\r\n\r\n*Optimizing input*: Remap functions to improve, e.g. interaction accuracy, speed, ...\r\n\r\n*Allowing multi-user input*: Expand same interactions to multiple devices, for example, to allow multiple users to advance slides (e.g., keyboard and touch device simultaneously)\r\n\r\n*Distribute complex UI on multiple devices*: outsourcing of UI elements onto other devices\r\n\r\n",
+  "evaluation": "Evaluation of time to create user-defined mappings; Evaluation of accuracy detecting gestures and command mappings",
+  "contentlength": "20",
+  "contribution_desc": "A general cross-device input framework that allows users to remap functions of an (unodified) application to user-defined gestures. User for example can remap the commands to navigate through a slide deck (i.e. arrow left/right key) to a swipe gesture (i.e. left/right swipe) executed on a touch device.",
+  "pid_access": 1531389734,
+  "papertype": "Full paper",
+  "device_models": "MacBook Pro running Chrome and the Chrome extension; Samsung Galaxy S6 Phone",
+  "interaction_techniques": "UI distribution; Remote control",
+  "connection_classification": "Via remote server",
+  "toolkits": "Python; Chrome browser extensions",
+  "use_cases": "Knowledge workers; Personal use",
+  "network_infrastructure": "WiFi",
+  "contribution": "System"
+}

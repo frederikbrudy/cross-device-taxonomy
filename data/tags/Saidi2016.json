@@ -1,0 +1,23 @@
+{
+  "user_device_rel": "1 person to n devices",
+  "target_users": "Individual",
+  "pid": "Saidi2016",
+  "focus": "Software",
+  "device_mount": "Placed loosely around user (e.g., table)",
+  "pid_done": "2",
+  "scale": "Near, personal space; Social space",
+  "input_modalities": "Touch",
+  "devices_included": "Tablet; Desktop computer",
+  "use_cases_desc": "- biologists using mulecular interaction maps ",
+  "evaluation": "User study (quantitative, controlled lab experiment)",
+  "contentlength": "4.5",
+  "contribution_desc": "A study of an overview+detail implemenation system using a tablet for the detail view of the overview (on a larger desktop PC screen). The tablet could show 1, 2, or 4 detail views. \r\n\"results show that using two or more split views is significantly faster than using only one detailed view. Results reveal that using 4 split views is only better than 2 split views for working on more than 2 regions of the graph.\"",
+  "pid_access": 1534149173,
+  "papertype": "Note",
+  "device_models": "Samsung Galaxy tab S",
+  "output_modalities": "Screen output",
+  "interaction_techniques": "Visualisation; Data exploration",
+  "use_cases": "Knowledge workers",
+  "tracking_tech": "None",
+  "contribution": "Study (human factors); Display/Visualization technique"
+}

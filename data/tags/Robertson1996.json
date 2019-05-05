@@ -1,0 +1,23 @@
+{
+  "user_device_rel": "1 person to n devices",
+  "target_users": "Individual",
+  "pid": "Robertson1996",
+  "focus": "Software",
+  "device_models": "Apple Newton",
+  "pid_done": "2",
+  "scale": "Near, personal space; Social space",
+  "input_modalities": "Touch",
+  "devices_included": "Phone; TV",
+  "use_cases_desc": "Real estate application; Visualization; Browsing of real estate listings and details",
+  "evaluation": "Focus group; Participatory design",
+  "contentlength": "7.5",
+  "contribution_desc": "Presents a prototype of a multiple-device application consisting of a personal digital assistant (PDA) that operates in conjunction with interactive television (ITV) was developed from user requirements for a real estate information service.",
+  "pid_access": 1536780217,
+  "papertype": "Full paper",
+  "use_cases": "Search",
+  "output_modalities": "Screen output",
+  "interaction_techniques": "UI distribution; Visualisation; Remote control",
+  "tracking_characteristic": "Multiple screens; Proximity; Inside-out tracking",
+  "tracking_tech": "infrared",
+  "crossdevice_def": "multiple-device metaphor; multiple-device system;"
+}

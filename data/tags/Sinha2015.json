@@ -1,0 +1,18 @@
+{
+  "pid_access": 1533134852,
+  "pid_done": "2",
+  "input_modalities": "Touch; Keyboard; Mouse",
+  "contribution_desc": "Recommender tool for automatically creating multi-device responsive UIs.\r\nRelevant for cross-platform UIs.",
+  "evaluation": "Technical performance (speed); User study (qualitative); User study (quantitative, controlled lab experiment)",
+  "target_users": "Developers; ; Expert users",
+  "pid": "Sinha2015",
+  "network_infrastructure": "Internet",
+  "tracking_tech": "None",
+  "devices_included": "Any screen device; Tablet; Phone; Laptop; Desktop computer",
+  "output_modalities": "Screen output",
+  "contribution": "Toolkit, middleware; UI algorithm",
+  "papertype": "Full paper",
+  "interaction_techniques": "Responsive, adaptable UIs",
+  "crossdevice_def": "Use terms multi-device UIs, but mostly about cross-platform and across differently sized device.",
+  "contentlength": "10"
+}

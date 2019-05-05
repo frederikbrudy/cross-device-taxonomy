@@ -1,0 +1,21 @@
+{
+  "user_device_rel": "1 person to n devices",
+  "target_users": "Individual",
+  "pid": "Vatavu2014",
+  "device_mount": "Mounted to wall",
+  "pid_done": "2",
+  "scale": "Near, personal space; Social space",
+  "devices_included": "TV",
+  "use_cases_desc": "Multi-screen TV applications",
+  "evaluation": "User study (quantitative, controlled lab experiment)",
+  "contentlength": "8",
+  "contribution_desc": "This paper presents a study of visual attention across TV displays (projected displays) and a toolkit for measuring visual attention across displays. \r\n\r\nContribution type: \"multi-display\" -> \"study\" -> \"visual separation and attention\"",
+  "pid_access": 1534852356,
+  "papertype": "Full paper",
+  "tracking_characteristic": "Tracking users only; Eye-tracking",
+  "additional_hardware": "projector",
+  "deployment": "Lab study",
+  "use_cases": "Entertainment; Muti-screen TV",
+  "tracking_tech": "Optical",
+  "contribution": "Study, deployment; Toolkit, middleware"
+}

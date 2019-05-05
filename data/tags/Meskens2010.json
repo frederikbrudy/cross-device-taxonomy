@@ -1,0 +1,16 @@
+{
+  "pid_access": 1529001597,
+  "user_device_rel": "1 person to n devices",
+  "unsolved": "Computer-aided design of multi-device/cross-device user interfaces (working across different devices types and platforms)",
+  "contribution_desc": "The contribution of this paper is D-Macs a system for designing multi-device interfaces through recording and replaying design actions. Designers can record actions such as setting the layout of a container component (i.e. set layout to GridLayout), copy user interface elements from one collection container and pasting them into another collection container (e.g., from a ScatterView into a FishEyeView), setting different properties on interface elements. Thereby, designers can record \"interface design actions,\" reuse them and share recordings with others. Actions can be replayed for demonstration purposes.\r\n\r\nThis is a system paper and has not been evaluated, but the authors hinted at a formal evaluation in future work.\r\n\r\nThe paper introduction, related work, and the design tool features are neat, but then it is hard to understand how designers are supposed to use the actual D-Macs implementation.",
+  "target_users": "Expert users",
+  "deployment": "None",
+  "pid": "Meskens2010",
+  "focus": "Software",
+  "papertype": "Full paper",
+  "use_cases_desc": "This work focuses solely on the \"design\" phase of cross-device/multi-device user interfaces. It's a tool that supports designers to record design actions and reuse them later.",
+  "pid_done": "2",
+  "contribution": "System",
+  "evaluation": "None",
+  "contentlength": "9"
+}

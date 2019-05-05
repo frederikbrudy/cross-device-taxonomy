@@ -1,0 +1,23 @@
+{
+  "user_device_rel": "n people to m devices",
+  "contentlength": "12",
+  "pid": "Hazas2005",
+  "focus": "Software; Hardware",
+  "pid_done": "2",
+  "scale": "Social space; Room",
+  "input_modalities": "Keyboard; Mouse",
+  "devices_included": "Laptop; mobile devices",
+  "use_cases_desc": "Awareness tool\r\nSpatial file sharing tool",
+  "evaluation": "Technical evaluation (e.g., runtime, roundtrip); Quality measurements (e.g., accuracy of tracking)",
+  "contribution_desc": "Relate system, which provides fine-grained relative position information to co-located devices on the basis of peer-to-peer sensing, thus overcoming dependence on any external infrastructure",
+  "pid_access": 1537171503,
+  "papertype": "Full paper",
+  "tracking_characteristic": "Inside-out tracking; Location 3D",
+  "output_modalities": "Screen output",
+  "deployment": "None",
+  "interaction_techniques": "Data transfer/sharing",
+  "connection_classification": "P2P",
+  "tracking_tech": "Custom tracking dongle; Radio; ultrasonic; Acoustic signals; Standalone",
+  "network_infrastructure": "WiFi",
+  "contribution": "Tracking technology"
+}

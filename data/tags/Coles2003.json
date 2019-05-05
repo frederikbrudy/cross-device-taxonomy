@@ -1,0 +1,11 @@
+{
+  "pid_done": "2",
+  "contribution_desc": "The authors present \"a framework for multi-device browsing that provides both coordinated navigation between web resources and coordinated interaction between variants, or representations, of those resources once instantiated in the clients.\"\r\n\r\nIt's mostly an XML specification that allows for the development of multi-device browsing applications.",
+  "contentlength": "8",
+  "deployment": "None",
+  "pid": "Coles2003",
+  "papertype": "Full paper",
+  "use_cases_desc": "Multi-device browser",
+  "contribution": "Toolkit, middleware",
+  "pid_access": 1525980376
+}

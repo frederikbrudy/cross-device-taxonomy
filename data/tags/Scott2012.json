@@ -1,0 +1,17 @@
+{
+  "user_device_rel": "n people to m devices",
+  "pid_done": "2",
+  "contribution_desc": "design of an interaction technique that addresses user interaction challenges with digital object transfer between private and shared surfaces, particularly in co-located group settings",
+  "evaluation": "case studies",
+  "contentlength": "4",
+  "deployment": "None",
+  "pid": "Scott2012",
+  "focus": "Software",
+  "tracking_tech": "tabletop",
+  "devices_included": "Tablet; Tabletop, large horizontal display",
+  "use_cases_desc": "Game applications (Dominion)",
+  "contribution": "Interaction techniques",
+  "papertype": "Poster",
+  "interaction_techniques": "Data transfer/sharing; UI distribution",
+  "pid_access": 1535461241
+}

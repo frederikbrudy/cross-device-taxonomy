@@ -1,0 +1,15 @@
+{
+  "user_device_rel": "1 person to n devices",
+  "pid_done": "2",
+  "contribution_desc": "proposed new models and techniques for designing internet based applications that automatically adapt to different mobile devices",
+  "contentlength": "5",
+  "deployment": "None",
+  "pid": "Bertini2004",
+  "focus": "Software",
+  "papertype": "Note",
+  "devices_included": "Tablet; Laptop; Desktop computer",
+  "use_cases_desc": "browser application",
+  "contribution": "Toolkit, middleware",
+  "evaluation": "None",
+  "pid_access": 1534936091
+}

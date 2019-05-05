@@ -1,0 +1,19 @@
+{
+  "pid_done": "2",
+  "scale": "Near, personal space",
+  "contribution_desc": "This demo presents \"Heterogeneous Device Hopping, a novel approach that systematically empowers heterogeneous mobile\r\ndevices to seamlessly, reliably, and efficiently share their resources.\"\r\n\r\nThe system uses a Resource Query Language (RQL) to allow developers to easily span applications across multiple devices. ",
+  "evaluation": "None",
+  "target_users": "Expert users",
+  "pid": "Chadha2015",
+  "focus": "Software",
+  "tracking_tech": "None",
+  "device_models": "Android; iPhone",
+  "use_cases": "None",
+  "device_mount": "Placed loosely around user (e.g., table)",
+  "output_modalities": "Screen output",
+  "deployment": "None",
+  "contribution": "Toolkit, middleware",
+  "papertype": "Demo",
+  "interaction_techniques": "UI distribution",
+  "pid_access": 1533642533
+}

@@ -1,0 +1,18 @@
+{
+  "pid_done": "2",
+  "scale": "Location-agnostic",
+  "toolkits": "NodeJS; jsdom",
+  "contribution_desc": "The paper presents a framework for developing multi-device applications where a middleware (intermediary browser) gathers information about connected devices and distributes requested websites across them. It's built to reduce complexity for the developer to transparently handle data and event distribution.",
+  "evaluation": "Technical evaluation (e.g., runtime, roundtrip)",
+  "contentlength": "5",
+  "deployment": "None",
+  "pid": "Imoto2013",
+  "focus": "Software",
+  "papertype": "Full paper",
+  "use_cases": "None",
+  "output_modalities": "Screen output",
+  "use_cases_desc": "-",
+  "contribution": "Toolkit, middleware",
+  "interaction_techniques": "Data transfer/sharing; UI distribution",
+  "pid_access": 1525981740
+}

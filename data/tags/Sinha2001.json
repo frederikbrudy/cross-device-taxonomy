@@ -1,0 +1,21 @@
+{
+  "user_device_rel": "1 person to n devices",
+  "target_users": "Individual",
+  "pid": "Sinha2001",
+  "focus": "Software",
+  "pid_done": "2",
+  "scale": "Location-agnostic",
+  "devices_included": "Any screen device",
+  "evaluation": "None",
+  "contentlength": "3.5",
+  "contribution_desc": "Proposes an interactive visual prototyping tool to quickly map out multimodal, cross-device user interface scenarios using sketches. Designers specify in the tool what part of the interface goes on which device using which modality (e.g., sound, small screen, ...)\r\n",
+  "pid_access": 1535241983,
+  "papertype": "Note",
+  "use_cases": "UI Design",
+  "output_modalities": "Screen output; Audio output",
+  "deployment": "None",
+  "interaction_techniques": "UI distribution; System distribution",
+  "tracking_tech": "None",
+  "contribution": "System; Design tool",
+  "crossdevice_def": "cross-device user interface scenarios"
+}

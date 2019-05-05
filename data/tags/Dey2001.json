@@ -1,0 +1,13 @@
+{
+  "pid_access": 1533148657,
+  "user_device_rel": "n people to m devices",
+  "unsolved": "Technical and Social challenges described in the workshop paper",
+  "contribution_desc": "Workshop about distributed and disappearing user interfaces.\r\nFocuses on disappearing UI and the necessary characteristics and questions here, based on Weiser's vision.",
+  "contentlength": "2",
+  "pid": "Dey2001",
+  "pid_done": "2",
+  "papertype": "Workshop",
+  "deployment": "None",
+  "contribution": "Workshop description",
+  "crossdevice_def": "\"Instead of a single screen-based user interface (UI), humans will interact with a number of devices that are distributed and interconnected. \""
+}

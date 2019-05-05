@@ -1,0 +1,19 @@
+{
+  "pid_access": 1535108279,
+  "user_device_rel": "1 person to n devices",
+  "pid_done": "2",
+  "scale": "Near, personal space",
+  "toolkits": "Java; ",
+  "input_modalities": "Speech; Touch; Keyboard",
+  "target_users": "Expert users",
+  "contribution_desc": "A prototyping tool, Damask, for creating cross-device UIs using patterns and layers. Here cross device means UIs that can run either on one device or the other. The paper presents a study of current pratices, the Damask system and a qualitative user study with designers. ",
+  "pid": "Lin2008",
+  "focus": "Software",
+  "papertype": "Full paper",
+  "devices_included": "Phone; Laptop",
+  "deployment": "Lab study",
+  "contribution": "System",
+  "evaluation": "User study (qualitative)",
+  "crossdevice_def": "\"People often use a variety of computing devices, such as PCs, PDAs, and mobile phones, to access the same information and applications. The user interface needs to be different for each device, due to different input and output constraints. For example, the home page of a news web site typically has dozens of links, but it would not make sense to display that many links on a mobile phone, or recite all of them in a voice UI. Currently, designers designing cross-device UIs either have to design a UI separately for each device, which is time consuming and error prone, or use a program to automatically generate interfaces, which often leads to awkward interaction.\"",
+  "contentlength": "10"
+}

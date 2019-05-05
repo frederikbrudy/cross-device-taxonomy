@@ -1,0 +1,14 @@
+{
+  "user_device_rel": "n people to m devices",
+  "pid_done": "2",
+  "scale": "Neighbourhood",
+  "contribution_desc": "The poster describes an idea of how urban objects (IoT devices placed in a neighbourhood) can support spontaneous social interactions and discovery of the neighbourhood.\r\nNot much details are given in the written paper. \r\n\r\nMight even be moved to outside of scope or trash. ",
+  "pid_access": 1534758799,
+  "deployment": "None",
+  "pid": "Kotteritzsch2016",
+  "papertype": "Poster",
+  "use_cases": "People living in a neighbourhood",
+  "device_mount": "Handheld; Mounted in the enrivonment",
+  "use_cases_desc": "\"Not only immigrants from different countries need to explore new environments, but also students starting to study at a university, employees who take a job in a different town, as well as older adults moving to a home with disability access.\"",
+  "contribution": "Use-case, application"
+}

@@ -1,0 +1,20 @@
+{
+  "pid_access": 1533135412,
+  "pid_done": "2",
+  "input_modalities": "Touch; Keyboard; Mouse",
+  "contribution_desc": "System to simplify access to web-content when interacting across a larger number of devices, links between devices. Uses synchronized web history, and introduces a number of techniques and filters.",
+  "evaluation": "Deployment with users",
+  "target_users": "Individual",
+  "deployment": "In-the-wild study",
+  "pid": "Sohn2011",
+  "tracking_tech": "None",
+  "device_models": "Mostly Android devices.",
+  "devices_included": "Any screen device; Phone; Tablet; Laptop; Desktop computer",
+  "output_modalities": "Screen output",
+  "use_cases_desc": "Access to synced web history across devices. Filtering and other techniques.",
+  "contribution": "Interaction techniques; System",
+  "papertype": "Full paper",
+  "interaction_techniques": "Access to web history across devices; filtering; suggestions; visual previews",
+  "crossdevice_def": "Cross-device interaction.\r\nNo definition, but defined through references and provides context.",
+  "contentlength": "10"
+}

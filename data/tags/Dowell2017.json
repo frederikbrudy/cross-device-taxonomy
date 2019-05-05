@@ -1,0 +1,20 @@
+{
+  "pid_access": 1535105267,
+  "user_device_rel": "1 person to n devices",
+  "unsolved": "which content on second screen experiences: synopsis or supplement",
+  "input_modalities": "Touch",
+  "contribution_desc": "developed a companion app for a documentary with both synoptic and supplementary content.",
+  "evaluation": "User study (qualitative); User study (quantitative, controlled lab experiment)",
+  "target_users": "Individual",
+  "pid": "Dowell2017",
+  "pid_done": "2",
+  "papertype": "Note",
+  "use_cases": "Entertainment",
+  "devices_included": "TV; Phone; Tablet",
+  "output_modalities": "Screen output",
+  "deployment": "Lab study",
+  "device_mount": "Handheld",
+  "contribution": "Study, deployment; comparing second screen design as either providing synopsis or supplement information",
+  "interaction_techniques": "Second screen; Information and Content",
+  "contentlength": "4"
+}

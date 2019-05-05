@@ -1,0 +1,21 @@
+{
+  "user_device_rel": "n people to m devices",
+  "target_users": "Group work",
+  "pid": "Seyed2013a",
+  "focus": "Software",
+  "pid_done": "2",
+  "devices_included": "Tablet; Tabletop, large horizontal display",
+  "use_cases_desc": "Oil and gas data exploration",
+  "evaluation": "Focus group",
+  "contentlength": "7",
+  "contribution_desc": "Multi-Surface Environment for Supporting Oil and Gas Exploration",
+  "pid_access": 1534936949,
+  "papertype": "Full paper",
+  "tracking_characteristic": "Outside-in tracking",
+  "deployment": "Lab study",
+  "interaction_techniques": "Data transfer/sharing; Visualisation; Data exploration; UI distribution",
+  "use_cases": "Data exploration",
+  "tracking_tech": "Kinect",
+  "contribution": "System",
+  "crossdevice_def": "\"Multi-Surface Environments are systems where interaction is divided over several different displays, which includes digital tabletops, wall displays, tablets and mobile phones\""
+}

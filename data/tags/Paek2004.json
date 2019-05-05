@@ -1,0 +1,21 @@
+{
+  "user_device_rel": "n people to m devices",
+  "target_users": "Individual; Group work",
+  "pid": "Paek2004",
+  "device_mount": "Handheld; Placed loosely around user (e.g., table); Mounted to wall",
+  "pid_done": "2",
+  "scale": "Near, personal space; Social space; Room",
+  "input_modalities": "Keyboard",
+  "devices_included": "Public display; Phone; Laptop; PDA",
+  "use_cases_desc": "multi-user web browsing, polling, and game.",
+  "evaluation": "None",
+  "contentlength": "4",
+  "contribution_desc": "A middleware that enables interaction with large displays through mobile devices, consisting of a I/O module, translation module, application module, and display module. The paper describes three implemented applications.",
+  "pid_access": 1535622270,
+  "papertype": "Full paper",
+  "use_cases": "Interaction with large display; Leisure; Web browsing; polling; game",
+  "output_modalities": "Screen output",
+  "deployment": "None",
+  "interaction_techniques": "Remote control; Data transfer/sharing",
+  "contribution": "Toolkit, middleware"
+}

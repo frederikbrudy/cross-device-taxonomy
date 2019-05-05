@@ -1,0 +1,21 @@
+{
+  "user_device_rel": "1 person to n devices",
+  "target_users": "Individual",
+  "pid": "Sohn2010",
+  "focus": "Software",
+  "device_mount": "Handheld",
+  "pid_done": "2",
+  "scale": "Near, personal space",
+  "devices_included": "Phone; Car",
+  "use_cases_desc": "Getting points of interest from phone to in-car display.",
+  "evaluation": "None",
+  "contentlength": "2",
+  "contribution_desc": "An idea for a quick way to access points of interest selected on a smartphone in a car's display ",
+  "pid_access": 1535108635,
+  "papertype": "Note",
+  "device_models": "Nokia N900",
+  "deployment": "None",
+  "interaction_techniques": "Data transfer/sharing",
+  "use_cases": "Navigation",
+  "contribution": "Use-case, application"
+}

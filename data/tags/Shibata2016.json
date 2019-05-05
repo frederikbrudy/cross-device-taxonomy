@@ -1,0 +1,21 @@
+{
+  "user_device_rel": "1 person to n devices",
+  "target_users": "Individual",
+  "pid": "Shibata2016",
+  "focus": "Software",
+  "pid_done": "2",
+  "scale": "Near, personal space",
+  "devices_included": "Tablet",
+  "evaluation": "Technical performance (speed)",
+  "contentlength": "7",
+  "contribution_desc": "Introduces a method to define the content to be sent from one to another device by tapping them rhythmically",
+  "pid_access": 1535240805,
+  "papertype": "Poster",
+  "output_modalities": "Screen output",
+  "deployment": "Lab study",
+  "interaction_techniques": "Data transfer/sharing",
+  "connection_classification": "Via remote server",
+  "tracking_tech": "None",
+  "contribution": "Interaction techniques",
+  "crossdevice_def": "cross-device interaction"
+}

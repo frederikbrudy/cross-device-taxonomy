@@ -1,0 +1,14 @@
+{
+  "pid_access": 1535465039,
+  "pid_done": "2",
+  "contribution_desc": "A resusable design kit that guides designers during the process of designing multi-device experiences. The kit (McKit) consists of a set of cards (i.e., scenarios, context of use), which was developed on the basis of related work (in the field of multi-device interactions), and validated in a workshop with designers.",
+  "target_users": "Designers ; Designers of multi-device experiences",
+  "deployment": "Workshop",
+  "pid": "OLeary2017",
+  "focus": "Set of cards",
+  "papertype": "Full paper",
+  "use_cases_desc": "Set of cards guiding designers to built designs multi-device experiences",
+  "contribution": "Design kit; Tool",
+  "evaluation": "Workshop; Focus group",
+  "contentlength": "10"
+}

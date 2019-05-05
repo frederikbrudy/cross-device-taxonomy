@@ -1,0 +1,18 @@
+{
+  "user_device_rel": "n people to m devices",
+  "pid_done": "2",
+  "scale": "Room; Social space",
+  "input_modalities": "Touch",
+  "evaluation": "User study (qualitative)",
+  "target_users": "Group work",
+  "contribution_desc": "immersive rainforest simulation and collective inquiry activity where students collect observational data from the environment and explore their peers' data through large visualization displays and personal mobile devices",
+  "pid": "Lui2014",
+  "devices_included": "Public display; Phone; Tablet; Whiteboard, large vertical display",
+  "output_modalities": "Screen output",
+  "use_cases_desc": "Data and content exploration of rainforest simulatio",
+  "device_mount": "Handheld; Mounted to wall; Placed loosely around user (e.g., table)",
+  "contribution": "System",
+  "interaction_techniques": "UI distribution; Visualisation; Data exploration",
+  "pid_access": 1535457339,
+  "deployment": "Lab study"
+}

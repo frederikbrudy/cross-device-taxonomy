@@ -1,0 +1,23 @@
+{
+  "user_device_rel": "n people to 1 device",
+  "target_users": "Group work; Expert users",
+  "pid": "Bier1992",
+  "focus": "Software",
+  "device_mount": "Positioned on table",
+  "pid_done": "2",
+  "scale": "Social space",
+  "input_modalities": "Keyboard; Mouse",
+  "devices_included": "Desktop computer",
+  "use_cases_desc": "Developers, working on a shared project. ",
+  "evaluation": "None",
+  "contentlength": "2",
+  "contribution_desc": "The paper introduces a \"Multi-Device Multi-User Multi-Editor (MMM), a set of toy editors that support simultaneous real-time collaboration with fine-grained sharing including simultaneous access to the same text string or graphical object\".\r\nMultiple users can simultanously access and edit a workspace on a shared screen. They can interact with workspace items with their mouse and keyboard and invoke commands on the editor, menus, etc. \r\nWhile the system in this paper assumes that users are sharing a single screen, the author envision, that the architecture and UI techniques can also be applied to editors shared over a network. \r\n\r\nThis might also be classified as out of scope, as it it \"n people to 1 device\"...",
+  "pid_access": 1532354429,
+  "papertype": "Extended Abstract",
+  "use_cases": "Knowledge workers; Software developers",
+  "output_modalities": "Screen output",
+  "deployment": "None",
+  "interaction_techniques": "Remote control; Workstation sharing",
+  "tracking_tech": "None",
+  "contribution": "Interaction techniques"
+}

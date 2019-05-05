@@ -1,0 +1,20 @@
+{
+  "pid_access": 1533156644,
+  "user_device_rel": "1 person to n devices",
+  "connection_classification": "Via remote server",
+  "contribution_desc": "Proposes model-based development constructs for development of distributed user interfaces.",
+  "target_users": "Expert users",
+  "deployment": "None",
+  "pid": "Melchior2011a",
+  "focus": "Software",
+  "tracking_tech": "None",
+  "devices_included": "Phone; Tablet; Laptop; Desktop computer; TV",
+  "network_infrastructure": "WiFi; Internet",
+  "use_cases_desc": "Few example implementations are given:\r\n- Pictionary game\r\n- Another game called \"Game of the Goose\"\r\n",
+  "pid_done": "2",
+  "contribution": "Toolkit, middleware",
+  "papertype": "Full paper",
+  "evaluation": "Use case examples",
+  "crossdevice_def": "Terminology used is 'distributed user interfaces'.\r\n\r\nDefinition:\r\n\"Distributed User Interface (DUI) which is defined as any application UI whose components can be distributed across varying displays of varying platforms that are used by varying users, whether they are working at the same place (co-located) or not (remote collaboration). \"",
+  "contentlength": "9"
+}

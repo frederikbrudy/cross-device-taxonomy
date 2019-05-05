@@ -1,0 +1,23 @@
+{
+  "user_device_rel": "1 person to n devices",
+  "target_users": "Individual",
+  "pid": "Garrido2014",
+  "focus": "Software",
+  "pid_done": "2",
+  "scale": "Near, personal space",
+  "devices_included": "Desktop computer",
+  "use_cases_desc": "Widget toolkit for developers",
+  "evaluation": "User study (quantitative, controlled lab experiment)",
+  "contentlength": "7.5",
+  "contribution_desc": "Proposes a toolkit that supports users in maintaining awareness across multiple displays. The toolkit detects the display gazed at and notifies the user of other display changes. Evaluates four different notifications.",
+  "pid_access": 1535241705,
+  "papertype": "Full paper",
+  "tracking_characteristic": "Multiple screens",
+  "output_modalities": "Screen output",
+  "deployment": "Lab study",
+  "interaction_techniques": "UI distribution",
+  "toolkits": "C#",
+  "tracking_tech": "Static setup; Manual",
+  "contribution": "Toolkit, middleware",
+  "crossdevice_def": "multi-display systems; multi-display environments"
+}

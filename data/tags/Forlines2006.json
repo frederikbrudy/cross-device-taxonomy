@@ -1,0 +1,20 @@
+{
+  "pid_access": 1534936248,
+  "user_device_rel": "n people to m devices",
+  "pid_done": "2",
+  "scale": "Near, personal space",
+  "contribution_desc": "adaptation of a single-display, single-user commercial application (Google Earth) for use in a multidevice, multi-user environment",
+  "evaluation": "None",
+  "target_users": "Group work",
+  "deployment": "None",
+  "pid": "Forlines2006",
+  "focus": "Software",
+  "papertype": "Note",
+  "use_cases": "None",
+  "devices_included": "Whiteboard, large vertical display; Tabletop, large horizontal display",
+  "use_cases_desc": "Exploring Google Earth across devices",
+  "device_mount": "Handheld; Mounted to wall",
+  "contribution": "System",
+  "interaction_techniques": "Data exploration; UI distribution; Remote control",
+  "contentlength": "4"
+}

@@ -1,0 +1,21 @@
+{
+  "target_users": "Individual",
+  "pid": "Finke2010",
+  "focus": "Software",
+  "device_mount": "Handheld; Mounted to wall",
+  "pid_done": "2",
+  "scale": "Room",
+  "input_modalities": "Touch",
+  "devices_included": "Any screen device; Whiteboard, large vertical display; Tablet; Laptop",
+  "use_cases_desc": "Covering few example applications, such as \r\n- Polar Defense game\r\n- Directory Application with map\r\nusing large displays and mobile devices. Details very brief, this is a 1-pager.",
+  "evaluation": "User study (qualitative); User study (quantitative, controlled lab experiment)",
+  "contentlength": "1",
+  "contribution_desc": "Covering few example applications, such as \r\n- Polar Defense game\r\n- Directory Application with map\r\nusing large displays and mobile devices. Details very brief, this is a 1-pager.",
+  "pid_access": 1533571218,
+  "papertype": "Poster; Position paper",
+  "deployment": "Lab study",
+  "tracking_tech": "None",
+  "network_infrastructure": "Internet; WiFi",
+  "contribution": "Use-case, application; Study, deployment",
+  "crossdevice_def": "LD (Large Devices) + SD (Small Devices)."
+}

@@ -1,0 +1,20 @@
+{
+  "pid_access": 1535241626,
+  "pid_done": "2",
+  "contribution_desc": "Proposes an interaction technique using a smartwatch to interact with (e.g., save info, bookmark) remote content on a large display in a museum setting. tailored to museum exhibits. all tracking done by experimenters.",
+  "evaluation": "Deployment with users",
+  "target_users": "Individual",
+  "pid": "Banerjee2018",
+  "focus": "Software",
+  "tracking_tech": "Manual",
+  "device_models": "Apple Watch",
+  "tracking_characteristic": "Proximity",
+  "devices_included": "Smart watch; Public display",
+  "deployment": "In-the-wild study",
+  "device_mount": "Mounted to wall",
+  "contribution": "Interaction techniques",
+  "papertype": "Poster",
+  "interaction_techniques": "Data transfer/sharing; Visualisation",
+  "crossdevice_def": "multi-display environment; ",
+  "contentlength": "5.5"
+}

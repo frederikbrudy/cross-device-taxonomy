@@ -1,0 +1,20 @@
+{
+  "pid_access": 1535107884,
+  "user_device_rel": "n people to m devices",
+  "pid_done": "2",
+  "scale": "Social space",
+  "input_modalities": "Touch",
+  "evaluation": "User study (qualitative)",
+  "target_users": "Group work",
+  "contribution_desc": "The paper gives an overview of a number of studies of different methods for device pairing for collaborative interactions. In the first study plastic props were used to simulate different devices, and the participants were tasked with coming up with gestures for device pairing. In the following studies three pairing techniques were implemented and tested with users. ",
+  "pid": "Jokela2015b",
+  "focus": "Software",
+  "papertype": "Magazine",
+  "devices_included": "Phone",
+  "output_modalities": "Screen output",
+  "deployment": "Lab study",
+  "device_mount": "Handheld",
+  "contribution": "Study (human factors); Interaction techniques",
+  "interaction_techniques": "Device pairing",
+  "contentlength": "5"
+}

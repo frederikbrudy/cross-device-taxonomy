@@ -1,0 +1,23 @@
+{
+  "user_device_rel": "n people to m devices",
+  "target_users": "Group work",
+  "pid": "Fender2017",
+  "focus": "Software",
+  "device_models": "Kinect v2",
+  "pid_done": "2",
+  "scale": "Room",
+  "devices_included": "Public display; Whiteboard, large vertical display",
+  "use_cases_desc": "General office work",
+  "evaluation": "None",
+  "contentlength": "9",
+  "contribution_desc": "HeatSpace, a system that analyses user behaviour in a space over time and propose display placements based on this data. Generates volumetric heat maps. Automatically optimises the position and size of display surfaces based on user behaviour.",
+  "pid_access": 1536779200,
+  "papertype": "Full paper",
+  "use_cases": "Knowledge workers",
+  "deployment": "None",
+  "toolkits": "Unity; Kinect SDK",
+  "tracking_characteristic": "Orientation; Tracking users only; Outside-in tracking",
+  "tracking_tech": "Kinect",
+  "contribution": "Tracking technology; System",
+  "crossdevice_def": "\"Multi-display environments (MDEs) are used in various scenarios, ranging from individual multi-display work, via collaborative work, to command-and-control rooms.\"\r\n\r\n\"Multi-display systems are used for a variety of scenarios, from single-user to multi-user collaboration. These systems often consist of a set of private and public displays with different sizes and arrangements\""
+}

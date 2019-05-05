@@ -1,0 +1,22 @@
+{
+  "user_device_rel": "1 person to n devices",
+  "target_users": "Individual",
+  "pid": "Nebeling2012",
+  "focus": "Software",
+  "device_mount": "Handheld; Placed loosely around user (e.g., table)",
+  "pid_done": "2",
+  "scale": "Near, personal space",
+  "input_modalities": "Touch",
+  "devices_included": "Phone; Tablet; Tabletop, large horizontal display; Laptop",
+  "use_cases_desc": "Web-based multi-touch interfaces such as for picture-tagging and picture-editing",
+  "evaluation": "Demonstration",
+  "contentlength": "10",
+  "contribution_desc": "A JavaScript web framework for building multi-touch interfaces for a variety of devices and platforms.",
+  "pid_access": 1534854277,
+  "papertype": "Full paper",
+  "device_models": "Apples iPhone and iPad; Android-smartphones and tablets, TouchSmart 7; Microsoft Surface",
+  "output_modalities": "Screen output",
+  "toolkits": "academic toolkits; jQMultiTouch; Javascript; jQuery; CSS",
+  "use_cases": "Application Development; Toolkit",
+  "contribution": "Toolkit, middleware"
+}

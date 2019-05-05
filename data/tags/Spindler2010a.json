@@ -1,0 +1,20 @@
+{
+  "pid_done": "2",
+  "scale": "Social space",
+  "contribution_desc": "Spatially-aware tangible lenses to explore information spaces above an interactive tabletop.",
+  "evaluation": "Case studies",
+  "contentlength": "9",
+  "deployment": "None",
+  "pid": "Spindler2010a",
+  "focus": "Software",
+  "tracking_tech": "Optitrack (not mentioned in the paper)",
+  "tracking_characteristic": "Outside-in tracking; Location 3D; Orientation; Identity",
+  "use_cases": "Information visualization and data exploration",
+  "devices_included": "Tangibles",
+  "use_cases_desc": "The paper presents five case studies:\r\n\r\n- Graph visualization\r\n- Scatter plot\r\n- Parallel coordinates plot\r\n- Matrix visualization\r\n- Space-time-cube visualization",
+  "device_mount": "Handheld",
+  "contribution": "Interaction techniques; Display/Visualization technique",
+  "papertype": "Full paper",
+  "interaction_techniques": "Visualisation; Data exploration",
+  "pid_access": 1534335930
+}

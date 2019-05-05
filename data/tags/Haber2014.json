@@ -1,0 +1,16 @@
+{
+  "pid_access": 1535109108,
+  "pid_done": "2",
+  "contribution_desc": "The paper compares a collaborative document browsing task on paper and using (multiple) tablets. The study shows that people have a tendency to treat devices as personal but paper as shared.",
+  "target_users": "Group work",
+  "pid": "Haber2014",
+  "device_models": "HTC Flyer",
+  "papertype": "Full paper",
+  "use_cases": "Knowledge workers",
+  "devices_included": "Tablet",
+  "deployment": "Lab study",
+  "contribution": "Study, deployment",
+  "evaluation": "User study (qualitative)",
+  "crossdevice_def": "None given",
+  "contentlength": "7"
+}

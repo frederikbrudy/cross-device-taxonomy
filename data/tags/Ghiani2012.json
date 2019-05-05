@@ -1,0 +1,16 @@
+{
+  "pid_access": 1533816151,
+  "user_device_rel": "n people to m devices",
+  "pid_done": "2",
+  "contribution_desc": "The paper discusses privacy and security issues when migrating web applications from one device to another. Although not core of our taxonomy, the paper uses \"application migration\" to describe multi-device environments. ",
+  "target_users": "Individual; Group work",
+  "deployment": "None",
+  "pid": "Ghiani2012",
+  "focus": "Software",
+  "tracking_tech": "None",
+  "devices_included": "Any screen device",
+  "use_cases_desc": "- Online shopping where shopping cart and partially filled webforms are transferred\r\n- any website through the usage of a proxy which injects the application migration script into the website ",
+  "evaluation": "Technical evaluation (e.g., runtime, roundtrip)",
+  "crossdevice_def": "\"Application migration is a type of multi-device support in which users can dynamically change device and still continue to perform their tasks from the point they left off in the source device. Environments supporting migratory interactive Web applications allow users to dynamically push and pull them from one device to another for various reasons.\"",
+  "contentlength": "9.5"
+}

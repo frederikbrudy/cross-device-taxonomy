@@ -1,0 +1,21 @@
+{
+  "user_device_rel": "1 device to 1 device",
+  "pid": "Kuribara2015",
+  "device_mount": "Handheld",
+  "pid_done": "2",
+  "scale": "Near, personal space",
+  "input_modalities": "Touch",
+  "devices_included": "Phone; Tablet",
+  "evaluation": "Quality measurements (e.g., accuracy of tracking)",
+  "contribution_desc": "An interaction technique for copying data between devices by exploiting that hover sensing enabled devices register the touch or proximity of another device as a hover. This allows for e.g. establishing a connection between two devices by touch the screen of the one with the other.",
+  "pid_access": 1536778996,
+  "tracking_characteristic": "Tracking devices only; Inside-out tracking",
+  "output_modalities": "Screen output",
+  "deployment": "Lab study",
+  "interaction_techniques": "Data transfer/sharing; Cross-device task chaining",
+  "toolkits": "Android; Java",
+  "use_cases": "File sharing",
+  "tracking_tech": "Hover sensing; capacitive; Radio",
+  "contribution": "Interaction techniques",
+  "crossdevice_def": "No definition given"
+}

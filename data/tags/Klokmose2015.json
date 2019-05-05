@@ -1,0 +1,23 @@
+{
+  "user_device_rel": "1 person to n devices; n people to m devices",
+  "target_users": "End-users; developers",
+  "pid": "Klokmose2015",
+  "focus": "Software",
+  "pid_done": "2",
+  "devices_included": "Any screen device; any device with a web browser",
+  "use_cases_desc": "- Collaborative paper writing: multiple users can collaboratively write on a document each in their own personal editors\r\n- Presentation: slides can be distributed across multiple devices, and each device can show a different part of the UI (i.e. slides, speaker notes, audience questions)",
+  "evaluation": "Case studies",
+  "contentlength": "10",
+  "contribution_desc": "Webstrates is an instantiation of the software paradigm of shareable dynamic media where content can be distributed across multiple devices, it can be shared with others, and the software itself is malleable meaning and users can reappropriate it to their needs at hand (i.e. change the software behavior and interaction during runtime).",
+  "pid_access": 1535466625,
+  "papertype": "Full paper",
+  "use_cases": "Presentation; Paper writing; Writing; Collaborative paper authoring; Entertainment; Leisure; collaboration",
+  "output_modalities": "Screen output",
+  "deployment": "None",
+  "interaction_techniques": "Cross-device task chaining; UI distribution; Remote control",
+  "connection_classification": "Via remote server",
+  "toolkits": "NodeJS; ShareJS; JsonML; MongoDB; CoffeeScript; JavaScript",
+  "tracking_tech": "None",
+  "network_infrastructure": "WiFi; Internet",
+  "contribution": "Toolkit, middleware; Software paradigm"
+}

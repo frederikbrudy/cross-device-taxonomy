@@ -1,0 +1,22 @@
+{
+  "user_device_rel": "1 person to n devices; n people to m devices",
+  "unsolved": "authoring content for TV and other devices; second screen experiences; synchronization",
+  "target_users": "Expert users; Developers",
+  "pid": "Ajam2017",
+  "pid_done": "2",
+  "scale": "Room; Social space",
+  "input_modalities": "Touch; Keyboard; Mouse",
+  "devices_included": "Raspberry Pi; TV; Tablet; Phone; Laptop; Tangibles",
+  "evaluation": "None",
+  "contentlength": "6",
+  "contribution_desc": "The paper proposes an architecture for multi-device online TV experiences (second screening)",
+  "pid_access": 1534852997,
+  "papertype": "Poster",
+  "tracking_characteristic": "None",
+  "output_modalities": "Screen output",
+  "deployment": "None",
+  "toolkits": "RESTful; XML",
+  "use_cases": "interactive TV programming; second screen experiences; ",
+  "tracking_tech": "None",
+  "contribution": "Middleware; Use-case, application"
+}

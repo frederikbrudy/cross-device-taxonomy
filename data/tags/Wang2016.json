@@ -1,0 +1,21 @@
+{
+  "user_device_rel": "n people to m devices",
+  "target_users": "Group work",
+  "pid": "Wang2016",
+  "focus": "Software",
+  "device_mount": "Handheld",
+  "pid_done": "2",
+  "scale": "Near, personal space",
+  "devices_included": "Phone; Camera device",
+  "evaluation": "User study (qualitative); Heuristic evaluation (criteria)",
+  "contentlength": "9.5",
+  "contribution_desc": "Presents a system that allows multiple mobile devices to work collaboratively in a synchronized fashion to capture a panorama of a highly dynamic scene. Client app on all participating devices, a server program monitors and communicates with each device",
+  "pid_access": 1535105505,
+  "papertype": "Full paper",
+  "deployment": "In-the-wild study",
+  "interaction_techniques": "Cross-device task chaining",
+  "connection_classification": "Via remote server",
+  "tracking_tech": "None",
+  "network_infrastructure": "Internet",
+  "contribution": "Interaction techniques; Use-case, application"
+}

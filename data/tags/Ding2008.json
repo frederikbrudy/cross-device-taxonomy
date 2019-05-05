@@ -1,0 +1,16 @@
+{
+  "user_device_rel": "1 person to n devices",
+  "pid_done": "2",
+  "contribution_desc": "conceptual framework for the systematic design of information and interaction spaces in symbiotic environments.",
+  "target_users": "Individual",
+  "deployment": "UX study",
+  "pid": "Ding2008",
+  "focus": "Software",
+  "tracking_tech": "None",
+  "devices_included": "Laptop; Desktop computer",
+  "use_cases_desc": "Collaborative web browsing",
+  "contribution": "Theory; Toolkit, middleware",
+  "papertype": "Note",
+  "evaluation": "User study (qualitative)",
+  "pid_access": 1534934832
+}

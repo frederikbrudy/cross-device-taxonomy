@@ -1,0 +1,20 @@
+{
+  "pid_access": 1531318745,
+  "unsolved": "usability of model-generated multi-device user interfaces",
+  "scale": "Near, personal space; Social space; Room",
+  "toolkits": "C#; .NET; Java",
+  "input_modalities": "Touch; Keyboard; Mouse",
+  "contribution_desc": "This paper contributes a usability study of model-generated user interfaces for different devices and platforms, in terms of satisfaction, effectiveness and efficiency. This paper should go in the pile of \"multi-device user interface rendering/delivery\", since there's no discussion about distribution or interaction.\r\n\r\nContribution: \"multi-device\" -> \"study\" -> \"usability (model-generated UI)\"",
+  "target_users": "Individual",
+  "pid": "Aquino2010",
+  "pid_done": "2",
+  "focus": "Software",
+  "devices_included": "TV; Desktop computer; Tablet",
+  "output_modalities": "Screen output",
+  "deployment": "UX study",
+  "device_mount": "Handheld; Placed loosely around user (e.g., table); Mounted to wall",
+  "contribution": "Study, deployment",
+  "papertype": "Full paper",
+  "evaluation": "User study (quantitative, controlled lab experiment)",
+  "contentlength": "10"
+}

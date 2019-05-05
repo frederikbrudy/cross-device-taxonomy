@@ -1,0 +1,17 @@
+{
+  "pid_access": 1534928650,
+  "pid_done": "2",
+  "scale": "Near, personal space; Social space; Room",
+  "contribution_desc": "Two studies about second screen experiences (TV + tablet/phone).",
+  "target_users": "Individual; Group work",
+  "pid": "Dowell2015",
+  "tracking_tech": "None",
+  "devices_included": "TV; Phone; Tablet; Laptop",
+  "deployment": "In-the-wild study",
+  "device_mount": "Handheld; Placed loosely around user (e.g., table)",
+  "contribution": "Study, deployment; Study",
+  "papertype": "Full paper",
+  "evaluation": "User study (qualitative)",
+  "crossdevice_def": "Use the term \"cross-device gaze behaviour\".",
+  "contentlength": "13"
+}

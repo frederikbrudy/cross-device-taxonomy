@@ -1,0 +1,18 @@
+{
+  "pid_access": 1535105880,
+  "user_device_rel": "n people to m devices",
+  "unsolved": "design space; distributed control",
+  "scale": "Social space; Room; Near, personal space",
+  "input_modalities": "Touch",
+  "evaluation": "None",
+  "target_users": "Individual; Expert users; Group work",
+  "pid": "Piazza2013",
+  "pid_done": "2",
+  "papertype": "Poster",
+  "devices_included": "Phone; Tablet",
+  "output_modalities": "Screen output",
+  "deployment": "None",
+  "contribution": "Interaction techniques; Design space",
+  "interaction_techniques": "Data transfer/sharing; Remote control; Visualisation; Data exploration",
+  "contentlength": "1"
+}

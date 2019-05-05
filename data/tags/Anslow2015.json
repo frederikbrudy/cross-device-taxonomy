@@ -1,0 +1,23 @@
+{
+  "user_device_rel": "1 person to n devices",
+  "target_users": "Individual; Expert users",
+  "pid": "Anslow2015",
+  "focus": "Software; Hardware",
+  "device_mount": "Placed loosely around user (e.g., table); Mounted to wall; Mounted/fixed",
+  "pid_done": "2",
+  "scale": "Near, personal space",
+  "input_modalities": "Touch; 3D gestures; Keyboard; Mouse",
+  "devices_included": "Any screen device; Phone; Tablet; Desktop computer; Laptop",
+  "use_cases_desc": "Police analyst workstation, mentions interaction techniques but unfortunately not many details.",
+  "evaluation": "None",
+  "contribution_desc": "Police analyst workstations, use multiple surfaces and interaction techniques. \r\nUse case application.",
+  "pid_access": 1533135895,
+  "papertype": "Poster",
+  "output_modalities": "Screen output",
+  "deployment": "None",
+  "interaction_techniques": "Data transfer/sharing; Data exploration",
+  "connection_classification": "Local master device",
+  "tracking_tech": "None",
+  "network_infrastructure": "Internet; WiFi",
+  "contribution": "System; Use-case, application"
+}

@@ -1,0 +1,23 @@
+{
+  "user_device_rel": "1 person to n devices; n people to m devices",
+  "target_users": "Individual",
+  "pid": "Kudo2017",
+  "focus": "Hardware",
+  "device_mount": "Roaming (e.g., on robot, robotic arm)",
+  "pid_done": "2",
+  "scale": "Near, personal space; Social space",
+  "input_modalities": "Touch",
+  "devices_included": "Tabletop, large horizontal display; floor projection",
+  "evaluation": "None",
+  "contentlength": "4",
+  "contribution_desc": "Demo paper.\r\n\"introduce two interaction scenarios, arranging workspace anywhere and floating interactive surface on large floor screen. \"",
+  "pid_access": 1536779461,
+  "papertype": "Demo",
+  "tracking_characteristic": "Location 3D; Inside-out tracking; Outside-in tracking",
+  "output_modalities": "Screen output",
+  "deployment": "None",
+  "interaction_techniques": "Visualisation; Data exploration",
+  "tracking_tech": "Kinect",
+  "contribution": "Use-case, application; Interaction techniques",
+  "crossdevice_def": "Using 'multi display environment' terminology"
+}

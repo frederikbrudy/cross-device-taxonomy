@@ -1,0 +1,23 @@
+{
+  "target_users": "Individual",
+  "pid": "Isenberg2012",
+  "focus": "Software; Hardware",
+  "device_mount": "Handheld; Installed in-vehicle",
+  "pid_done": "2",
+  "scale": "Near, personal space; Social space",
+  "input_modalities": "Touch",
+  "devices_included": "Phone; Desktop computer; Laptop; TV; in-car entertainment; Tablet",
+  "use_cases_desc": "In-vehicle entertainment (map navigation)",
+  "evaluation": "Demonstration",
+  "contentlength": "5",
+  "contribution_desc": "A web-based middleware for supporting application execution and personal data access in multi-device vehicles, for example exporting travel itinerary from the smartphone to the in-car navigation system. One of the key features of the middleware is the separation between the personal data and the applications. This paper is not about interactions but still proposes a relevant architecture for cross-device computing, moving forward from individual devices to systems (vehicles), so I have tagged this paper a \"2\".\r\n\r\nContribution: \"cross-device\" -> \"toolkit, middleware\" -> \"application and data distribution\" -> \"in-vehicle systems\"",
+  "pid_access": 1534773690,
+  "papertype": "Full paper",
+  "use_cases": "Entertainment; Vehicle",
+  "output_modalities": "Screen output",
+  "deployment": "None",
+  "connection_classification": "Local master device; Via remote server",
+  "toolkits": "HTML5; NodeJS",
+  "network_infrastructure": "Bluetooth; WiFi; Internet",
+  "contribution": "Toolkit, middleware"
+}

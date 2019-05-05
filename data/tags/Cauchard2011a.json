@@ -1,0 +1,19 @@
+{
+  "pid_access": 1531313429,
+  "user_device_rel": "1 person to n devices",
+  "pid_done": "2",
+  "scale": "Room",
+  "input_modalities": "Touch",
+  "target_users": "Individual",
+  "contribution_desc": "A study of visual attention separation when using a projector-enabled mobile device in multiple-display environment. It uses an eye-tracker to measure switches in visual context between displays and discusses the viability and design of mobile multi-display environments.\r\n\r\nContribution: \"multi-display environments\" -> \"study\" -> \"visual separation and attention\"",
+  "pid": "Cauchard2011a",
+  "papertype": "Full paper",
+  "device_models": "Google Nexus One; Microvision ShowWX laser pico-projector; Tobii Glasses",
+  "devices_included": "Phone; Projector",
+  "output_modalities": "Screen output",
+  "deployment": "Lab study",
+  "device_mount": "Handheld",
+  "contribution": "Study, deployment;",
+  "evaluation": "User study (quantitative, controlled lab experiment)",
+  "contentlength": "9"
+}

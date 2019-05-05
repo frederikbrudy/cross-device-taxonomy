@@ -1,0 +1,16 @@
+{
+  "user_device_rel": "n people to m devices",
+  "pid_done": "2",
+  "contribution_desc": "Purely focused on audio signals, no link to tracking/distance/... Proposes a method to reduce the multi-user interference of chirp-based acoustic tracking. Results based on simulations.",
+  "contentlength": "3",
+  "pid": "Zhou2009",
+  "tracking_tech": "Acoustic signals",
+  "tracking_characteristic": "no link to actual tracking in paper",
+  "devices_included": "Any screen device",
+  "output_modalities": "Audio output",
+  "deployment": "Simulation",
+  "contribution": "Tracking technology",
+  "papertype": "Note",
+  "evaluation": "Technical evaluation (e.g., runtime, roundtrip)",
+  "pid_access": 1535242818
+}

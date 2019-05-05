@@ -1,0 +1,18 @@
+{
+  "pid_access": 1533570980,
+  "pid_done": "2",
+  "scale": "Buildings; Location-agnostic",
+  "contribution_desc": "Middleware for smart home interconnected devices.\r\nAllows cross-device interaction with proxies (though different use of cross-device, as a quite generic term), and uses DOM inspection and some other techniques for interoperability.",
+  "target_users": "Developers",
+  "pid": "ElKaed2011",
+  "focus": "Software",
+  "tracking_tech": "None",
+  "devices_included": "Smart home; Printer; ; Desktop computer; Laptop; TV",
+  "network_infrastructure": "WiFi; Internet; Bluetooth",
+  "deployment": "Lab study",
+  "contribution": "Toolkit, middleware",
+  "papertype": "Full paper",
+  "evaluation": "Technical evaluation (e.g., runtime, roundtrip); Technical performance (speed)",
+  "crossdevice_def": "Different use of cross-device, as a quite generic term",
+  "contentlength": "6"
+}

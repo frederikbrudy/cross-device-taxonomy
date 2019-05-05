@@ -1,0 +1,22 @@
+{
+  "target_users": "Expert users",
+  "pid": "Melchior2009",
+  "focus": "Software",
+  "pid_done": "2",
+  "input_modalities": "Keyboard; Mouse",
+  "use_cases_desc": "- Distributed office suite\r\n- Distributed pictionary multi-player game",
+  "evaluation": "None",
+  "contentlength": "9",
+  "contribution_desc": "The paper describes the concepts, implementation, and use cases for a P2P distributed UI toolkit. \"This paper presents a toolkit with the following properties. Given n application processes and m display processes, the toolkit allows the GUI of each application to be partitioned arbitrarily and dynamically over the m display processes.\"\r\nTwo \"case studies\" are described as use cases for such a toolkit. Toolkit is neither availabled nor tested / evaluated in any way. ",
+  "pid_access": 1534757739,
+  "papertype": "Full paper",
+  "use_cases": "Knowledge workers; Entertainment; Education",
+  "output_modalities": "Screen output",
+  "deployment": "None",
+  "interaction_techniques": "UI distribution",
+  "connection_classification": "P2P",
+  "toolkits": "Mozart Programming System",
+  "network_infrastructure": "Internet; WiFi",
+  "contribution": "Toolkit, middleware",
+  "crossdevice_def": "\"A Distributed User Interface (DUI) consists of a UI having the\r\nability to distribute parts or whole of its components across multiple\r\nmonitors, devices, platforms, displays, and/ or users.\""
+}

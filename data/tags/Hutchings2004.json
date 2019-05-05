@@ -1,0 +1,21 @@
+{
+  "target_users": "Individual",
+  "pid": "Hutchings2004",
+  "focus": "Software",
+  "device_mount": "Mounted",
+  "pid_done": "2",
+  "scale": "Near, personal space",
+  "input_modalities": "Keyboard; Mouse",
+  "devices_included": "Laptop; Desktop computer",
+  "evaluation": "User study (qualitative); log study",
+  "contentlength": "7",
+  "contribution_desc": "Study comparing monitor use between single and multiple monitor usage, in particular the use of display space and window management.",
+  "pid_access": 1535052460,
+  "papertype": "Full paper",
+  "output_modalities": "Screen output",
+  "deployment": "In-the-wild study",
+  "connection_classification": "Local master device",
+  "tracking_tech": "None",
+  "contribution": "Study (human factors)",
+  "crossdevice_def": "\"single monitor and multiple monitor users\"\r\n\"multiple monitor systems\""
+}

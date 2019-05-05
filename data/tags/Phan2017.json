@@ -1,0 +1,15 @@
+{
+  "user_device_rel": "1 person to n devices",
+  "pid_done": "2",
+  "contribution_desc": "Proposes a tracking technology to identify users across sessions and devices based on their behavior",
+  "pid_access": 1537002725,
+  "pid": "Phan2017",
+  "focus": "Software",
+  "tracking_tech": "browsing behavior",
+  "devices_included": "Any screen device",
+  "deployment": "Offline study on data",
+  "contribution": "Tracking technology; System",
+  "papertype": "Note",
+  "evaluation": "Technical performance (speed)",
+  "crossdevice_def": "Cross-Device User Linking"
+}

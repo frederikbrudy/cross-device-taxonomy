@@ -1,0 +1,21 @@
+{
+  "user_device_rel": "1 person to n devices",
+  "target_users": "Individual; Group work",
+  "pid": "Richter2006",
+  "focus": "Software",
+  "device_mount": "Handheld; Placed loosely around user (e.g., table)",
+  "pid_done": "2",
+  "scale": "Location-agnostic",
+  "input_modalities": "Touch; Keyboard; Mouse",
+  "devices_included": "Phone; Any screen device; Tablet; Laptop; Desktop computer",
+  "evaluation": "None",
+  "contentlength": "6",
+  "contribution_desc": "Focus on the issue of consistency when creating cross-platform designs ",
+  "pid_access": 1534409282,
+  "papertype": "Workshop proposal",
+  "output_modalities": "Screen output",
+  "deployment": "None",
+  "tracking_tech": "None",
+  "contribution": "Workshop proposal",
+  "crossdevice_def": "\"The challenge for user interface design is to ensure that users can seamlessly move between interfaces and continue to accomplish their tasks, even when the interfaces are presented on devices with dramatically different display and interaction mechanisms\"\r\n\r\nUse both \"cross-device\" and \"cross platform\" to describe roaming interfaces."
+}

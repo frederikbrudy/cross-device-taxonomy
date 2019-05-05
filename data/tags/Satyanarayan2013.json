@@ -1,0 +1,23 @@
+{
+  "user_device_rel": "1 person to n devices",
+  "target_users": "Individual",
+  "pid": "Satyanarayan2013",
+  "focus": "Software",
+  "device_mount": "Handheld; Mounted to wall",
+  "pid_done": "2",
+  "scale": "Social space",
+  "devices_included": "Phone; Whiteboard, large vertical display",
+  "use_cases_desc": "Large displays placed in the conference venue showing videos from upcoming sessions. By manually connecting to a display from the conference app content on a large display could be added to a personal schedule. During ongoing sessions the large displays could also be used to view play lists created on personal devices.",
+  "evaluation": "None",
+  "contentlength": "4",
+  "contribution_desc": "The paper presents a system deployed at CHI 2013 to provide at-a-glance overview of upcoming sessions on large displays. Attendees could interact with the displays through the mobile app for the conference either by creating a custom video playlist to show on the display or adding on-screen content to their personal schedule.",
+  "pid_access": 1535108666,
+  "papertype": "Extended abstract",
+  "deployment": "None",
+  "interaction_techniques": "Data transfer/sharing",
+  "connection_classification": "Via remote server",
+  "toolkits": "NodeJS; Javascript; HTML5",
+  "network_infrastructure": "WiFi",
+  "contribution": "Use-case, application",
+  "crossdevice_def": "None given"
+}

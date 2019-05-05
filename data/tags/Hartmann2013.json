@@ -1,0 +1,22 @@
+{
+  "user_device_rel": "1 person to n devices",
+  "target_users": "Developers",
+  "pid": "Hartmann2013",
+  "focus": "Software",
+  "pid_done": "2",
+  "input_modalities": "Touch; Keyboard; Mouse",
+  "devices_included": "Any screen device",
+  "use_cases_desc": "- Slide presenter (presentation on multi-screen)\r\n- Stock viewer (synchronized views)\r\n- Tiled map (display tiling)\r\n- Wall search\r\n- Collaborative document editor\r\n",
+  "evaluation": "Proof-of-concept (system architecture)",
+  "contentlength": "6",
+  "contribution_desc": "Creating meta-applications that turn any unmodified web application into a multi-user and multi-display application.\r\nBare in mind that the target audience are developers who write middleware that route interactions between browser instances. ",
+  "pid_access": 1535466609,
+  "papertype": "Full paper",
+  "use_cases": "Finance; Map navigation; Collaborative editing; collaboration",
+  "output_modalities": "Screen output",
+  "deployment": "None",
+  "interaction_techniques": "UI distribution",
+  "connection_classification": "Via remote server",
+  "toolkits": "NodeJS; JavaScript; socket.io; Objective-C; Browser extension (Chrome)",
+  "contribution": "Toolkit, middleware"
+}

@@ -1,0 +1,21 @@
+{
+  "user_device_rel": "1 person to n devices",
+  "target_users": "Individual",
+  "pid": "Aliakseyeu2006",
+  "focus": "Software",
+  "device_mount": "Handheld; Mounted to table",
+  "pid_done": "2",
+  "scale": "Near, personal space",
+  "input_modalities": "Pen",
+  "devices_included": "Tablet; Tabletop, large horizontal display",
+  "evaluation": "User study (quantitative, controlled lab experiment)",
+  "contentlength": "7",
+  "contribution_desc": "The paper presents the Bubble Radar interaction technique, a pen based interaction technique for pointing and selecting in multi-display systems. The technique is compared with pick-and-drop, radar view, bubble pick-and-drop and push-and-drop. The results show that Bubble Radar is significantly faster and more accurate than the other techniques.",
+  "pid_access": 1535107751,
+  "papertype": "Full paper",
+  "output_modalities": "Screen output",
+  "deployment": "Lab study",
+  "interaction_techniques": "Pointing; Selecting",
+  "tracking_tech": "None",
+  "contribution": "Interaction techniques; Study (human factors)"
+}

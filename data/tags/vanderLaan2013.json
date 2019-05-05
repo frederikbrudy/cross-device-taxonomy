@@ -1,0 +1,20 @@
+{
+  "user_device_rel": "n people to m devices",
+  "pid_done": "2",
+  "scale": "Social space; Room",
+  "input_modalities": "Touch",
+  "network_infrastructure": "Internet; WiFi",
+  "target_users": "Expert users; Group work",
+  "contribution_desc": "Urban planning tool, developed as cross-device application (multi-touch, multi-display). Short paper focuses on application.  Show back-end and GUI design.",
+  "pid": "vanderLaan2013",
+  "focus": "Software",
+  "papertype": "Note",
+  "use_cases": "data exploration",
+  "devices_included": "Tabletop, large horizontal display; Whiteboard, large vertical display",
+  "output_modalities": "Screen output",
+  "use_cases_desc": "They focus of the paper is the urban planning application, integrating some software modules providing data (maps, data points) and implementing on mostly large horizontal or vertical displays.",
+  "contribution": "Use-case, application",
+  "evaluation": "None",
+  "pid_access": 1535640998,
+  "deployment": "None"
+}

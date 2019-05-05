@@ -1,0 +1,12 @@
+{
+  "pid_access": 1535107451,
+  "pid_done": "2",
+  "contribution_desc": "A survey of research on interactive techniques for spontaneous device association that results in a taxonomy for classifying different techniques.",
+  "contentlength": "34",
+  "pid": "Chong2014",
+  "papertype": "Journal Article",
+  "deployment": "None",
+  "contribution": "Review paper",
+  "evaluation": "None",
+  "crossdevice_def": "\"A device association is an act of establishing a communication channel between two or more devices over a common medium (e.g., WiFi or Bluetooth) to form an ad hoc network [Mayrhofer 2008]. Various literature has adopted alternative terms for device association, such as pairing, binding, coupling, or bonding, but, essentially, the terms denote the same concept. For consistency, throughout this article, we use the term \"association\" to denote the process of establishing a device connection and the term \"pairing\" as the name suggests, for association of only two devices.\""
+}

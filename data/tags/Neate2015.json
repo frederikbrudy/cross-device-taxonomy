@@ -1,0 +1,17 @@
+{
+  "pid_access": 1533130941,
+  "pid_done": "2",
+  "scale": "Social space; Room",
+  "input_modalities": "Touch; Keyboard; Mouse; Speech",
+  "contribution_desc": "Work in progress paper about how to orchestrate attention in multi-screen TV experiences. ",
+  "contentlength": "2",
+  "pid": "Neate2015",
+  "network_infrastructure": "Internet; WiFi",
+  "papertype": "Work-in-progress",
+  "device_mount": "Mounted to wall; Handheld",
+  "output_modalities": "Screen output",
+  "deployment": "None",
+  "contribution": "Study (human factors); Theory",
+  "evaluation": "None",
+  "crossdevice_def": "Terms:\r\nmulti-screen TV experiences\r\nCompanion applications\r\nSecond screen companions.\r\n\r\nIs important to differentiate from cross-device interaction."
+}

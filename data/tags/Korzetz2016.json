@@ -1,0 +1,23 @@
+{
+  "target_users": "Individual",
+  "pid": "Korzetz2016",
+  "focus": "Software",
+  "pid_done": "2",
+  "scale": "Near, personal space",
+  "input_modalities": "3D gestures",
+  "devices_included": "Phone",
+  "evaluation": "None",
+  "contentlength": "6",
+  "contribution_desc": "Proposes \"pouring\" content from one device into another to transfer content and tapping devices together to create a shared space.",
+  "pid_access": 1536780175,
+  "papertype": "Poster",
+  "tracking_characteristic": "Proximity; Inside-out tracking",
+  "output_modalities": "Screen output",
+  "deployment": "None",
+  "interaction_techniques": "Data transfer/sharing; Visualisation; UI distribution",
+  "connection_classification": "Local master device",
+  "tracking_tech": "IMU",
+  "network_infrastructure": "WiFi",
+  "contribution": "Interaction techniques",
+  "crossdevice_def": "multi-device interactions; cross-device interaction; multi-display environments"
+}

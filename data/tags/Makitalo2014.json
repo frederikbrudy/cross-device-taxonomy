@@ -1,0 +1,21 @@
+{
+  "user_device_rel": "n people to m devices",
+  "pid": "Makitalo2014",
+  "focus": "Software",
+  "pid_done": "2",
+  "scale": "Location-agnostic",
+  "input_modalities": "Various input techniques supported by individual devices; Touch; Mouse; 3D gestures",
+  "devices_included": "Any screen device; Tangibles",
+  "use_cases_desc": "IoT coffee machine\r\nPhoto sharing among tablets",
+  "evaluation": "Heuristic evaluation (criteria)",
+  "contribution_desc": "Orchestrator.js middleware - a tool designed for building multi-user, and multi-device applications in heterogeneous environment",
+  "pid_access": 1535457408,
+  "output_modalities": "Screen output",
+  "deployment": "None",
+  "interaction_techniques": "Remote control; UI distribution",
+  "connection_classification": "Via remote server",
+  "toolkits": "Javascript",
+  "tracking_tech": "semantic (home/work/bus)",
+  "network_infrastructure": "Internet; WiFi",
+  "contribution": "Toolkit, middleware; programming model"
+}

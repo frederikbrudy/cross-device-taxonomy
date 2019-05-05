@@ -1,0 +1,23 @@
+{
+  "user_device_rel": "1 person to n devices",
+  "target_users": "Individual",
+  "pid": "Hassan2009",
+  "focus": "Software",
+  "device_mount": "Handheld; Mounted to wall",
+  "pid_done": "2",
+  "scale": "Room; Buildings",
+  "input_modalities": "3D gestures; Touch",
+  "devices_included": "Phone; Public display",
+  "use_cases_desc": "\"an instructor sharing photographs from a field trip with a classroom, a group of users sharing their private documents in a boardroom during a meeting or organization members placing information on a bulletin board like display.\"",
+  "evaluation": "User study (quantitative, controlled lab experiment)",
+  "contentlength": "13",
+  "contribution_desc": "Chucking is a gesture based interaction technique for sharing of documents between private mobile devices and public displays by \"chucking\" the phone towards the display.\r\n\"The gesture is analogous to dealing cards like a dealer\"\r\n\r\nThree extensions to the technique are proposed for further interactions: \r\n\"Chuck-Back for pulling documents from the public display to the private device\"\r\n\"Chuck-and-Rotate to rotate a chucked document to accommodate orientation issues\"\r\n\"Chuck-and-Place, a technique to allow for more accurate document placement\"",
+  "pid_access": 1534343238,
+  "device_models": "Dell AximX30 PDA with a TiltControl accelerometer",
+  "output_modalities": "Screen output",
+  "deployment": "Lab study",
+  "interaction_techniques": "Data transfer/sharing",
+  "toolkits": "C#; .NET",
+  "tracking_tech": "None",
+  "contribution": "Interaction techniques"
+}

@@ -1,0 +1,19 @@
+{
+  "pid_access": 1534090134,
+  "user_device_rel": "n people to m devices",
+  "pid_done": "2",
+  "scale": "Location-agnostic",
+  "contribution_desc": "For enabling cross-device web applications, they propose a virtual browser which can facilitate cross-device operations \"according to a pre-defined hint file\" for enabling multi-device web applications.",
+  "evaluation": "None",
+  "target_users": "Developers",
+  "pid": "Cheng2012",
+  "focus": "Software",
+  "tracking_tech": "None",
+  "network_infrastructure": "Internet",
+  "deployment": "None",
+  "contribution": "Toolkit, middleware",
+  "papertype": "Full paper",
+  "interaction_techniques": "Mostly for cross-device web applications (such as state management, synchronization, etc)",
+  "crossdevice_def": "Good starting point of untangling 'multi-device use cases':\r\n(also useful figures).\r\n\r\nFROM PAPER:\r\n\r\nIn a multi-device environment, we might have different use cases, regarding whether multiple devices are used at different time or at the same time, whether they are showing the same content or not, and whether they are used by a single user or by a group of users. Given the dimensions of time, content, and number of users, we could have a bunch of combinations, each of which could represent a different use case. Here we describe some practical use cases that could happen very often in our daily life.\r\n\r\nDevice shifting: \r\nas Figure 1(a) shows, a user is moving from one room to another room while talking to a friend online. The user expects to have a seamless video chatting experience as shifting from smartphone to tablet or laptop. In this case, a single user would like to have the same content over different devices at different times. \r\n\r\nCompanion device: \r\nas Figure 1(b) shows, a user is watching TV at home while using his tablet to talk with his friends through online social networks. He expects to use his tablet as a companion device to control the content on his TV. Therefore, he can switch TV channels without leaving his tablet. This is a typical second-screen TV use case [8] where a user can control multiple devices at the same time.\r\n\r\nDevice collaboration: \r\nas Figure 1(c) shows, three users are located at different places and each of them has a personal device. They wish to use a web application together, for example, co-browsing a same web page [7] [10] or cosearching for something from multiple devices [6]. In this case, users expect to share their interactions and content with others on multiple devices in a collaborative way. Different from the previous two cases, this one allows a group of users involved in the same content on multiple devices simultaneously",
+  "contentlength": "6"
+}

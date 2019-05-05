@@ -1,0 +1,23 @@
+{
+  "contentlength": "8",
+  "pid": "LGirod2001",
+  "focus": "Software",
+  "device_mount": "Placed loosely around user (e.g., table)",
+  "pid_done": "2",
+  "scale": "Room; Social space",
+  "tracking_range": "6m",
+  "devices_included": "Desktop computer",
+  "use_cases_desc": "No cross-device interaction, only distance tracking technique.",
+  "evaluation": "Quality measurements (e.g., accuracy of tracking)",
+  "contribution_desc": "Presents an acoustic ranging system that performs well in the presence of many types of interference, but can return incorrect measurements in non-line-of-sight conditions. Suggests an orthogonal sensory channel to detect and eliminate these measurements. (Temperature, barometric pressure, orientation). No cross-device interaction, only distance tracking technique.",
+  "tracking_accuracy": "2mm",
+  "pid_access": 1537200271,
+  "papertype": "Full paper",
+  "tracking_characteristic": "Distance only; Inside-out tracking",
+  "additional_hardware": "speakers",
+  "deployment": "Lab study",
+  "tracking_reliability": "95%",
+  "tracking_tech": "Acoustic signals; Standalone",
+  "network_infrastructure": "Network",
+  "contribution": "Tracking technology"
+}

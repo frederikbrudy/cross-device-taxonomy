@@ -1,0 +1,23 @@
+{
+  "user_device_rel": "n people to m devices",
+  "target_users": "Group work",
+  "pid": "Lucero2011",
+  "focus": "Software; Hardware",
+  "device_models": "Nokia N900",
+  "device_mount": "Placed loosely around user (e.g., table)",
+  "pid_done": "2",
+  "devices_included": "Phone",
+  "use_cases_desc": "Photo sharing; Creating photo collections",
+  "evaluation": "User study (qualitative)",
+  "contentlength": "9",
+  "contribution_desc": "Explores shared collocated interactions. Introduces a phone-based application to share photos similar to passing paper photos around. Supports ad-hoc photo sharing by taking into account the spatial arrangement of users around a table.",
+  "pid_access": 1536756245,
+  "papertype": "Full paper",
+  "use_cases": "Entertainment",
+  "deployment": "UX study; Lab study",
+  "interaction_techniques": "Data transfer/sharing; Visualisation; UI distribution",
+  "tracking_characteristic": "Relative location; Direction; Inside-out tracking",
+  "tracking_tech": "Radio; Multiple antennas",
+  "contribution": "Tracking technology; Interaction techniques; Study (human factors)",
+  "crossdevice_def": "multi-display reaching techniques "
+}

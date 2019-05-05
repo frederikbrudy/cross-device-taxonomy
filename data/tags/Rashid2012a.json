@@ -1,0 +1,17 @@
+{
+  "pid_access": 1534336544,
+  "user_device_rel": "1 person to n devices",
+  "pid_done": "2",
+  "contribution_desc": "Understanding the cost of display switching for multi-display configurations (i.e., gaze-switches between mobile device and large screen for map search, text search tasks, and photo search).",
+  "target_users": "Individual",
+  "pid": "Rashid2012a",
+  "tracking_tech": "None",
+  "device_models": "HTC Desire HD mobile device; LG High Definition Liquid Crystal display",
+  "devices_included": "Phone; Desktop computer",
+  "deployment": "Lab study",
+  "contribution": "Study (human factors)",
+  "papertype": "Full paper",
+  "evaluation": "Quality measurements (e.g., accuracy of tracking); Subjective workload",
+  "crossdevice_def": "Not a cross-device definition, but an interesting statement:\r\n\r\n\"In this paper we provide empirical evidence of how different distribution of input/output across mobile and large display affects user performance, subjective workload and subjective preferences in a wide range of common mobile tasks\"",
+  "contentlength": "8"
+}

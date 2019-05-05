@@ -1,0 +1,17 @@
+{
+  "user_device_rel": "n people to m devices",
+  "pid_done": "2",
+  "contribution_desc": "This poster reports an asynchronous multi-device acoustic localization system. It seems there is no novel contribution in this poster paper, but I have labelled it \"tagged\" as one given it a \"1\" because the localization problem is relevant to cross-device interaction.",
+  "contentlength": "2",
+  "pid": "Jung2015",
+  "focus": "Software",
+  "tracking_tech": "Acoustic signals",
+  "device_models": "Vega No.6 Galaxy Nexus; Odroid XU; Galaxy S3",
+  "tracking_characteristic": "Tracking devices only; Location 3D; Inside-out tracking",
+  "devices_included": "Phone; Tangibles",
+  "deployment": "Lab study",
+  "contribution": "System",
+  "papertype": "Poster",
+  "evaluation": "Quality measurements (e.g., accuracy of tracking)",
+  "pid_access": 1529394993
+}

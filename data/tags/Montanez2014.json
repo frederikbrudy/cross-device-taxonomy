@@ -1,0 +1,14 @@
+{
+  "pid_access": 1534765588,
+  "user_device_rel": "1 person to n devices",
+  "pid_done": "2",
+  "contribution_desc": "An analysis of search engine logs about search across devices as well as predictive models of cross-device transitions. Cross-device transitions correlate with device type, topic of interest, time of use, history of use, etc.",
+  "target_users": "Individual",
+  "pid": "Montanez2014",
+  "papertype": "Full paper",
+  "use_cases": "Web search",
+  "devices_included": "Phone; Tablet; Desktop computer; gaming console",
+  "use_cases_desc": "cross-device web search",
+  "contribution": "Study, deployment",
+  "contentlength": "10"
+}

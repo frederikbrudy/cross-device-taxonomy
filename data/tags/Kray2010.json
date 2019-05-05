@@ -1,0 +1,18 @@
+{
+  "pid_access": 1535461362,
+  "user_device_rel": "1 person to n devices; n people to m devices",
+  "pid_done": "2",
+  "scale": "Near, personal space; Social space",
+  "contribution_desc": "USER-DEFINED GESTURES FOR INTERACTION ACROSS DEVICES. Presents a user study on participants that spontaneously produced gestures with their phone to trigger a set of different activities: phone-to-phone, phone-to-tabletop, and phone to public display",
+  "evaluation": "User study (qualitative); Elicitation study",
+  "target_users": "Individual; Group work",
+  "pid": "Kray2010",
+  "tracking_tech": "None",
+  "devices_included": "Tablet; Phone",
+  "deployment": "Lab study",
+  "contribution": "Study (human factors); Interaction techniques",
+  "papertype": "Full paper",
+  "interaction_techniques": "Data transfer/sharing; UI distribution; Remote control",
+  "crossdevice_def": "multi-device interaction",
+  "contentlength": "9"
+}

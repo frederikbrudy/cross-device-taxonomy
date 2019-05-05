@@ -1,0 +1,22 @@
+{
+  "user_device_rel": "1 person to n devices;",
+  "target_users": "Individual",
+  "pid": "Kubo2017a",
+  "focus": "Software",
+  "device_models": "SONY Xperia Z3 compact SO-02G; SONY SmartWatch 3 SWR50",
+  "pid_done": "2",
+  "scale": "Near, personal space",
+  "input_modalities": "3D gestures",
+  "devices_included": "Phone; Smart watch",
+  "use_cases_desc": "Map application\r\nMulti-tasking application (simultaneous use of music player and web browser)",
+  "evaluation": "None",
+  "contentlength": "6",
+  "contribution_desc": "\"Context-aware UI\" system based on combined smartwatch and smartphone interactions. It recognizes positions, movement, and grip of the devices that then can be used to change content on the devices. Authors call it context-aware UI.",
+  "pid_access": 1536780112,
+  "use_cases": "Personal/context-aware use",
+  "output_modalities": "Screen output",
+  "toolkits": "WEKA J48 recognizer",
+  "tracking_characteristic": "Inside-out tracking",
+  "tracking_tech": "IMU",
+  "contribution": "Interaction techniques; System; Use-case, application"
+}

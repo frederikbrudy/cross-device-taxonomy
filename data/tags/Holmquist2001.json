@@ -1,0 +1,19 @@
+{
+  "user_device_rel": "1 person to n devices",
+  "pid_done": "2",
+  "scale": "Social space",
+  "toolkits": "PIC micro-controllers; two-axis accelerometer; ball switch; RFM interface for wireless communication",
+  "evaluation": "None",
+  "contentlength": "6",
+  "contribution_desc": "Smart-Its Friends are small building blocks that can be connected and communicate with each other, for example to detect if two blocks are in proximity.",
+  "pid": "Holmquist2001",
+  "focus": "Hardware",
+  "tracking_tech": "RFM",
+  "tracking_characteristic": "Proximity; Inside-out tracking",
+  "devices_included": "Tangibles",
+  "output_modalities": "Audio output",
+  "use_cases_desc": "Smart-Its Friends: notifies a user with a beep when a friend connects or leaves to support awareness.\r\n\r\nChild monitor: similar to Smart-Its friends, which will notify parents when a child gets out of reach.\r\n\r\nAttaching Smart-Its Friends to personal objects, e.g., to invalidate them when they get lost (credit card)",
+  "contribution": "Tracking technology",
+  "interaction_techniques": "Notifications",
+  "pid_access": 1536782138
+}

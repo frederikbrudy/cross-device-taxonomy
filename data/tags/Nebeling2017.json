@@ -1,0 +1,21 @@
+{
+  "user_device_rel": "1 person to n devices",
+  "target_users": "Individual",
+  "pid": "Nebeling2017",
+  "focus": "Software",
+  "device_mount": "Placed loosely around user (e.g., table)",
+  "pid_done": "2",
+  "scale": "Near, personal space",
+  "input_modalities": "Touch",
+  "devices_included": "Phone; Tablet; Smart watch",
+  "evaluation": "Technical evaluation (e.g., runtime, roundtrip); User study (qualitative); Elicitation study; User study (quantitative, controlled lab experiment)",
+  "contentlength": "10",
+  "contribution_desc": "The paper presents two studies. The first study is an elicitation study where participants are asked to come up with interaction techniques for invoking three different types of techniques for distributing content of a web page across multiple devices. The second study has participants code a corpus of web-pages based on what parts of the web-page would go where in each fo the different types of distribution techniques. The insights from the studies are implemented in XDBrowser 2.0, which is an extension to Chrome for automatically distributing content of web-pages across devices, based on the content coding and proposed interaction techniques.",
+  "pid_access": 1534505585,
+  "papertype": "Full paper",
+  "use_cases": "None",
+  "deployment": "Lab study",
+  "interaction_techniques": "UI distribution",
+  "toolkits": "NodeJS; Javascript",
+  "contribution": "Study, deployment; System; Interaction techniques"
+}

@@ -1,0 +1,17 @@
+{
+  "user_device_rel": "1 person to n devices",
+  "pid_done": "2",
+  "contribution_desc": "Alternative multi-screen cursor control that takes the user's perspective in a room into account. The paper presents two alternative perspective based approaches (Virtual Beam and Perspective Cursor) and compares it to traditional stitched control spaces.",
+  "evaluation": "User study (quantitative, controlled lab experiment); Measured completion time and accuracy",
+  "contentlength": "9",
+  "deployment": "None",
+  "pid": "Nacenta2006",
+  "focus": "Software",
+  "papertype": "Full paper",
+  "tracking_characteristic": "Electromagnetic tracker (Polhemus tracker); Location 3D; Orientation",
+  "devices_included": "Any screen device",
+  "additional_hardware": "Polhemus Liberty tracker with three tethered 6-DOF sensors",
+  "use_cases_desc": "Any application based on cursor control",
+  "interaction_techniques": "Cursor control",
+  "pid_access": 1531852984
+}

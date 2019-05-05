@@ -1,0 +1,22 @@
+{
+  "target_users": "Individual",
+  "pid": "Seiderer2017a",
+  "focus": "Software",
+  "device_mount": "Worn",
+  "pid_done": "2",
+  "scale": "On-body",
+  "input_modalities": "Activity; Motion",
+  "devices_included": "Any sensor device",
+  "use_cases_desc": "Activity sensing across devices",
+  "evaluation": "User study (qualitative); Deployment with users",
+  "contentlength": "2",
+  "contribution_desc": "Sensing technology spanning several devices (phone, watch, scales). Sensor fusion across devices.",
+  "pid_access": 1536781422,
+  "papertype": "Poster",
+  "tracking_characteristic": "Proximity; Same user; Inside-out tracking",
+  "deployment": "In-the-wild study",
+  "interaction_techniques": "Passive (sensing system)",
+  "use_cases": "Activity sensing",
+  "tracking_tech": "Manual; BLE",
+  "contribution": "System; Cross-device sensing"
+}

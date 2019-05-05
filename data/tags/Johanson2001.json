@@ -1,0 +1,21 @@
+{
+  "user_device_rel": "n people to m devices",
+  "contentlength": "8",
+  "pid": "Johanson2001",
+  "focus": "Software",
+  "pid_done": "2",
+  "scale": "Room",
+  "devices_included": "Any screen device",
+  "use_cases_desc": "Cross-screen browsing\r\nmeeting room notes\r\nAgenda",
+  "evaluation": "None",
+  "contribution_desc": "Proposes Multibrowsing, a framework that extends the information browsing metaphor of the Web across multiple displays.",
+  "pid_access": 1534936339,
+  "papertype": "Full paper",
+  "output_modalities": "Screen output",
+  "deployment": "None",
+  "interaction_techniques": "UI distribution",
+  "connection_classification": "Via remote server",
+  "tracking_tech": "None",
+  "network_infrastructure": "Internet",
+  "contribution": "System"
+}

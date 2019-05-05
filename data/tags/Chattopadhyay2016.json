@@ -1,0 +1,22 @@
+{
+  "user_device_rel": "n people to m devices",
+  "contentlength": "4",
+  "pid": "Chattopadhyay2016",
+  "focus": "Software",
+  "device_mount": "Handheld",
+  "pid_done": "2",
+  "scale": "Room",
+  "input_modalities": "Touch",
+  "use_cases_desc": "Cross-device and collaborative presentation extension",
+  "evaluation": "User study (qualitative); interviews; observations",
+  "contribution_desc": "Office Social - a PowerPoint plugin and companion smartphone app that allows audience members qualified access to slides for personal review and, when the presenter enables it, public control over slide navigation",
+  "pid_access": 1535461741,
+  "papertype": "Full paper",
+  "use_cases": "Knowledge workers",
+  "deployment": "Lab study",
+  "interaction_techniques": "Remote control; UI distribution; Cross-device task chaining",
+  "connection_classification": "Via remote server",
+  "tracking_tech": "None",
+  "network_infrastructure": "WiFi",
+  "contribution": "System"
+}

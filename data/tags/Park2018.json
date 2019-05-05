@@ -1,0 +1,22 @@
+{
+  "user_device_rel": "n people to m devices",
+  "target_users": "Group work; Individual",
+  "pid": "Park2018",
+  "focus": "Software",
+  "pid_done": "2",
+  "devices_included": "Phone; Tablet; Smart watch; Public display; Whiteboard, large vertical display; Laptop; Desktop computer; TV",
+  "use_cases_desc": "Scenarios in the paper includes a co-located media sharing application that distributed UI elements such as playback contols, video, comments, playlist to connected devices and based on their users roles, access rights, and preferences. It exemplifies the formalization using a meeting scenario with presenter controls, presentation UI, timer, meeting notes, etc.",
+  "evaluation": "Technical evaluation (e.g., runtime, roundtrip); User study (qualitative)",
+  "contentlength": "10",
+  "contribution_desc": "This work contributes an automated UI distribution formulation that takes user roles, device access, UI completeness, user preferences, and device capabilities into account. The formulation is implemented using integer programming and its performance evaluated with respect to increasing number of devices, elements, users, and user+devices. It, further, contributes a designer-in-the-loop tool that allows a designer to test UI distributions at design-time and in real-time. The designer-in-the-loop tool was evaluated in a lab study and contrasted to manual UI distribution.",
+  "pid_access": 1534488420,
+  "papertype": "Full paper",
+  "use_cases": "Knowledge workers; Education; Entertainment",
+  "output_modalities": "Screen output",
+  "deployment": "Lab study",
+  "interaction_techniques": "UI distribution; Cross-device task chaining; Data exploration; Remote control",
+  "connection_classification": "Via remote server",
+  "toolkits": "Codestrates; Webstrates",
+  "network_infrastructure": "WiFi; Internet",
+  "contribution": "Toolkit, middleware; System; Use-case, application"
+}

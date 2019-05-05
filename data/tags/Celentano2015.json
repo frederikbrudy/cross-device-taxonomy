@@ -1,0 +1,19 @@
+{
+  "pid_access": 1535461230,
+  "user_device_rel": "1 person to n devices",
+  "pid_done": "2",
+  "scale": "Near, personal space; Social space",
+  "contribution_desc": "The paper proposes a design space for exploring rich and complex information environments using the techniques of overview+detail and focus+context in a multi-device setting. The focus of the paper is primarily on map-based interaction. The design space is evaluated using two case studies: Energy consumption monitoring and a cultural heritage interactive installation.",
+  "evaluation": "Case studies",
+  "target_users": "Individual",
+  "deployment": "None",
+  "pid": "Celentano2015",
+  "focus": "Software",
+  "papertype": "Full paper",
+  "use_cases": "Knowledge workers; Entertainment",
+  "devices_included": "Phone; Tablet; Desktop computer",
+  "use_cases_desc": "Campus scale energy monitoring and a cultural heritage interactive installation.",
+  "contribution": "Theory; Case studies",
+  "interaction_techniques": "UI distribution",
+  "contentlength": "8"
+}

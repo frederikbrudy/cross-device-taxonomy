@@ -1,0 +1,19 @@
+{
+  "pid_access": 1533054804,
+  "user_device_rel": "n people to m devices",
+  "pid_done": "2",
+  "input_modalities": "Touch; Keyboard; Mouse; Speech; 3D gestures",
+  "contribution_desc": "Demo paper about the meschHub platform to link across IoT devices. ",
+  "network_infrastructure": "Internet; WiFi",
+  "target_users": "Developers",
+  "deployment": "None",
+  "pid": "Kubitza2016",
+  "focus": "Software",
+  "papertype": "Demo",
+  "output_modalities": "Screen output; Audio output; Speech",
+  "use_cases_desc": "This is a demo submission.\r\nIncluded demos are:\r\n- smart home simple example\r\n- smart office, forwarding\r\n- industry facilities, small robot arm",
+  "contribution": "Use-case, application; Toolkit, middleware",
+  "evaluation": "None",
+  "crossdevice_def": "Multi-device IoT setups, so relatively broad definition.",
+  "contentlength": "2"
+}

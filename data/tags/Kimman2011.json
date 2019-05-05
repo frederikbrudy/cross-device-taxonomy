@@ -1,0 +1,22 @@
+{
+  "user_device_rel": "1 person to n devices",
+  "target_users": "Individual",
+  "pid": "Kimman2011",
+  "focus": "Software",
+  "device_mount": "Handheld; Mounted to wall",
+  "pid_done": "2",
+  "scale": "Room",
+  "input_modalities": "Touch; 3D gestures; tangibles",
+  "devices_included": "TV; peripherals",
+  "use_cases_desc": "Tangible remote control",
+  "evaluation": "Focus group",
+  "contentlength": "4",
+  "contribution_desc": "a design exploration on how to interact with digital media products in the context of the home",
+  "pid_access": 1535464700,
+  "papertype": "Note",
+  "use_cases": "home",
+  "output_modalities": "Screen output",
+  "deployment": "Lab study",
+  "interaction_techniques": "Remote control",
+  "contribution": "Use-case, application"
+}

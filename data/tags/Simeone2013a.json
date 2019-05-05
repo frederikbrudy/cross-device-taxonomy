@@ -1,0 +1,19 @@
+{
+  "pid_access": 1534937252,
+  "user_device_rel": "1 person to n devices",
+  "pid_done": "2",
+  "contribution_desc": "Drag and drop content from phone to laptop by spatially aligning them.",
+  "evaluation": "Example applications",
+  "target_users": "Individual",
+  "deployment": "None",
+  "pid": "Simeone2013a",
+  "focus": "Software",
+  "tracking_tech": "None",
+  "use_cases": "Knowledge workers",
+  "devices_included": "Phone; Laptop; Desktop computer",
+  "use_cases_desc": "\"bridge\" application\r\nEmail",
+  "contribution": "Interaction techniques",
+  "papertype": "Note",
+  "interaction_techniques": "Drag and drop content from phone to laptop screen",
+  "contentlength": "3"
+}

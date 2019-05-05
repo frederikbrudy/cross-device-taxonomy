@@ -1,0 +1,23 @@
+{
+  "user_device_rel": "n people to m devices",
+  "target_users": "Group work",
+  "pid": "Skov2015",
+  "focus": "Software",
+  "pid_done": "2",
+  "scale": "Social space",
+  "input_modalities": "Touch",
+  "devices_included": "Phone; Tablet",
+  "use_cases_desc": "Playing card games across individual and shared devices.",
+  "evaluation": "User study (quantitative, controlled lab experiment); User study (qualitative); Deployment with users",
+  "contribution_desc": "The paper presents two studies on cross-device interaction for games. It illustrates six different interaction techniques for cross-device card playing and evaluate their usability and usefulness. They conclude that \"natural\" gestures like a wrist-whip that mimicked the physical gesture you would use in playing cards was slower than the other techniques and that the participants found it less useful and less natural. ",
+  "pid_access": 1535108488,
+  "papertype": "8; Full paper",
+  "device_models": "Acer A200; Samsung Galaxy S2",
+  "output_modalities": "Screen output",
+  "deployment": "Lab study; In-the-wild study",
+  "interaction_techniques": "Data transfer/sharing; Conduit gestures",
+  "toolkits": "Javascript; HTML5; Hammer.js",
+  "use_cases": "Entertainment",
+  "contribution": "Study, deployment; Interaction techniques; Use-case, application",
+  "crossdevice_def": "\"Rekimoto (1998), for example, envisioned almost two decades ago what he called multiple-computer user interfaces and argued that interaction techniques must overcome the boundaries among devices in multi-device settings\""
+}

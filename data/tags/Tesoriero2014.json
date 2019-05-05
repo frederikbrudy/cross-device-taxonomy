@@ -1,0 +1,18 @@
+{
+  "pid_access": 1535108111,
+  "user_device_rel": "n people to m devices",
+  "pid_done": "2",
+  "toolkits": "Javascript; HTML5",
+  "contribution_desc": "The paper introduces metamodel for distributed user interfaces, applies it to a number of case studies (small applications) and finally presents a system, Proxyworks, for distributing Web pages across devices.",
+  "evaluation": "None",
+  "target_users": "Individual; Group work",
+  "pid": "Tesoriero2014",
+  "focus": "Software",
+  "papertype": "Full paper",
+  "devices_included": "Phone; Tablet; Smart watch; TV; Laptop",
+  "deployment": "None",
+  "contribution": "Theory; System",
+  "interaction_techniques": "UI distribution",
+  "crossdevice_def": "The concept of ecosystem of coupled displays was defined by Terrenghi in [1]. Under this configuration, a set of displays is connected/synchronized to each other to enrich users' experience.\r\n\r\nA user interface ecosystem is divisible iff exists an Interaction Object that can be hosted in more than one Interaction Surface. It means that any application that supports floating toolbars defines a user interface that is divisible.\r\n\r\nA user interface ecosystem is distributable iff exists at least one Interaction Object that can be hosted on at least two Interaction Surfaces implemented on different Platforms. It means that any application that allows users to transfer components from one platform to another one defines a user interface that is distributable.",
+  "contentlength": "9"
+}

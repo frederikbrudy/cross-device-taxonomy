@@ -1,0 +1,23 @@
+{
+  "user_device_rel": "n people to m devices",
+  "target_users": "Individual; Group work",
+  "pid": "Spindler2009",
+  "focus": "Software; Hardware; Paper lenses",
+  "pid_done": "2",
+  "scale": "Near, personal space",
+  "devices_included": "Paper lenses; Tangibles",
+  "use_cases_desc": "Exploring layers of MRT scans\r\nMap exploration",
+  "evaluation": "Formative evaluation",
+  "contentlength": "8",
+  "contribution_desc": "A lightweight, flexible, shape-variable and robust display solution. Spatially aware handheld lenses and interaction techniques for the spatial exploration of virtual information spaces in the real-world space above a tabletop. The paper also presents four basic types of explorable data spaces: the volumetric, layered, zoomable, and temporal information space.",
+  "pid_access": 1536861275,
+  "papertype": "Full paper",
+  "tracking_characteristic": "Outside-in tracking; Multiple screens; Location 3D; Orientation; Identity",
+  "output_modalities": "Screen output",
+  "deployment": "None",
+  "interaction_techniques": "Visualisation; Data exploration",
+  "toolkits": "ARToolKit",
+  "use_cases": "Medicine",
+  "tracking_tech": "Marker-based IR Tracking; OptiTrack",
+  "contribution": "Interaction techniques; Display/Visualization technique"
+}

@@ -1,0 +1,13 @@
+{
+  "pid_access": 1534141084,
+  "pid_done": "2",
+  "contribution_desc": "An extension to a model-based UI language (MARIA), to address the distribution of UIs across multiple displays. ",
+  "target_users": "Expert users",
+  "pid": "Manca2011",
+  "focus": "Software",
+  "tracking_tech": "None",
+  "deployment": "None",
+  "contribution": "Display/Visualization technique; Theory",
+  "evaluation": "None",
+  "crossdevice_def": "\"... Distributed User Interfaces, which are interfaces whose different parts can be distributed in time and space on different monitors, devices, and computing platforms, depending on several parameters expressing the context of use.\""
+}

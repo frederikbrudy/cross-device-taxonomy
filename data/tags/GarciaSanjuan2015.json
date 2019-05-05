@@ -1,0 +1,22 @@
+{
+  "user_device_rel": "n people to m devices",
+  "target_users": "Individual; Group work",
+  "pid": "GarciaSanjuan2015",
+  "focus": "Software",
+  "device_mount": "Handheld; Mounted to wall",
+  "pid_done": "2",
+  "scale": "Room",
+  "input_modalities": "Touch",
+  "devices_included": "Any screen device; Tabletop, large horizontal display; Tablet",
+  "contentlength": "2",
+  "contribution_desc": "Tutorial for using MDEs (tabletop and other devices) for installations in hospitals to \"foster emotional intelligence\"",
+  "pid_access": 1534928613,
+  "papertype": "Tutorial; Poster",
+  "output_modalities": "Screen output",
+  "deployment": "None",
+  "connection_classification": "Via remote server; Local master device",
+  "tracking_tech": "None",
+  "network_infrastructure": "Internet; WiFi",
+  "contribution": "Use-case, application",
+  "crossdevice_def": "\"MDE have been object of much previous research. Traditionally, their main purpose was enlarging the visualization space via the physical union of several smaller screens (e.g. [8]), and the interaction played a more secondary role, therefore leading to monouser environments with difficulties to favor collaboration, which is fundamental in emotional learning.\""
+}

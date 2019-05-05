@@ -1,0 +1,22 @@
+{
+  "user_device_rel": "1 person to n devices",
+  "target_users": "Individual",
+  "pid": "Clerckx2006",
+  "focus": "Software",
+  "device_mount": "Handheld",
+  "pid_done": "2",
+  "scale": "Near, personal space",
+  "devices_included": "PDA; Desktop computer",
+  "use_cases_desc": "Get picture from camera into IM service on PDA.",
+  "evaluation": "None",
+  "contentlength": "3",
+  "contribution_desc": "A proposal for a modular runtime architecture for designing context-aware and distributable user interfaces.",
+  "pid_access": 1535107481,
+  "papertype": "Note",
+  "use_cases": "Communication",
+  "output_modalities": "Screen output",
+  "deployment": "None",
+  "interaction_techniques": "Data transfer/sharing",
+  "connection_classification": "P2P",
+  "contribution": "System"
+}

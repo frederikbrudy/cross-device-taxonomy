@@ -1,0 +1,19 @@
+{
+  "pid_access": 1525383639,
+  "user_device_rel": "n people to m devices",
+  "pid_done": "2",
+  "scale": "Near, personal space",
+  "input_modalities": "Touch",
+  "target_users": "Group work",
+  "contribution_desc": "This is a very concise (or super short note) describing two use cases:\r\n\r\n- Collaborative browsing of documents\r\n- Collaborative browsing of web pages\r\n\r\nEach use case is based on UI content distribution. For example, the distribution of a Word document across different mobile devices (i.e. PDAs) with one device showing the document outline and another one showing the pages overview and yet another one showing the content of a page.\r\n\r\nThe paper itself, however, doesn't describe the implementation of the system.",
+  "pid": "Hua2005",
+  "papertype": "Note",
+  "use_cases": "Knowledge workers",
+  "devices_included": "Phone",
+  "output_modalities": "Screen output",
+  "use_cases_desc": "- Collaborative browsing of documents\r\n- Collaborative browsing of web pages",
+  "device_mount": "Handheld; Placed loosely around user (e.g., table)",
+  "contribution": "System",
+  "interaction_techniques": "UI distribution",
+  "contentlength": "2"
+}

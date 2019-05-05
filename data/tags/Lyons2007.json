@@ -1,0 +1,17 @@
+{
+  "pid_access": 1534768722,
+  "user_device_rel": "n people to m devices",
+  "pid_done": "2",
+  "contribution_desc": "This DC paper discusses the design of educational software with software scaffolding that enables groups of museum visitors and their multiple devices to collaboratively explore exhibits or simulations. I would tag this paper as \"1\" because it introduces an niche multi-device problem space (educational software for collocated museum experience).",
+  "target_users": "Group work",
+  "deployment": "In-the-wild study",
+  "pid": "Lyons2007",
+  "focus": "Software",
+  "papertype": "DC",
+  "use_cases": "educational application in the museum",
+  "devices_included": "Phone; Public display",
+  "use_cases_desc": "collocated learning experience (experiment) with simulations in the museum",
+  "contribution": "Design; Study, deployment",
+  "evaluation": "Deployment with users",
+  "contentlength": "4"
+}

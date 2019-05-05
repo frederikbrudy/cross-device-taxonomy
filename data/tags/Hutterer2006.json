@@ -1,0 +1,16 @@
+{
+  "pid_access": 1534344131,
+  "connection_classification": "TCP/IP network",
+  "toolkits": "Java Swing; Java AWT",
+  "contribution_desc": "Allowing multiple mouses and keyboards to control Java (Swing-based) application. It supports any (legacy) Java Swing application.",
+  "target_users": "Any user or group of users",
+  "pid": "Hutterer2006",
+  "pid_done": "2",
+  "focus": "Software",
+  "devices_included": "Any device that runs Java Swing-applications",
+  "use_cases_desc": "It supports any Java Swing application, therefore, the use cases are with the limits of Java Swing.",
+  "contribution": "Framework; Toolkit, middleware",
+  "papertype": "Full paper",
+  "evaluation": "Proof-of-concept evaluation",
+  "contentlength": "8"
+}

@@ -1,0 +1,16 @@
+{
+  "pid_access": 1535460827,
+  "user_device_rel": "1 person to n devices; n people to m devices",
+  "pid_done": "2",
+  "scale": "Near, personal space",
+  "contribution_desc": "The paper presents a study of 3361 pots from technology web sites discussing Apple's Continuity feature with a qualitative analysis of 1603 posts. The authors identify multiple issues with its current implementation under the themes privacy (e.g. when sharing devices with family members), appropriation (fitting the feature into the daily work practice), customization (e.g. selecting only certain apps), awareness (knowing and understanding the feature), exclusion (of older and types of devices) and troubleshooting.",
+  "target_users": "Individual",
+  "pid": "Raptis2016",
+  "papertype": "Full paper",
+  "devices_included": "Phone; Tablet; Laptop",
+  "deployment": "None",
+  "contribution": "Study ; Study (Analytical); digital ethnography; Interaction techniques",
+  "interaction_techniques": "Session continuation",
+  "crossdevice_def": "\"Soerensen et al. [24] divide multi-device interaction into four groups of communality, collaboration, complementarity, and continuity. Of particular interest, the group of \"continuity\" covers the emerging use of multiple devices in sequence where an activity or interaction begins on one device and continues on another.\"",
+  "contentlength": "9"
+}

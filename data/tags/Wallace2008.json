@@ -1,0 +1,19 @@
+{
+  "pid_access": 1535460698,
+  "pid_done": "2",
+  "input_modalities": "Keyboard; Mouse",
+  "contribution_desc": "Study of re-directing techniques in multi-device environments.\r\nDifferentiate INPUT redirection and CONTENT redirection. Which they then study and compare, in various seating arrangements.",
+  "evaluation": "Quantitative measurements for techniques, such as transition time; Qualitative",
+  "contentlength": "10",
+  "pid": "Wallace2008",
+  "network_infrastructure": "Internet",
+  "tracking_tech": "None",
+  "devices_included": "Any screen device; Laptop; Desktop computer",
+  "output_modalities": "Screen output",
+  "deployment": "Lab study",
+  "device_mount": "Monitors",
+  "contribution": "Study",
+  "papertype": "Full paper",
+  "interaction_techniques": "Content redirection (key swap, edit blind); Input redirection (extended desktop, multi-monitor mouse)",
+  "crossdevice_def": "Use MDE, Multi device environment, terminology.\r\nIn particular: collaborative MDEs -- users sharing information and applications in a group setting, interacting with each other using fixed large shared displays, and incorporating their personal devices into the environment.\r\n"
+}

@@ -1,0 +1,22 @@
+{
+  "user_device_rel": "n people to m devices",
+  "target_users": "Individual; Conference attendees",
+  "pid": "Turunen2011",
+  "device_mount": "Handheld; Mounted to wall",
+  "pid_done": "2",
+  "scale": "Social space; Location-agnostic",
+  "devices_included": "Public display; Wall display; Mobile displays in general",
+  "use_cases_desc": "The example use case is a conference guide",
+  "contentlength": "4",
+  "contribution_desc": "A multi-user and multi-device conference program guide where users can access conference information on a public shared display or on a mobile device application. The mobile application can also connect to the shared public display to remote control the display via voice commands and gestures.",
+  "pid_access": 1531832122,
+  "papertype": "Poster",
+  "use_cases": "Conference guide",
+  "additional_hardware": "Low-cost PC to run the server",
+  "output_modalities": "Screen output; Audio output; Speech",
+  "deployment": "Demonstration at a conference (Pervasive 2010 and MindTrek 2010)",
+  "interaction_techniques": "Remote control",
+  "connection_classification": "Via remote server",
+  "toolkits": "C# and Java; Piccolo toolkit; SQLite; Nokia Qt library; Maemo 5 and Symbian platforms; Qt Mobility package on Symbian",
+  "network_infrastructure": "Internet"
+}

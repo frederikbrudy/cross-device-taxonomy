@@ -1,0 +1,18 @@
+{
+  "pid_access": 1534260659,
+  "pid_done": "2",
+  "input_modalities": "Keyboard; Mouse",
+  "contribution_desc": "Key contribution is meta-GUI-builder that allows domain experts to build multi-device GUIs without (or minimum) programming knowledge.",
+  "target_users": "Expert users",
+  "pid": "Luyten2008",
+  "focus": "Software",
+  "tracking_tech": "None",
+  "devices_included": "Any screen device",
+  "output_modalities": "Screen output",
+  "deployment": "None",
+  "contribution": "Toolkit, middleware",
+  "papertype": "Poster",
+  "evaluation": "None",
+  "crossdevice_def": "Mostly in the sense of cross-platform, or across form factors.\r\nMulti-platform.",
+  "contentlength": "6"
+}

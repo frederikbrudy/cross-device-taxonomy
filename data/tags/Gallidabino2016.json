@@ -1,0 +1,17 @@
+{
+  "pid_access": 1534937444,
+  "user_device_rel": "1 person to n devices",
+  "pid_done": "2",
+  "toolkits": "Javascript",
+  "contribution_desc": "Javascript infrastructure to support stateful transitions across multiple devices.",
+  "target_users": "Individual",
+  "pid": "Gallidabino2016",
+  "focus": "Software",
+  "tracking_tech": "None",
+  "devices_included": "Any screen device",
+  "deployment": "None",
+  "contribution": "Toolkit, middleware",
+  "papertype": "Note",
+  "evaluation": "None",
+  "contentlength": "4"
+}

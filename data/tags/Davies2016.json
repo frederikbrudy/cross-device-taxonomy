@@ -1,0 +1,23 @@
+{
+  "user_device_rel": "1 person to n devices",
+  "target_users": "Individual",
+  "pid": "Davies2016",
+  "focus": "Software",
+  "pid_done": "2",
+  "scale": "Social space",
+  "input_modalities": "3D gestures",
+  "devices_included": "Other devices",
+  "evaluation": "None",
+  "contentlength": "4",
+  "contribution_desc": "This work integrates Kinect hand tracking with HoloLens allowing for more \"natural interaction\" with virtual objects or virtual displays. \r\n\r\nIt is rated 1* because it is only loosely related to cross-device interaction, yet it should be considered as another class of multi-device interactions.",
+  "pid_access": 1527182489,
+  "papertype": "Demo",
+  "device_models": "HoloLens; Kinect",
+  "output_modalities": "Holographic output",
+  "deployment": "None",
+  "toolkits": "SoD toolkit",
+  "tracking_characteristic": "Outside-in tracking",
+  "tracking_tech": "Optical",
+  "network_infrastructure": "WiFi",
+  "contribution": "Toolkit, middleware"
+}

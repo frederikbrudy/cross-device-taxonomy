@@ -1,0 +1,14 @@
+{
+  "user_device_rel": "n people to m devices",
+  "pid_done": "2",
+  "scale": "Room",
+  "contribution_desc": "This paper reports on the findings from multi-display environments where all displayes are shared displays: a surgical operation theatre. \r\nThe author analysed 50 hours of video footage from various operation rooms and classified how the multiple displays were used as part of the surgery. She classied the screens as primary and secondary displays (primary: support the primary task at hand, cutting, insertion, manipulating the tissue, e.g. fluoroscopic x-rays; secondary: support for more complex decision making processes, e.g. pre-operation MRI). Some of the secondary displays were found to be used as personal displays. \r\nFurther she describes how the different forms of displays affect the work practices by creating the need for additional articulation work (distributing the work across the team or by requiring a momentary pause for the entire team to attend to the articulation work). ",
+  "contentlength": "15",
+  "pid": "Mentis2017",
+  "papertype": "Full paper",
+  "use_cases": "Medical (operation room)",
+  "device_mount": "Mounted to wall; Placed loosely around user (e.g., table)",
+  "deployment": "In-the-wild study",
+  "contribution": "Qualitative study; qualitative",
+  "pid_access": 1535460664
+}

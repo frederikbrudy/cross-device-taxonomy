@@ -1,0 +1,12 @@
+{
+  "pid_access": 1528999430,
+  "pid_done": "2",
+  "contribution_desc": "This is a review on cross-device media with the particular focus on multi-device television and second screening television. Along the origins of multi-screen TV use, it introduces the different types of use such as tangential browsing, social viewing, and remote control.",
+  "contentlength": "12",
+  "pid": "Neate2017",
+  "papertype": "Full paper",
+  "use_cases": "Entertainment",
+  "use_cases_desc": "This review paper focusses solely on the television use cases",
+  "contribution": "Survey",
+  "crossdevice_def": "Related to, but distinct from multi-screen environments, are multi-device systems, which involve computing experiences that span two or more devices. The focus of this article--cross-device media--is a clear manifestation of the latter. The ultimate goal of multi-device computing is in step with Weiser's 1991 vision of ubiquitous computing [86], wherein computers cease to act as single entities, but as one."
+}

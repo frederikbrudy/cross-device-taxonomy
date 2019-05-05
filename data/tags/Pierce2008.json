@@ -1,0 +1,23 @@
+{
+  "user_device_rel": "1 person to n devices",
+  "target_users": "Individual",
+  "pid": "Pierce2008",
+  "focus": "Software",
+  "device_mount": "Placed loosely around user (e.g., table)",
+  "pid_done": "2",
+  "scale": "Near, personal space; Social space",
+  "devices_included": "Any screen device",
+  "use_cases_desc": "Search",
+  "evaluation": "User study (qualitative); Deployment with developers",
+  "contentlength": "9.25",
+  "contribution_desc": "Presents an infrastructure based on instant messaging to add cross-device functionality to applications, allowing developers to provide functionality that spans personal devices without writing code. Presents a set of sample applications built with it and a user study demonstrating that developers can implement all of the cross-device functionality in less than two and a half hours.",
+  "pid_access": 1535249632,
+  "papertype": "Full paper",
+  "tracking_characteristic": "Same space/network",
+  "output_modalities": "Screen output",
+  "interaction_techniques": "UI distribution",
+  "toolkits": "Java; XMPP; .NET Compact",
+  "tracking_tech": "Network",
+  "contribution": "Toolkit, middleware; Study, deployment",
+  "crossdevice_def": "cross-device functionality; multi-device user experiences"
+}

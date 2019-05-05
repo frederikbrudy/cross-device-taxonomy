@@ -1,0 +1,22 @@
+{
+  "user_device_rel": "1 person to n devices",
+  "target_users": "Individual",
+  "pid": "Paay2016",
+  "device_models": "Microsoft Kinect; Samsung Galaxy SII, 65-inch Panasonic screen with 1920x1080 resolution",
+  "device_mount": "Handheld; Mounted to wall",
+  "pid_done": "2",
+  "devices_included": "Phone; Whiteboard, large vertical display",
+  "use_cases_desc": "Cross-device content movement from a handheld device to a larger screen. The use case is not clearly mentioned in the paper, but authors cite public display interaction in their related work.",
+  "evaluation": "User study (quantitative, controlled lab experiment)",
+  "contentlength": "9",
+  "contribution_desc": "The paper contributes results from a comparative study comparing four cross-device interaction techniques (Pinch, Swipe, Throw, and Tilt) for cross-device object movement. Authors are looking at the effectiveness, efficiency, and error size/rate in cross-device content movement from a handheld device (i.e. Samsung Galaxy SII) to a large screen (i.e. 65-inch Panasonic screen with 1920x1080 resolution).",
+  "pid_access": 1536779562,
+  "papertype": "Full paper",
+  "use_cases": "None",
+  "deployment": "Lab study",
+  "interaction_techniques": "Data transfer/sharing",
+  "tracking_characteristic": "Tracking users only; Inside-out tracking; Outside-in tracking",
+  "tracking_tech": "Kinect; IMU",
+  "contribution": "Study, deployment",
+  "crossdevice_def": "The authors don't define cross-device interaction themselves, but they cite Jun Rekimoto as one of the pioneers who was looking into \"multi-computer user interfaces.\" He apparently \"argued that dedicated interaction techniques would be needed to overcome the boundaries among devices in multiple-computer environments.\"\r\n\r\nRekimoto, J. 1998. February. Multiple-Computer User Interfaces: A cooperative environment consisting of multiple digital devices. In International Workshop on Cooperative Buildings (pp. 33-40). Springer Berlin Heidelberg."
+}

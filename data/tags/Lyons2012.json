@@ -1,0 +1,23 @@
+{
+  "user_device_rel": "1 person to n devices",
+  "target_users": "Individual",
+  "pid": "Lyons2012",
+  "device_mount": "Wearable",
+  "pid_done": "2",
+  "scale": "Near, personal space; wearable",
+  "input_modalities": "Touch",
+  "devices_included": "Smart watch",
+  "use_cases_desc": "Wearable multi-display smartwatch.\r\nDifferent variations of functions of a classic smartwatch.",
+  "evaluation": "None",
+  "contentlength": "7",
+  "contribution_desc": "A new concept for a multi-display (multi-segment) smart watch.\r\nTechniques around how to interact, and what content to show. Much about the design, techniques, etc.\r\nIntroduce the concept of: \"multiple wearable displays\"",
+  "pid_access": 1533219189,
+  "papertype": "Full paper",
+  "use_cases": "Custom techniques for the watch, such as expand operation, sliding, swap technique, etc.",
+  "additional_hardware": "Electronics to connect displays",
+  "output_modalities": "Screen output",
+  "tracking_tech": "None",
+  "network_infrastructure": "Wired, directly conencted",
+  "contribution": "System; Hardware design",
+  "crossdevice_def": "Multi-screen or multi-segment example. \r\nThey are wired, so not wireless connectivity, so more like a \"mini multi-monitor setup\""
+}

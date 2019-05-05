@@ -1,0 +1,19 @@
+{
+  "pid_access": 1536779724,
+  "connection_classification": "Local master device",
+  "input_modalities": "Mouse",
+  "contribution_desc": "Describes the a computer augmented environment that allows users to smoothly\r\ninterchange digital information among their portable computers, table and wall displays, and other physical objects. Using an interaction technique called hyperdragging, users can transfer information from one computer to another, by only knowing the physical relationship between them.",
+  "network_infrastructure": "WiFi",
+  "contentlength": "7",
+  "pid": "Rekimoto1999",
+  "pid_done": "2",
+  "tracking_tech": "Fiducials; Camera-based tracking",
+  "tracking_characteristic": "Outside-in tracking",
+  "devices_included": "Laptop; Any screen device; Tablet; Phone; Public display; Whiteboard, large vertical display; Tabletop, large horizontal display",
+  "output_modalities": "Screen output; Projector",
+  "device_mount": "Placed loosely around user (e.g., table)",
+  "contribution": "Tracking technology; Interaction techniques",
+  "papertype": "Full paper",
+  "interaction_techniques": "Data transfer/sharing; Data exploration; UI distribution",
+  "crossdevice_def": "multi-device interaction; multi-computer interaction"
+}

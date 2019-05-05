@@ -1,0 +1,22 @@
+{
+  "user_device_rel": "n people to m devices",
+  "target_users": "Group work",
+  "pid": "Mross2014",
+  "focus": "Software",
+  "pid_done": "2",
+  "scale": "Social space",
+  "devices_included": "Whiteboard, large vertical display; Laptop",
+  "use_cases_desc": "Collaborative presentation, where it is possible to ask questions or add sketches to an ongoing presentation.",
+  "evaluation": "None",
+  "contentlength": "4",
+  "contribution_desc": "A model-based approach for creating web-based multi-device mashups. The proposed infrastructure would make it possible to modify predefined multi-device applications at run-time.",
+  "pid_access": 1535108547,
+  "papertype": "Note",
+  "use_cases": "Knowledge workers",
+  "deployment": "None",
+  "interaction_techniques": "UI distribution; Cross-device task chaining",
+  "connection_classification": "Local master device",
+  "toolkits": "Cordova",
+  "contribution": "System",
+  "crossdevice_def": "\"Regarding the combination of devices, we are following the approach of [2] and use the term multi-device application for denoting such scenarios. They are subject to dynamic variations of their physical execution environment, due to joining and leaving (mobile) devices. Furthermore, integrated application fragments (presentation, application logic, data access or device-specific I/O components) are simultaneously distributed across heterogeneous platforms and are communicating with each other based on a distributed message brokering system.\"\r\n\r\n\"With the term distributed mashup we follow the idea of a virtual and distributed application space [1] in that each device could be regarded as runtime container to execute loose coupled black-box mashup components, which are communicating across device/platform borders using a server-side message brokering system based on the event publish-subscribe paradigm. The physical environment of a distributed mashup is subject to dynamic variations, due to joining and leaving devices. In our approach, we denote the abstraction of the application's physical environment on runtime layer as environment model. It aggregates functional and non-functional properties of registered containers at run time. Moreover, we distinguish between the concept of a global and an application specific environment model. The former includes all devices registered on the runtime layer. The latter is bound to a specific application space and contains only those containers, which were added into the application space explicitly.\""
+}

@@ -1,0 +1,14 @@
+{
+  "pid_access": 1533130297,
+  "pid_done": "2",
+  "contribution_desc": "Mostly about the concept of cross-media use and pathways. Introduces general concepts, and later introduces proof-of-concept.",
+  "contentlength": "7",
+  "pid": "deOliveiraNeto2008",
+  "focus": "Software",
+  "papertype": "Full paper",
+  "devices_included": "Phone; TV; Desktop computer; Laptop; Tablet",
+  "network_infrastructure": "WiFi; Internet",
+  "deployment": "None",
+  "contribution": "Theory; Use-case, application",
+  "crossdevice_def": "Cross-Media definition:\r\n- Crossmedia involves more than one medium\r\n- Crossmedia aims at an integrated production\r\n- Content is delivered on multiple devices: PCs, mobiles, TV, iTV\r\n- More than one medium is needed to support one message/story/goal; \r\n- The common message/story/goal is spread on the different platforms and the supporting interaction can take place in these different platforms."
+}

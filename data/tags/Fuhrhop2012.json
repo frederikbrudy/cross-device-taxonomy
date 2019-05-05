@@ -1,0 +1,21 @@
+{
+  "user_device_rel": "n people to m devices",
+  "target_users": "Expert users",
+  "pid": "Fuhrhop2012",
+  "focus": "Software",
+  "pid_done": "2",
+  "scale": "Location-agnostic",
+  "input_modalities": "Touch; Keyboard; Mouse",
+  "devices_included": "Phone; Tablet; TV; in-car; Laptop; Desktop computer",
+  "evaluation": "None",
+  "contribution_desc": "A short poster giving a brief overview of the current (2012) state of the webinos project (2010-2013). Webinos aims to build \"an application platform featuring web components that can be deployed on mobiles, PC, in-car units and TVs supporting a web runtime, which will support the rapid creation of innovative and secure web applications\".",
+  "pid_access": 1530033932,
+  "papertype": "Poster",
+  "output_modalities": "Screen output",
+  "deployment": "None",
+  "interaction_techniques": "UI distribution",
+  "connection_classification": "Via remote server; P2P",
+  "network_infrastructure": "Internet",
+  "contribution": "Toolkit, middleware",
+  "crossdevice_def": "\"web applications running and utilizing resources across a range of connected devices, interacting seamlessly with each other to contribute to the development of the internet and facilitate users with more attractive, innovative and valuable applications\"\r\n\"enable Web applications and services to be used and shared consistently and securely over a broad spectrum of connected devices, including mobile, PC, home media (TV) and in-car units\""
+}

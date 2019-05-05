@@ -1,0 +1,16 @@
+{
+  "pid_access": 1534780813,
+  "user_device_rel": "1 person to n devices",
+  "pid_done": "2",
+  "toolkits": "C++",
+  "contribution_desc": "This workshop paper presents a prototype system that tracks users and input events for supporting user-aware distributed user interfaces in multi-display environments. This paper discusses the concept and an interface development framework, but it lacks implementation details.\r\n\r\nContribution: \"multi-display environments\" -> \"user-aware interfaces\" -> \"tracking users\" and \"associating users with input events\".",
+  "target_users": "Individual",
+  "pid": "Rusvnak2014",
+  "focus": "Software",
+  "papertype": "Workshop",
+  "devices_included": "Public display; Tabletop, large horizontal display",
+  "deployment": "None",
+  "contribution": "System",
+  "evaluation": "None",
+  "contentlength": "4"
+}

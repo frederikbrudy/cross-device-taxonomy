@@ -1,0 +1,13 @@
+{
+  "pid_access": 1533991652,
+  "pid_done": "2",
+  "contribution_desc": "The paper reports on the results of 293 responses to a survey about device availibility.\r\nThe focus was to gather insights into what devices are available in a certain location or during certain activities (at home (bedroom, sitting room, toilet, cooking in kitchen, eating dinner, having a bath), commute, work) no matter whether they are shared or used by a single person, or whether they are not used anymore at all. ",
+  "contentlength": "6",
+  "pid": "DiGeronimo2016",
+  "focus": "Hardware",
+  "papertype": "Note",
+  "devices_included": "Phone; Tablet; Laptop; e-reader; Smart watch; Desktop computer",
+  "deployment": "Online survey",
+  "contribution": "Survey",
+  "crossdevice_def": "\"Cross-device applications allow one or more users to distribute the interface and functionality of an application across two or more devices. Such applications generally have one of three purposes: a) enabling a user to expand their screen real estate by exploiting additional co-located devices, b) distributing functionality so that one or more devices act as a controller for content on larger displays, and c) supporting synchronous\r\ncollaboration by sharing information among different users' devices or moving information to a shared display.\""
+}

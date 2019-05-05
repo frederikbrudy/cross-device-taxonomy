@@ -1,0 +1,19 @@
+{
+  "pid_access": 1535461218,
+  "user_device_rel": "n people to m devices",
+  "pid_done": "2",
+  "scale": "Location-agnostic",
+  "toolkits": "Javascript; NodeJS; WebdriverIO; Selenium; Mocha",
+  "target_users": "Expert users",
+  "contribution_desc": "A testing library for cross-device applications called XD-Testing",
+  "pid": "Husmann2016a",
+  "contentlength": "9",
+  "use_cases": "Entertainment",
+  "cost": "Open source",
+  "devices_included": "Phone; Tablet; TV; Smart watch",
+  "use_cases_desc": "Cross-device image gallery",
+  "contribution": "Toolkit, middleware; testing library",
+  "evaluation": "Case studies",
+  "crossdevice_def": "applications that make use of and distribute their user interface (UI) across multiple devices; cross-device applications",
+  "deployment": "None"
+}
